@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="3840"
+   height="2160"
+   viewBox="0 0 3840 2160"
+   version="1.1"
+   id="svg10"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <style
+     id="style1">&#10;    rect { stroke: none; fill-opacity: 0.25; }&#10;    text { font-family: Arial, sans-serif; font-size: 10px; fill: black; text-anchor: middle; dominant-baseline: middle; pointer-events: none; }&#10;  </style>
+  <g
+     id="QuitMessageBox.wnd:AutoLabel_1">
+    <rect
+       x="0"
+       y="0"
+       width="3840"
+       height="2160"
+       fill="#9304ba"
+       id="rect1" />
+  </g>
+  <g
+     id="QuitMessageBox.wnd:MessageBoxParent">
+    <rect
+       x="1366.4774699999998"
+       y="229.25500999999997"
+       width="1107.045"
+       height="1197.1953"
+       fill="#ed1caf"
+       id="rect2" />
+    <image
+       href="extracted_images/BlackSquare.png"
+       x="248"
+       y="100"
+       width="307"
+       height="332"
+       id="image2"
+       transform="matrix(3.60601 0 0 3.60601 472.187 -131.346)" />
+  </g>
+  <g
+     id="QuitMessageBox.wnd:StaticTextTitle">
+    <rect
+       x="1373.6895000000002"
+       y="240.07304000000002"
+       width="923.13855"
+       height="115.39232"
+       fill="#0b6b7c"
+       id="rect3" />
+  </g>
+  <g
+     id="QuitMessageBox.wnd:StaticTextMessage">
+    <rect
+       x="1438.5977100000002"
+       y="762.9444699999999"
+       width="951.98663"
+       height="447.14523"
+       fill="#3dfd8b"
+       id="rect4" />
+  </g>
+  <g
+     id="QuitMessageBox.wnd:ButtonNo">
+    <rect
+       x="1709.0484999999999"
+       y="1311.0581"
+       width="320.93488"
+       height="86.544243"
+       fill="#ff7e2d"
+       id="rect5" />
+  </g>
+  <g
+     id="QuitMessageBox.wnd:ButtonYes">
+    <rect
+       x="1391.7195299999998"
+       y="1195.6657"
+       width="317.32889"
+       height="86.544243"
+       fill="#34f9a8"
+       id="rect6" />
+  </g>
+  <g
+     id="QuitMessageBox.wnd:ButtonCancel">
+    <rect
+       x="2120.1335"
+       y="1311.0581"
+       width="324.54089"
+       height="86.544243"
+       fill="#2b16f3"
+       id="rect7" />
+  </g>
+  <g
+     id="QuitMessageBox.wnd:ButtonOk">
+    <rect
+       x="1391.71953"
+       y="1311.0581"
+       width="313.72287"
+       height="86.544243"
+       fill="#d534ca"
+       id="rect8" />
+  </g>
+  <g
+     id="QuitMessageBox.wnd:AutoLabel_2">
+    <rect
+       x="1366.4774699999998"
+       y="355.46533999999997"
+       width="1107.045"
+       height="3.60601"
+       fill="#ca01d4"
+       id="rect9" />
+  </g>
+  <g
+     id="QuitMessageBox.wnd:Logo">
+    <rect
+       x="1409.74962"
+       y="431.1915400000001"
+       width="1038.5309"
+       height="335.35892"
+       fill="#9597ec"
+       id="rect10" />
+    <image
+       href="extracted_images/GeneralsLogo.png"
+       x="260"
+       y="156"
+       width="288"
+       height="93"
+       id="image10"
+       transform="matrix(3.60601 0 0 3.60601 472.187 -131.346)" />
+  </g>
+</svg>

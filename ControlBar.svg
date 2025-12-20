@@ -1,0 +1,316 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    rect { stroke: none; fill-opacity: 0.25; }
+    text { font-family: Arial, sans-serif; font-size: 10px; fill: black; text-anchor: middle; dominant-baseline: middle; pointer-events: none; }
+  </style>
+  <g id="ControlBar.wnd:ControlBarParent">
+    <rect x="0" y="416" width="799" height="183" fill="rgb(13,4,64)" />
+  </g>
+  <g id="ControlBar.wnd:Munkee">
+    <rect x="0" y="414" width="799" height="185" fill="rgb(165,250,181)" />
+    <image href="extracted_images/InGameUIChinaBase.png" x="0" y="414" width="799" height="185" />
+  </g>
+  <g id="ControlBar.wnd:BackgroundMarker">
+    <rect x="8" y="595" width="5" height="5" fill="rgb(72,176,33)" />
+  </g>
+  <g id="ControlBar.wnd:">
+    <rect x="10" y="459" width="789" height="140" fill="rgb(185,170,62)" />
+  </g>
+  <g id="ControlBar.wnd:">
+    <rect x="0" y="421" width="186" height="179" fill="rgb(44,164,249)" />
+  </g>
+  <g id="ControlBar.wnd:">
+    <rect x="614" y="428" width="185" height="171" fill="rgb(148,231,198)" />
+  </g>
+  <g id="ControlBar.wnd:CenterBackground">
+    <rect x="0" y="479" width="799" height="120" fill="rgb(98,241,207)" />
+  </g>
+  <g id="ControlBar.wnd:BeaconWindow">
+    <rect x="198" y="492" width="408" height="100" fill="rgb(48,73,191)" />
+  </g>
+  <g id="ControlBar.wnd:ButtonDeleteBeacon">
+    <rect x="252" y="520" width="56" height="48" fill="rgb(99,185,161)" />
+  </g>
+  <g id="ControlBar.wnd:EditBeaconText">
+    <rect x="312" y="544" width="232" height="25" fill="rgb(188,109,69)" />
+    <image href="extracted_images/TextEntryEnabledLeftEnd.png" x="312" y="544" width="232" height="25" />
+    <image href="extracted_images/TextEntryEnabledRightEnd.png" x="312" y="544" width="232" height="25" />
+    <image href="extracted_images/TextEntryEnabledRepeatingCenter.png" x="312" y="544" width="232" height="25" />
+    <image href="extracted_images/TextEntryEnabledSmallRepeatingCenter.png" x="312" y="544" width="232" height="25" />
+  </g>
+  <g id="ControlBar.wnd:StaticTextBeaconLabel">
+    <rect x="312" y="520" width="285" height="24" fill="rgb(22,225,172)" />
+  </g>
+  <g id="ControlBar.wnd:ButtonClearBeaconText">
+    <rect x="544" y="544" width="56" height="24" fill="rgb(146,191,229)" />
+  </g>
+  <g id="ControlBar.wnd:CommandWindow">
+    <rect x="189" y="492" width="417" height="100" fill="rgb(29,176,102)" />
+  </g>
+  <g id="ControlBar.wnd:ButtonCommand14">
+    <rect x="553" y="545" width="50" height="44" fill="rgb(202,165,63)" />
+  </g>
+  <g id="ControlBar.wnd:ButtonCommand13">
+    <rect x="553" y="494" width="50" height="44" fill="rgb(247,155,230)" />
+  </g>
+  <g id="ControlBar.wnd:ButtonCommand12">
+    <rect x="498" y="545" width="50" height="44" fill="rgb(174,106,38)" />
+  </g>
+  <g id="ControlBar.wnd:ButtonCommand11">
+    <rect x="498" y="494" width="50" height="44" fill="rgb(152,63,31)" />
+  </g>
+  <g id="ControlBar.wnd:ButtonCommand10">
+    <rect x="443" y="545" width="50" height="44" fill="rgb(193,158,211)" />
+  </g>
+  <g id="ControlBar.wnd:ButtonCommand09">
+    <rect x="443" y="494" width="50" height="44" fill="rgb(254,62,181)" />
+  </g>
+  <g id="ControlBar.wnd:ButtonCommand08">
+    <rect x="388" y="545" width="50" height="44" fill="rgb(227,132,244)" />
+  </g>
+  <g id="ControlBar.wnd:ButtonCommand07">
+    <rect x="388" y="494" width="50" height="44" fill="rgb(152,58,85)" />
+  </g>
+  <g id="ControlBar.wnd:ButtonCommand06">
+    <rect x="333" y="545" width="50" height="44" fill="rgb(87,114,182)" />
+  </g>
+  <g id="ControlBar.wnd:ButtonCommand05">
+    <rect x="333" y="494" width="50" height="44" fill="rgb(35,225,59)" />
+  </g>
+  <g id="ControlBar.wnd:ButtonCommand04">
+    <rect x="278" y="545" width="50" height="44" fill="rgb(208,136,19)" />
+  </g>
+  <g id="ControlBar.wnd:ButtonCommand03">
+    <rect x="278" y="494" width="50" height="44" fill="rgb(40,246,180)" />
+  </g>
+  <g id="ControlBar.wnd:ButtonCommand02">
+    <rect x="223" y="545" width="50" height="44" fill="rgb(0,43,169)" />
+  </g>
+  <g id="ControlBar.wnd:ButtonCommand01">
+    <rect x="223" y="494" width="50" height="44" fill="rgb(172,97,149)" />
+  </g>
+  <g id="ControlBar.wnd:UnderConstructionWindow">
+    <rect x="198" y="492" width="408" height="100" fill="rgb(203,218,245)" />
+  </g>
+  <g id="ControlBar.wnd:ButtonCancelConstruction">
+    <rect x="259" y="519" width="56" height="48" fill="rgb(33,47,0)" />
+  </g>
+  <g id="ControlBar.wnd:UnderConstructionDesc">
+    <rect x="323" y="519" width="276" height="48" fill="rgb(242,102,4)" />
+  </g>
+  <g id="ControlBar.wnd:ObserverPlayerInfoWindow">
+    <rect x="190" y="492" width="416" height="100" fill="rgb(179,102,159)" />
+  </g>
+  <g id="ControlBar.wnd:WinGeneralPortrait">
+    <rect x="260" y="496" width="108" height="96" fill="rgb(88,124,34)" />
+    <image href="extracted_images/BlackSquare.png" x="260" y="496" width="108" height="96" />
+  </g>
+  <g id="ControlBar.wnd:WinFlag">
+    <rect x="320" y="496" width="160" height="96" fill="rgb(163,176,204)" />
+    <image href="extracted_images/BlackSquare.png" x="320" y="496" width="160" height="96" />
+  </g>
+  <g id="ControlBar.wnd:ButtonCancel">
+    <rect x="532" y="567" width="66" height="23" fill="rgb(225,131,104)" />
+  </g>
+  <g id="ControlBar.wnd:StaticTextObsBuildings">
+    <rect x="307" y="528" width="91" height="32" fill="rgb(64,131,62)" />
+  </g>
+  <g id="ControlBar.wnd:StaticTextObsUnits">
+    <rect x="239" y="528" width="70" height="32" fill="rgb(35,129,86)" />
+  </g>
+  <g id="ControlBar.wnd:StaticTextObsUnitsLost">
+    <rect x="480" y="528" width="68" height="32" fill="rgb(122,153,90)" />
+  </g>
+  <g id="ControlBar.wnd:StaticTextObsUnitsKilled">
+    <rect x="402" y="528" width="85" height="32" fill="rgb(145,2,199)" />
+  </g>
+  <g id="ControlBar.wnd:StaticTextPlayerName">
+    <rect x="244" y="492" width="314" height="36" fill="rgb(28,85,140)" />
+  </g>
+  <g id="ControlBar.wnd:StaticTextNumberOfUnitsLost">
+    <rect x="480" y="560" width="68" height="28" fill="rgb(64,251,1)" />
+  </g>
+  <g id="ControlBar.wnd:StaticTextNumberOfUnitsKilled">
+    <rect x="404" y="560" width="76" height="28" fill="rgb(180,199,218)" />
+  </g>
+  <g id="ControlBar.wnd:StaticTextNumberOfBuildings">
+    <rect x="313" y="560" width="80" height="28" fill="rgb(51,26,60)" />
+  </g>
+  <g id="ControlBar.wnd:StaticTextNumberOfUnits">
+    <rect x="243" y="560" width="60" height="28" fill="rgb(141,223,71)" />
+  </g>
+  <g id="ControlBar.wnd:ObserverPlayerListWindow">
+    <rect x="198" y="492" width="408" height="100" fill="rgb(201,127,181)" />
+  </g>
+  <g id="ControlBar.wnd:ButtonPlayer7">
+    <rect x="426" y="568" width="20" height="20" fill="rgb(230,31,219)" />
+    <image href="extracted_images/SSObserverUSA.png" x="426" y="568" width="20" height="20" />
+  </g>
+  <g id="ControlBar.wnd:ButtonPlayer6">
+    <rect x="426" y="544" width="20" height="20" fill="rgb(223,243,181)" />
+    <image href="extracted_images/SSObserverUSA.png" x="426" y="544" width="20" height="20" />
+  </g>
+  <g id="ControlBar.wnd:ButtonPlayer5">
+    <rect x="426" y="520" width="20" height="20" fill="rgb(142,93,220)" />
+    <image href="extracted_images/SSObserverUSA.png" x="426" y="520" width="20" height="20" />
+  </g>
+  <g id="ControlBar.wnd:ButtonPlayer4">
+    <rect x="426" y="496" width="20" height="20" fill="rgb(98,97,105)" />
+    <image href="extracted_images/SSObserverUSA.png" x="426" y="496" width="20" height="20" />
+  </g>
+  <g id="ControlBar.wnd:ButtonPlayer3">
+    <rect x="242" y="568" width="20" height="20" fill="rgb(240,82,27)" />
+    <image href="extracted_images/SSObserverUSA.png" x="242" y="568" width="20" height="20" />
+  </g>
+  <g id="ControlBar.wnd:ButtonPlayer2">
+    <rect x="242" y="544" width="20" height="20" fill="rgb(96,72,73)" />
+    <image href="extracted_images/SSObserverUSA.png" x="242" y="544" width="20" height="20" />
+  </g>
+  <g id="ControlBar.wnd:ButtonPlayer1">
+    <rect x="242" y="520" width="20" height="20" fill="rgb(19,210,44)" />
+    <image href="extracted_images/SSObserverUSA.png" x="242" y="520" width="20" height="20" />
+  </g>
+  <g id="ControlBar.wnd:ButtonPlayer0">
+    <rect x="242" y="496" width="20" height="20" fill="rgb(37,104,254)" />
+    <image href="extracted_images/SSObserverUSA.png" x="242" y="496" width="20" height="20" />
+  </g>
+  <g id="ControlBar.wnd:StaticTextPlayer7">
+    <rect x="448" y="566" width="154" height="26" fill="rgb(223,68,74)" />
+  </g>
+  <g id="ControlBar.wnd:StaticTextPlayer6">
+    <rect x="448" y="542" width="154" height="26" fill="rgb(146,198,37)" />
+  </g>
+  <g id="ControlBar.wnd:StaticTextPlayer5">
+    <rect x="448" y="518" width="154" height="26" fill="rgb(197,41,221)" />
+  </g>
+  <g id="ControlBar.wnd:StaticTextPlayer4">
+    <rect x="448" y="494" width="154" height="26" fill="rgb(246,158,80)" />
+  </g>
+  <g id="ControlBar.wnd:StaticTextPlayer3">
+    <rect x="264" y="566" width="158" height="26" fill="rgb(97,184,166)" />
+  </g>
+  <g id="ControlBar.wnd:StaticTextPlayer2">
+    <rect x="264" y="544" width="158" height="24" fill="rgb(17,103,64)" />
+  </g>
+  <g id="ControlBar.wnd:StaticTextPlayer1">
+    <rect x="264" y="518" width="158" height="26" fill="rgb(234,215,237)" />
+  </g>
+  <g id="ControlBar.wnd:StaticTextPlayer0">
+    <rect x="264" y="494" width="158" height="28" fill="rgb(253,157,217)" />
+  </g>
+  <g id="ControlBar.wnd:OCLTimerWindow">
+    <rect x="200" y="491" width="408" height="100" fill="rgb(172,101,1)" />
+  </g>
+  <g id="ControlBar.wnd:OCLTimerSellButton">
+    <rect x="546" y="539" width="56" height="48" fill="rgb(74,208,229)" />
+  </g>
+  <g id="ControlBar.wnd:OCLTimerProgressBar">
+    <rect x="248" y="516" width="292" height="56" fill="rgb(106,207,212)" />
+  </g>
+  <g id="ControlBar.wnd:OCLTimerStaticText">
+    <rect x="256" y="524" width="276" height="40" fill="rgb(68,138,192)" />
+  </g>
+  <g id="ControlBar.wnd:LeftHUD">
+    <rect x="7" y="443" width="167" height="152" fill="rgb(83,88,221)" />
+  </g>
+  <g id="ControlBar.wnd:GeneralsExp">
+    <rect x="769" y="503" width="13" height="87" fill="rgb(12,104,59)" />
+  </g>
+  <g id="ControlBar.wnd:ExpBarForeground">
+    <rect x="766" y="484" width="21" height="107" fill="rgb(184,139,1)" />
+    <image href="extracted_images/SNExpBar.png" x="766" y="484" width="21" height="107" />
+  </g>
+  <g id="ControlBar.wnd:RightHUD">
+    <rect x="621" y="483" width="139" height="109" fill="rgb(71,130,161)" />
+  </g>
+  <g id="ControlBar.wnd:ProductionQueueWindow">
+    <rect x="621" y="483" width="141" height="109" fill="rgb(229,171,68)" />
+  </g>
+  <g id="ControlBar.wnd:ButtonQueue09">
+    <rect x="715" y="555" width="46" height="36" fill="rgb(147,253,112)" />
+  </g>
+  <g id="ControlBar.wnd:ButtonQueue08">
+    <rect x="668" y="555" width="45" height="36" fill="rgb(15,96,76)" />
+  </g>
+  <g id="ControlBar.wnd:ButtonQueue07">
+    <rect x="622" y="555" width="44" height="36" fill="rgb(238,174,205)" />
+  </g>
+  <g id="ControlBar.wnd:ButtonQueue06">
+    <rect x="715" y="519" width="46" height="34" fill="rgb(160,219,6)" />
+  </g>
+  <g id="ControlBar.wnd:ButtonQueue05">
+    <rect x="668" y="519" width="45" height="34" fill="rgb(176,197,142)" />
+  </g>
+  <g id="ControlBar.wnd:ButtonQueue04">
+    <rect x="622" y="519" width="44" height="34" fill="rgb(239,60,21)" />
+  </g>
+  <g id="ControlBar.wnd:ButtonQueue03">
+    <rect x="715" y="484" width="46" height="33" fill="rgb(186,44,247)" />
+  </g>
+  <g id="ControlBar.wnd:ButtonQueue02">
+    <rect x="668" y="484" width="45" height="33" fill="rgb(111,75,138)" />
+  </g>
+  <g id="ControlBar.wnd:ButtonQueue01">
+    <rect x="622" y="484" width="44" height="33" fill="rgb(253,74,183)" />
+  </g>
+  <g id="ControlBar.wnd:WinUnitSelected">
+    <rect x="621" y="483" width="141" height="109" fill="rgb(16,253,221)" />
+  </g>
+  <g id="ControlBar.wnd:CameoWindow">
+    <rect x="622" y="484" width="91" height="69" fill="rgb(205,40,7)" />
+  </g>
+  <g id="ControlBar.wnd:UnitUpgrade1">
+    <rect x="715" y="484" width="46" height="33" fill="rgb(54,73,131)" />
+  </g>
+  <g id="ControlBar.wnd:UnitUpgrade2">
+    <rect x="715" y="519" width="46" height="34" fill="rgb(215,61,3)" />
+  </g>
+  <g id="ControlBar.wnd:UnitUpgrade3">
+    <rect x="715" y="555" width="46" height="36" fill="rgb(233,121,175)" />
+  </g>
+  <g id="ControlBar.wnd:UnitUpgrade4">
+    <rect x="668" y="555" width="45" height="36" fill="rgb(89,130,121)" />
+  </g>
+  <g id="ControlBar.wnd:UnitUpgrade5">
+    <rect x="622" y="555" width="44" height="36" fill="rgb(212,120,227)" />
+  </g>
+  <g id="ControlBar.wnd:ButtonIdleWorker">
+    <rect x="192" y="519" width="30" height="22" fill="rgb(180,221,218)" />
+  </g>
+  <g id="ControlBar.wnd:ButtonPlaceBeacon">
+    <rect x="192" y="543" width="30" height="22" fill="rgb(126,203,102)" />
+  </g>
+  <g id="ControlBar.wnd:PopupCommunicator">
+    <rect x="192" y="567" width="30" height="22" fill="rgb(91,68,222)" />
+  </g>
+  <g id="ControlBar.wnd:ButtonOptions">
+    <rect x="192" y="495" width="30" height="22" fill="rgb(179,62,73)" />
+  </g>
+  <g id="ControlBar.wnd:ForegroundMarker">
+    <rect x="0" y="595" width="5" height="5" fill="rgb(133,64,247)" />
+  </g>
+  <g id="ControlBar.wnd:ButtonGeneral">
+    <rect x="736" y="433" width="56" height="41" fill="rgb(35,155,124)" />
+  </g>
+  <g id="ControlBar.wnd:MoneyDisplay">
+    <rect x="360" y="437" width="79" height="19" fill="rgb(100,6,63)" />
+  </g>
+  <g id="ControlBar.wnd:PowerWindow">
+    <rect x="261" y="473" width="283" height="7" fill="rgb(138,248,206)" />
+  </g>
+  <g id="ControlBar.wnd:ButtonSmall">
+    <rect x="592" y="436" width="31" height="21" fill="rgb(131,254,244)" />
+  </g>
+  <g id="ControlBar.wnd:ButtonLarge">
+    <rect x="666" y="445" width="48" height="28" fill="rgb(226,151,160)" />
+  </g>
+  <g id="ControlBar.wnd:ButtonMedium">
+    <rect x="625" y="439" width="31" height="21" fill="rgb(204,86,160)" />
+  </g>
+  <g id="ControlBar.wnd:WinUAttack">
+    <rect x="77" y="416" width="45" height="45" fill="rgb(105,66,54)" />
+  </g>
+  <g id="ControlBar.wnd:OnTopDraw">
+    <rect x="3" y="593" width="31" height="7" fill="rgb(82,96,218)" />
+  </g>
+</svg>

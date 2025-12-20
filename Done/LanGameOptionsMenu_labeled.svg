@@ -1,0 +1,918 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="3840"
+   height="2160"
+   viewBox="0 0 3840 2160"
+   version="1.1"
+   id="svg81"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs81" />
+  <style
+     id="style1">&#10;    rect { stroke: none; fill-opacity: 0.25; }&#10;    text { font-family: Arial, sans-serif; font-size: 10px; fill: black; text-anchor: middle; dominant-baseline: middle; pointer-events: none; }&#10;  </style>
+  <g
+     id="LanGameOptionsMenu.wnd:LanGameOptionsMenuParent">
+    <rect
+       x="0"
+       y="0"
+       width="3840"
+       height="2160"
+       fill="#e94a5a"
+       id="rect1" />
+    <image
+       href="mainmenuruleruserinterface_cropped.png"
+       x="0"
+       y="0"
+       width="3840"
+       height="2160"
+       id="image1" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:GadgetParent"
+     style="display:inline">
+    <rect
+       x="201"
+       y="160"
+       width="3434"
+       height="1844"
+       fill="#a35c68"
+       id="rect2" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ButtonEmote">
+    <rect
+       x="3414.0546670900003"
+       y="1712.324420278"
+       width="105.0000155406"
+       height="70.00001278690499"
+       fill="#33810a"
+       id="rect3" />
+    <image
+       href="extracted_images/ReturnButton.png"
+       x="3196.8748"
+       y="1746.1268"
+       width="129.81636"
+       height="86.544243"
+       id="image3"
+       transform="matrix(0.808835 0 0 0.808835 828.31 299.996)" />
+    <image
+       href="extracted_images/ReturnButtonHilitePushed.png"
+       x="3196.8748"
+       y="1746.1268"
+       width="129.81636"
+       height="86.544243"
+       id="image4"
+       transform="matrix(0.808835 0 0 0.808835 828.31 299.996)" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ButtonStart">
+    <rect
+       x="447.17789"
+       y="1824.3289"
+       width="627.44574"
+       height="129.81636"
+       fill="#c78a2f"
+       id="rect4" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:TextEntryChat">
+    <rect
+       x="447.1767995009998"
+       y="1712.3229409529"
+       width="2946.8831540999995"
+       height="69.999958599693"
+       fill="#113bbc"
+       id="rect5" />
+    <image
+       href="extracted_images/TextEntryEnabledLeftEnd.png"
+       x="78"
+       y="486"
+       width="588"
+       height="25"
+       id="image5"
+       transform="matrix(5.0117 0 0 2.8 56.2637 351.524)" />
+    <image
+       href="extracted_images/TextEntryEnabledRightEnd.png"
+       x="78"
+       y="486"
+       width="588"
+       height="25"
+       id="image6"
+       transform="matrix(5.0117 0 0 2.8 56.2637 351.524)" />
+    <image
+       href="extracted_images/TextEntryEnabledRepeatingCenter.png"
+       x="78"
+       y="486"
+       width="588"
+       height="25"
+       id="image7"
+       transform="matrix(5.0117 0 0 2.8 56.2637 351.524)" />
+    <image
+       href="extracted_images/TextEntryEnabledSmallRepeatingCenter.png"
+       x="78"
+       y="486"
+       width="588"
+       height="25"
+       id="image8"
+       transform="matrix(5.0117 0 0 2.8 56.2637 351.524)" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ListboxChatWindowLanGame">
+    <rect
+       x="447.1760755869998"
+       y="1272.5876"
+       width="2946.85800517"
+       height="421.90317"
+       fill="#cf3cae"
+       id="rect8" />
+    <image
+       href="extracted_images/BlackSquare.png"
+       x="501.26862"
+       y="1302.5876"
+       width="2674.5645"
+       height="421.90317"
+       id="image9"
+       transform="matrix(1.10181 0 0 1 -105.126 -30)" />
+    <image
+       href="extracted_images/ListBoxHiliteItemLeftEnd.png"
+       x="501.26862"
+       y="1302.5876"
+       width="2674.5645"
+       height="421.90317"
+       id="image10"
+       transform="matrix(1.10181 0 0 1 -105.126 -30)" />
+    <image
+       href="extracted_images/ListBoxHiliteItemRightEnd.png"
+       x="501.26862"
+       y="1302.5876"
+       width="2674.5645"
+       height="421.90317"
+       id="image11"
+       transform="matrix(1.10181 0 0 1 -105.126 -30)" />
+    <image
+       href="extracted_images/ListBoxHiliteItemRepeatingCenter.png"
+       x="501.26862"
+       y="1302.5876"
+       width="2674.5645"
+       height="421.90317"
+       id="image12"
+       transform="matrix(1.10181 0 0 1 -105.126 -30)" />
+    <image
+       href="extracted_images/ListBoxHiliteItemSmallRepeatingCenter.png"
+       x="501.26862"
+       y="1302.5876"
+       width="2674.5645"
+       height="421.90317"
+       id="image13"
+       transform="matrix(1.10181 0 0 1 -105.126 -30)" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:CheckboxLimitSuperweapons">
+    <rect
+       x="2827.9099"
+       y="1144.5743"
+       width="548.11353"
+       height="86.544243"
+       fill="#081cb5"
+       id="rect13" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:AutoLabel_1">
+    <rect
+       x="399.17999"
+       y="1144.5748039405"
+       width="400.26712"
+       height="70.00001278690499"
+       fill="#656d0b"
+       id="rect14" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ComboBoxStartingCash">
+    <rect
+       x="800.5679800000001"
+       y="1144.5748039405"
+       width="375.02505"
+       height="70.00001278690499"
+       fill="#9affa2"
+       id="rect15" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ButtonBack">
+    <rect
+       x="2777.4208"
+       y="1820.7013"
+       width="616.62769"
+       height="129.81636"
+       fill="#70a713"
+       id="rect16" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ButtonSelectMap">
+    <rect
+       x="2809.8811068747996"
+       y="992.8046899999999"
+       width="584.1738027313401"
+       height="93.756264"
+       fill="#16e3cd"
+       id="rect17" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:TextEntryMapDisplay">
+    <rect
+       x="2736.8433"
+       y="916.01611"
+       width="730.48676"
+       height="89.999992"
+       fill="#9cc433"
+       id="rect18" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:StaticTextMapPreview">
+    <rect
+       x="2802.6677"
+       y="320.60101"
+       width="591.38562"
+       height="86.544243"
+       fill="#45d6f1"
+       id="rect19" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:StaticTextTeam">
+    <rect
+       x="2423.3689"
+       y="320.60101"
+       width="288.4808"
+       height="86.544243"
+       fill="#cc0429"
+       id="rect20" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:MapWindow">
+    <rect
+       x="2809.8799"
+       y="417.96326"
+       width="584.17365"
+       height="512.05341"
+       fill="#2fad93"
+       id="rect21" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ButtonMapStartPosition0">
+    <rect
+       x="2813.4858"
+       y="432.3873"
+       width="57.696159"
+       height="61.30217"
+       fill="#271aad"
+       id="rect22" />
+    <image
+       href="extracted_images/PlayerStart.png"
+       x="580"
+       y="131"
+       width="16"
+       height="17"
+       id="image22"
+       transform="matrix(3.60601 0 0 3.60601 722 -40)" />
+    <image
+       href="extracted_images/PlayerStartHilitePushed.png"
+       x="580"
+       y="131"
+       width="16"
+       height="17"
+       id="image23"
+       transform="matrix(3.60601 0 0 3.60601 722 -40)" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ButtonMapStartPosition1">
+    <rect
+       x="2809.8799"
+       y="500.9014899999999"
+       width="57.696159"
+       height="61.30217"
+       fill="#c254e0"
+       id="rect23" />
+    <image
+       href="extracted_images/PlayerStart.png"
+       x="579"
+       y="150"
+       width="16"
+       height="17"
+       id="image24"
+       transform="matrix(3.60601 0 0 3.60601 722 -40)" />
+    <image
+       href="extracted_images/PlayerStartHilitePushed.png"
+       x="579"
+       y="150"
+       width="16"
+       height="17"
+       id="image25"
+       transform="matrix(3.60601 0 0 3.60601 722 -40)" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ButtonMapStartPosition2">
+    <rect
+       x="2838.7278"
+       y="529.74957"
+       width="57.696159"
+       height="61.30217"
+       fill="#ba82b5"
+       id="rect25" />
+    <image
+       href="extracted_images/PlayerStart.png"
+       x="587"
+       y="158"
+       width="16"
+       height="17"
+       id="image26"
+       transform="matrix(3.60601 0 0 3.60601 722 -40)" />
+    <image
+       href="extracted_images/PlayerStartHilitePushed.png"
+       x="587"
+       y="158"
+       width="16"
+       height="17"
+       id="image27"
+       transform="matrix(3.60601 0 0 3.60601 722 -40)" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ButtonMapStartPosition3">
+    <rect
+       x="2867.5759"
+       y="558.59766"
+       width="57.696159"
+       height="61.30217"
+       fill="#0f1ccb"
+       id="rect27" />
+    <image
+       href="extracted_images/PlayerStart.png"
+       x="595"
+       y="166"
+       width="16"
+       height="17"
+       id="image28"
+       transform="matrix(3.60601 0 0 3.60601 722 -40)" />
+    <image
+       href="extracted_images/PlayerStartHilitePushed.png"
+       x="595"
+       y="166"
+       width="16"
+       height="17"
+       id="image29"
+       transform="matrix(3.60601 0 0 3.60601 722 -40)" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ButtonMapStartPosition4">
+    <rect
+       x="2896.4241"
+       y="587.44574"
+       width="57.696159"
+       height="61.30217"
+       fill="#1806bc"
+       id="rect29" />
+    <image
+       href="extracted_images/PlayerStart.png"
+       x="603"
+       y="174"
+       width="16"
+       height="17"
+       id="image30"
+       transform="matrix(3.60601 0 0 3.60601 722 -40)" />
+    <image
+       href="extracted_images/PlayerStartHilitePushed.png"
+       x="603"
+       y="174"
+       width="16"
+       height="17"
+       id="image31"
+       transform="matrix(3.60601 0 0 3.60601 722 -40)" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ButtonMapStartPosition5">
+    <rect
+       x="2925.2722"
+       y="616.29382"
+       width="57.696159"
+       height="61.30217"
+       fill="#38a121"
+       id="rect31" />
+    <image
+       href="extracted_images/PlayerStart.png"
+       x="611"
+       y="182"
+       width="16"
+       height="17"
+       id="image32"
+       transform="matrix(3.60601 0 0 3.60601 722 -40)" />
+    <image
+       href="extracted_images/PlayerStartHilitePushed.png"
+       x="611"
+       y="182"
+       width="16"
+       height="17"
+       id="image33"
+       transform="matrix(3.60601 0 0 3.60601 722 -40)" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ButtonMapStartPosition6">
+    <rect
+       x="2954.1201"
+       y="645.14191"
+       width="57.696159"
+       height="61.30217"
+       fill="#c33b94"
+       id="rect33" />
+    <image
+       href="extracted_images/PlayerStart.png"
+       x="619"
+       y="190"
+       width="16"
+       height="17"
+       id="image34"
+       transform="matrix(3.60601 0 0 3.60601 722 -40)" />
+    <image
+       href="extracted_images/PlayerStartHilitePushed.png"
+       x="619"
+       y="190"
+       width="16"
+       height="17"
+       id="image35"
+       transform="matrix(3.60601 0 0 3.60601 722 -40)" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ButtonMapStartPosition7">
+    <rect
+       x="2982.9683"
+       y="673.98999"
+       width="57.696159"
+       height="61.30217"
+       fill="#76a6b3"
+       id="rect35" />
+    <image
+       href="extracted_images/PlayerStart.png"
+       x="627"
+       y="198"
+       width="16"
+       height="17"
+       id="image36"
+       transform="matrix(3.60601 0 0 3.60601 722 -40)" />
+    <image
+       href="extracted_images/PlayerStartHilitePushed.png"
+       x="627"
+       y="198"
+       width="16"
+       height="17"
+       id="image37"
+       transform="matrix(3.60601 0 0 3.60601 722 -40)" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ComboBoxTeam7">
+    <rect
+       x="2430.5811"
+       y="1016.5609999999999"
+       width="274.05676"
+       height="70.000015"
+       fill="#be288e"
+       id="rect37" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ComboBoxTeam6">
+    <rect
+       x="2430.5811"
+       y="930.01709"
+       width="274.05676"
+       height="70.000015"
+       fill="#47903b"
+       id="rect38" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ComboBoxTeam5">
+    <rect
+       x="2430.5811"
+       y="843.47211"
+       width="274.05676"
+       height="70.000015"
+       fill="#6246e5"
+       id="rect39" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ComboBoxTeam4">
+    <rect
+       x="2430.5811"
+       y="756.9281"
+       width="274.05676"
+       height="70.000015"
+       fill="#0bca20"
+       id="rect40" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ComboBoxTeam3">
+    <rect
+       x="2430.5811"
+       y="670.38409"
+       width="274.05676"
+       height="70.000015"
+       fill="#9995c2"
+       id="rect41" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ComboBoxTeam2">
+    <rect
+       x="2430.5811"
+       y="583.84003"
+       width="274.05676"
+       height="70.000015"
+       fill="#c14386"
+       id="rect42" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ComboBoxTeam1">
+    <rect
+       x="2430.5811"
+       y="497.29602000000006"
+       width="274.05676"
+       height="70.000015"
+       fill="#95b501"
+       id="rect43" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ComboBoxTeam0">
+    <rect
+       x="2430.5811"
+       y="410.75134"
+       width="274.05676"
+       height="70.000015"
+       fill="#73b5ce"
+       id="rect44" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:StaticTextFaction">
+    <rect
+       x="1583.833"
+       y="320.60101"
+       width="389.44907"
+       height="86.544243"
+       fill="#fab795"
+       id="rect45" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ComboBoxPlayerTemplate7">
+    <rect
+       x="1544.166"
+       y="1016.5609999999999"
+       width="858.81244"
+       height="70.000015"
+       fill="#999baf"
+       id="rect46" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ComboBoxPlayerTemplate6">
+    <rect
+       x="1544.166"
+       y="930.01709"
+       width="858.81244"
+       height="70.000015"
+       fill="#8fdc1b"
+       id="rect47" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ComboBoxPlayerTemplate5">
+    <rect
+       x="1544.166"
+       y="843.47211"
+       width="858.81244"
+       height="70.000015"
+       fill="#1ca9f2"
+       id="rect48" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ComboBoxPlayerTemplate4">
+    <rect
+       x="1544.166"
+       y="756.9281"
+       width="858.81244"
+       height="70.000015"
+       fill="#6dc8a9"
+       id="rect49" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ComboBoxPlayerTemplate3">
+    <rect
+       x="1544.166"
+       y="670.38409"
+       width="858.81244"
+       height="70.000015"
+       fill="#387f5d"
+       id="rect50" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ComboBoxPlayerTemplate2">
+    <rect
+       x="1544.166"
+       y="583.84003"
+       width="858.81244"
+       height="70.000015"
+       fill="#68c33e"
+       id="rect51" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ComboBoxPlayerTemplate1">
+    <rect
+       x="1544.166"
+       y="497.29602000000006"
+       width="858.81244"
+       height="70.000015"
+       fill="#fc7d8a"
+       id="rect52" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ComboBoxPlayerTemplate0">
+    <rect
+       x="1544.166"
+       y="410.75134"
+       width="858.81244"
+       height="70.000015"
+       fill="#51b4b4"
+       id="rect53" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:StaticTextColor">
+    <rect
+       x="1217.2621"
+       y="320.60101"
+       width="288.4808"
+       height="86.544243"
+       fill="#3e2c57"
+       id="rect54" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ComboBoxColor7">
+    <rect
+       x="1210.05"
+       y="1016.5609999999999"
+       width="302.90485"
+       height="70.000015"
+       fill="#22fe05"
+       id="rect55" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ComboBoxColor6">
+    <rect
+       x="1210.05"
+       y="930.01709"
+       width="302.90485"
+       height="70.000015"
+       fill="#d1c04d"
+       id="rect56" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ComboBoxColor5">
+    <rect
+       x="1210.05"
+       y="843.47211"
+       width="302.90485"
+       height="70.000015"
+       fill="#80a697"
+       id="rect57" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ComboBoxColor4">
+    <rect
+       x="1210.05"
+       y="756.9281"
+       width="302.90485"
+       height="70.000015"
+       fill="#8092a6"
+       id="rect58" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ComboBoxColor3">
+    <rect
+       x="1210.05"
+       y="670.38409"
+       width="302.90485"
+       height="70.000015"
+       fill="#9e9f60"
+       id="rect59" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ComboBoxColor2">
+    <rect
+       x="1210.05"
+       y="583.84003"
+       width="302.90485"
+       height="70.000015"
+       fill="#66bae4"
+       id="rect60" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ComboBoxColor1">
+    <rect
+       x="1210.05"
+       y="497.29602000000006"
+       width="302.90485"
+       height="70.000015"
+       fill="#eb8ea8"
+       id="rect61" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ComboBoxColor0">
+    <rect
+       x="1210.05"
+       y="410.75134"
+       width="302.90485"
+       height="70.000015"
+       fill="#f3b137"
+       id="rect62" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:StaticTextPlayers">
+    <rect
+       x="447.17862"
+       y="320.60101"
+       width="432.72119"
+       height="86.544243"
+       fill="#b4c77d"
+       id="rect63" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ComboBoxPlayer7">
+    <rect
+       x="447.17908000000006"
+       y="1016.5609999999999"
+       width="728.41394"
+       height="70.000015"
+       fill="#b57146"
+       id="rect64" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ComboBoxPlayer6">
+    <rect
+       x="447.17908000000006"
+       y="930.01709"
+       width="728.41394"
+       height="70.000015"
+       fill="#c96642"
+       id="rect65" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ComboBoxPlayer5">
+    <rect
+       x="447.17908000000006"
+       y="843.47211"
+       width="728.41394"
+       height="70.000015"
+       fill="#b83a8a"
+       id="rect66" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ComboBoxPlayer4">
+    <rect
+       x="447.17908000000006"
+       y="756.9281"
+       width="728.41394"
+       height="70.000015"
+       fill="#9b2136"
+       id="rect67" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ComboBoxPlayer3">
+    <rect
+       x="447.17908000000006"
+       y="673.24707"
+       width="728.41394"
+       height="70.000015"
+       fill="#b3e765"
+       id="rect68" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ComboBoxPlayer2">
+    <rect
+       x="447.17908000000006"
+       y="584.90002"
+       width="728.41394"
+       height="70.000015"
+       fill="#180049"
+       id="rect69" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ComboBoxPlayer1">
+    <rect
+       x="447.17908000000006"
+       y="498.35602"
+       width="728.41394"
+       height="70.000015"
+       fill="#ee972d"
+       id="rect70" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ComboBoxPlayer0">
+    <rect
+       x="447.17908000000006"
+       y="410.75134"
+       width="728.41394"
+       height="70.000015"
+       fill="#b5f04f"
+       id="rect71" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ButtonAccept0">
+    <rect
+       x="382.27045"
+       y="416.90317"
+       width="57.696159"
+       height="57.696159"
+       fill="#2ca880"
+       id="rect72" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ButtonAccept1">
+    <rect
+       x="382.27045"
+       y="504.5075100000001"
+       width="57.696159"
+       height="57.696159"
+       fill="#b8e114"
+       id="rect73" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ButtonAccept2">
+    <rect
+       x="382.27045"
+       y="591.05176"
+       width="57.696159"
+       height="57.696159"
+       fill="#516372"
+       id="rect74" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ButtonAccept3">
+    <rect
+       x="382.27045"
+       y="679.39899"
+       width="57.696159"
+       height="57.696159"
+       fill="#694afe"
+       id="rect75" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ButtonAccept4">
+    <rect
+       x="382.27045"
+       y="763.08014"
+       width="57.696159"
+       height="57.696159"
+       fill="#cbb6a9"
+       id="rect76" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ButtonAccept5">
+    <rect
+       x="382.27045"
+       y="849.62439"
+       width="57.696159"
+       height="57.696159"
+       fill="#b377f3"
+       id="rect77" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ButtonAccept6">
+    <rect
+       x="382.27045"
+       y="936.16858"
+       width="57.696159"
+       height="57.696159"
+       fill="#9e1da2"
+       id="rect78" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:ButtonAccept7">
+    <rect
+       x="382.27045"
+       y="1022.7129"
+       width="57.696159"
+       height="57.696159"
+       fill="#d94c38"
+       id="rect79" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:LINE">
+    <rect
+       x="42"
+       y="93"
+       width="716"
+       height="0"
+       fill="#fae7aa"
+       id="rect80" />
+  </g>
+  <g
+     id="LanGameOptionsMenu.wnd:StaticTextTitle">
+    <rect
+       x="393.08847999999995"
+       y="165.87646"
+       width="977.22871"
+       height="144.2404"
+       fill="#33fcdc"
+       id="rect81" />
+  </g>
+</svg>

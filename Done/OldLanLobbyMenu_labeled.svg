@@ -1,0 +1,97 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    rect { stroke: none; fill-opacity: 0.25; }
+    text { font-family: Arial, sans-serif; font-size: 10px; fill: black; text-anchor: middle; dominant-baseline: middle; pointer-events: none; }
+  </style>
+  <g id="LanLobbyMenu.wnd:LanLobbyMenuParent">
+    <rect x="0" y="0" width="799" height="600" fill="rgb(185,222,237)" />
+    <image href="extracted_images/MainMenuRuler.png" x="0" y="0" width="799" height="600" />
+  </g>
+  <g id="LanLobbyMenu.wnd:GadgetParent">
+    <rect x="41" y="41" width="718" height="517" fill="rgb(97,203,165)" />
+  </g>
+  <g id="LanLobbyMenu.wnd:AutoLabel_1">
+    <rect x="52" y="80" width="161" height="24" fill="rgb(130,20,142)" />
+    <image href="extracted_images/BlackSquare.png" x="52" y="80" width="161" height="24" />
+  </g>
+  <g id="LanLobbyMenu.wnd:ButtonBack">
+    <rect x="576" y="507" width="171" height="36" fill="rgb(12,167,214)" />
+  </g>
+  <g id="LanLobbyMenu.wnd:ButtonHost">
+    <rect x="54" y="507" width="171" height="36" fill="rgb(111,213,202)" />
+  </g>
+  <g id="LanLobbyMenu.wnd:ButtonJoin">
+    <rect x="228" y="507" width="171" height="36" fill="rgb(236,41,118)" />
+  </g>
+  <g id="LanLobbyMenu.wnd:ButtonDirectConnect">
+    <rect x="402" y="507" width="172" height="36" fill="rgb(98,7,247)" />
+  </g>
+  <g id="LanLobbyMenu.wnd:TextEntryPlayerName">
+    <rect x="217" y="81" width="200" height="25" fill="rgb(93,29,89)" />
+    <image href="extracted_images/TextEntryEnabledLeftEnd.png" x="217" y="81" width="200" height="25" />
+    <image href="extracted_images/TextEntryEnabledRightEnd.png" x="217" y="81" width="200" height="25" />
+    <image href="extracted_images/TextEntryEnabledRepeatingCenter.png" x="217" y="81" width="200" height="25" />
+    <image href="extracted_images/TextEntryEnabledSmallRepeatingCenter.png" x="217" y="81" width="200" height="25" />
+  </g>
+  <g id="LanLobbyMenu.wnd:ListboxPlayers">
+    <rect x="53" y="131" width="221" height="180" fill="rgb(65,225,158)" />
+    <image href="extracted_images/BlackSquare.png" x="53" y="131" width="221" height="180" />
+    <image href="extracted_images/ListBoxHiliteItemLeftEnd.png" x="53" y="131" width="221" height="180" />
+    <image href="extracted_images/ListBoxHiliteItemRightEnd.png" x="53" y="131" width="221" height="180" />
+    <image href="extracted_images/ListBoxHiliteItemRepeatingCenter.png" x="53" y="131" width="221" height="180" />
+    <image href="extracted_images/ListBoxHiliteItemSmallRepeatingCenter.png" x="53" y="131" width="221" height="180" />
+  </g>
+  <g id="LanLobbyMenu.wnd:AutoLabel_2">
+    <rect x="53" y="103" width="256" height="28" fill="rgb(244,15,239)" />
+    <image href="extracted_images/BlackSquare.png" x="53" y="103" width="256" height="28" />
+  </g>
+  <g id="LanLobbyMenu.wnd:AutoLabel_3">
+    <rect x="275" y="103" width="240" height="28" fill="rgb(115,49,75)" />
+    <image href="extracted_images/BlackSquare.png" x="275" y="103" width="240" height="28" />
+  </g>
+  <g id="LanLobbyMenu.wnd:ListboxGames">
+    <rect x="277" y="131" width="240" height="180" fill="rgb(101,146,157)" />
+    <image href="extracted_images/BlackSquare.png" x="277" y="131" width="240" height="180" />
+    <image href="extracted_images/ListBoxHiliteItemLeftEnd.png" x="277" y="131" width="240" height="180" />
+    <image href="extracted_images/ListBoxHiliteItemRightEnd.png" x="277" y="131" width="240" height="180" />
+    <image href="extracted_images/ListBoxHiliteItemRepeatingCenter.png" x="277" y="131" width="240" height="180" />
+    <image href="extracted_images/ListBoxHiliteItemSmallRepeatingCenter.png" x="277" y="131" width="240" height="180" />
+  </g>
+  <g id="LanLobbyMenu.wnd:StaticTextGameInfo">
+    <rect x="521" y="130" width="232" height="180" fill="rgb(83,70,17)" />
+    <image href="extracted_images/BlackSquare.png" x="521" y="130" width="232" height="180" />
+  </g>
+  <g id="LanLobbyMenu.wnd:AutoLabel_4">
+    <rect x="521" y="103" width="188" height="24" fill="rgb(103,131,120)" />
+    <image href="extracted_images/BlackSquare.png" x="521" y="103" width="188" height="24" />
+  </g>
+  <g id="LanLobbyMenu.wnd:ListboxChatWindowLanLobby">
+    <rect x="52" y="315" width="699" height="147" fill="rgb(161,110,98)" />
+    <image href="extracted_images/BlackSquare.png" x="52" y="315" width="699" height="147" />
+    <image href="extracted_images/ListBoxHiliteItemLeftEnd.png" x="52" y="315" width="699" height="147" />
+    <image href="extracted_images/ListBoxHiliteItemRightEnd.png" x="52" y="315" width="699" height="147" />
+    <image href="extracted_images/ListBoxHiliteItemRepeatingCenter.png" x="52" y="315" width="699" height="147" />
+    <image href="extracted_images/ListBoxHiliteItemSmallRepeatingCenter.png" x="52" y="315" width="699" height="147" />
+  </g>
+  <g id="LanLobbyMenu.wnd:TextEntryChat">
+    <rect x="53" y="469" width="637" height="24" fill="rgb(46,246,52)" />
+    <image href="extracted_images/TextEntryEnabledLeftEnd.png" x="53" y="469" width="637" height="24" />
+    <image href="extracted_images/TextEntryEnabledRightEnd.png" x="53" y="469" width="637" height="24" />
+    <image href="extracted_images/TextEntryEnabledRepeatingCenter.png" x="53" y="469" width="637" height="24" />
+    <image href="extracted_images/TextEntryEnabledSmallRepeatingCenter.png" x="53" y="469" width="637" height="24" />
+  </g>
+  <g id="LanLobbyMenu.wnd:ButtonClear">
+    <rect x="420" y="81" width="71" height="25" fill="rgb(19,8,120)" />
+  </g>
+  <g id="LanLobbyMenu.wnd:ButtonEmote">
+    <rect x="714" y="467" width="36" height="24" fill="rgb(171,224,210)" />
+    <image href="extracted_images/ReturnButton.png" x="714" y="467" width="36" height="24" />
+    <image href="extracted_images/ReturnButtonHilitePushed.png" x="714" y="467" width="36" height="24" />
+  </g>
+  <g id="LanLobbyMenu.wnd:AutoLabel_5">
+    <rect x="47" y="43" width="608" height="33" fill="rgb(180,133,149)" />
+  </g>
+  <g id="LanLobbyMenu.wnd:Line">
+    <rect x="41" y="75" width="718" height="1" fill="rgb(141,239,99)" />
+  </g>
+</svg>

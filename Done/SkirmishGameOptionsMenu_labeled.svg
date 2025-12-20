@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="3840"
+   height="2160"
+   viewBox="0 0 3840 2160"
+   version="1.1"
+   id="svg82"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs82" />
+  <style
+     id="style1">&#10;    rect { stroke: none; fill-opacity: 0.25; }&#10;    text { font-family: Arial, sans-serif; font-size: 10px; fill: black; text-anchor: middle; dominant-baseline: middle; pointer-events: none; }&#10;  </style>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:SkirmishGameOptionsMenuParent">
+    <rect
+       x="0"
+       y="0"
+       width="3840"
+       height="2160"
+       fill="#482b0a"
+       id="rect1" />
+    <image
+       href="mainmenuruleruserinterface_cropped.png"
+       x="0"
+       y="0"
+       width="3840.0002"
+       height="2160"
+       id="image1" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:SubParent">
+    <rect
+       x="206"
+       y="160"
+       width="3432"
+       height="1844"
+       fill="#bc5014"
+       id="rect2" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ButtonStart">
+    <rect
+       x="280.79802000000007"
+       y="1846.8"
+       width="626.40002"
+       height="129.60001"
+       fill="#d7ea04"
+       id="rect3" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ButtonReset">
+    <rect
+       x="2944.3998999999994"
+       y="1191.6"
+       width="601.20001"
+       height="86.400002"
+       fill="#2feeb0"
+       id="rect4" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ButtonBack">
+    <rect
+       x="2923.557"
+       y="1846.8"
+       width="615.59998"
+       height="129.60001"
+       fill="#e63d6a"
+       id="rect5" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:AutoLabel_1">
+    <rect
+       x="2454.7996882085"
+       y="1393.2"
+       width="1086.7935801429"
+       height="403.20001"
+       fill="#1983c4"
+       id="rect6" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ListboxInfo">
+    <rect
+       x="2462.1099137943"
+       y="1368.0"
+       width="1077.046462253"
+       height="428.39999"
+       fill="#6e5cbf"
+       id="rect7" />
+    <image
+       href="extracted_images/BlackSquare.png"
+       x="2345.6936"
+       y="1368"
+       width="1193.201"
+       height="428.39999"
+       id="image7"
+       transform="matrix(0.902653 0 0 1 344.763 0)" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:SliderGameSpeed">
+    <rect
+       x="733.59991"
+       y="1209.6000000000001"
+       width="283.04575"
+       height="84.450272"
+       fill="#50ce35"
+       id="rect8" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:StaticTextGameSpeed">
+    <rect
+       x="1055.6"
+       y="1209.5999299999999"
+       width="115.2"
+       height="75.599998"
+       fill="#70d602"
+       id="rect9" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:StaticTextBattleHonors1">
+    <rect
+       x="251.20001000000002"
+       y="1209.6"
+       width="486.0"
+       height="86.400002"
+       fill="#a9498b"
+       id="rect10" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:AutoLabel_2">
+    <rect
+       x="1562.4"
+       y="1202.4"
+       width="334.79999"
+       height="86.400002"
+       fill="#d50bde"
+       id="rect11" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:CheckboxLimitSuperweapons">
+    <rect
+       x="2994.8"
+       y="1209.6"
+       width="547.20001"
+       height="86.400002"
+       fill="#4a391a"
+       id="rect12" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ComboBoxStartingCash">
+    <rect
+       x="1897.2000000000003"
+       y="1202.4"
+       width="374.39999"
+       height="86.400002"
+       fill="#d27115"
+       id="rect13" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:AutoLabel_3">
+    <rect
+       x="280.79818768192"
+       y="1393.2004"
+       width="1077.2020047504"
+       height="416.02579"
+       fill="#d7d88b"
+       id="rect14" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:StaticTextLosses">
+    <rect
+       x="293.301422652"
+       y="1699.2"
+       width="745.46657900808"
+       height="93.599998"
+       fill="#4c085b"
+       id="rect15" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:StaticTextLossesValue">
+    <rect
+       x="1034.0498692192"
+       y="1699.2"
+       width="311.39746491448"
+       height="93.599998"
+       fill="#d7474f"
+       id="rect16" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:StaticTextWins">
+    <rect
+       x="293.301422652"
+       y="1602.0"
+       width="745.46657900808"
+       height="93.599998"
+       fill="#c597f5"
+       id="rect17" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:StaticTextWinsValue">
+    <rect
+       x="1034.0498692192"
+       y="1602.0"
+       width="311.39746491448"
+       height="93.599998"
+       fill="#555024"
+       id="rect18" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:StaticTextStreak">
+    <rect
+       x="293.301422652"
+       y="1504.8"
+       width="750.1847647828"
+       height="93.599998"
+       fill="#7f2a61"
+       id="rect19" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:StaticTextStreakValue">
+    <rect
+       x="1034.0498692192"
+       y="1504.8"
+       width="311.39746491448"
+       height="93.599998"
+       fill="#e99bb1"
+       id="rect20" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:StaticTextBestStreak">
+    <rect
+       x="293.301422652"
+       y="1407.6"
+       width="745.46657900808"
+       height="93.599998"
+       fill="#aa7293"
+       id="rect21" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:StaticTextBestStreakValue">
+    <rect
+       x="1034.0498692192"
+       y="1407.6"
+       width="311.39746491448"
+       height="93.599998"
+       fill="#e5e970"
+       id="rect22" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ButtonSelectMap">
+    <rect
+       x="2869.6555"
+       y="980.2324"
+       width="676.2262"
+       height="97.767647"
+       fill="#a5801d"
+       id="rect23" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:TextEntryMapDisplay">
+    <rect
+       x="2824.8452"
+       y="856.09534"
+       width="749.552"
+       height="114.06226"
+       fill="#b62a82"
+       id="rect24" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:MapWindow">
+    <rect
+       x="2877.802616"
+       y="324.00498000000005"
+       width="668.0789506314001"
+       height="554.0166833157"
+       fill="#4a53b1"
+       id="rect25" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ButtonMapStartPosition0">
+    <rect
+       x="2881.8761548429993"
+       y="336.22592468429997"
+       width="65.17842973686"
+       height="69.25208513157"
+       fill="#0e442d"
+       id="rect26" />
+    <image
+       href="extracted_images/PlayerStart.png"
+       x="584"
+       y="118"
+       width="16"
+       height="17"
+       id="image26"
+       transform="matrix(4.07365 0 0 4.07365 502.863 -144.465)" />
+    <image
+       href="extracted_images/PlayerStartHilitePushed.png"
+       x="584"
+       y="118"
+       width="16"
+       height="17"
+       id="image27"
+       transform="matrix(4.07365 0 0 4.07365 502.863 -144.465)" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ButtonMapStartPosition1">
+    <rect
+       x="2877.8026159999995"
+       y="417.69896468429994"
+       width="65.17842973686"
+       height="69.25208513157"
+       fill="#7f2fd1"
+       id="rect27" />
+    <image
+       href="extracted_images/PlayerStart.png"
+       x="583"
+       y="138"
+       width="16"
+       height="17"
+       id="image28"
+       transform="matrix(4.07365 0 0 4.07365 502.863 -144.465)" />
+    <image
+       href="extracted_images/PlayerStartHilitePushed.png"
+       x="583"
+       y="138"
+       width="16"
+       height="17"
+       id="image29"
+       transform="matrix(4.07365 0 0 4.07365 502.863 -144.465)" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ButtonMapStartPosition2">
+    <rect
+       x="2910.3919451569996"
+       y="450.2881693685999"
+       width="65.17842973686"
+       height="69.25208513157"
+       fill="#db2438"
+       id="rect29" />
+    <image
+       href="extracted_images/PlayerStart.png"
+       x="591"
+       y="146"
+       width="16"
+       height="17"
+       id="image30"
+       transform="matrix(4.07365 0 0 4.07365 502.863 -144.465)" />
+    <image
+       href="extracted_images/PlayerStartHilitePushed.png"
+       x="591"
+       y="146"
+       width="16"
+       height="17"
+       id="image31"
+       transform="matrix(4.07365 0 0 4.07365 502.863 -144.465)" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ButtonMapStartPosition3">
+    <rect
+       x="2942.9809348429994"
+       y="482.87743063139993"
+       width="65.17842973686"
+       height="69.25208513157"
+       fill="#bd8230"
+       id="rect31" />
+    <image
+       href="extracted_images/PlayerStart.png"
+       x="599"
+       y="154"
+       width="16"
+       height="17"
+       id="image32"
+       transform="matrix(4.07365 0 0 4.07365 502.863 -144.465)" />
+    <image
+       href="extracted_images/PlayerStartHilitePushed.png"
+       x="599"
+       y="154"
+       width="16"
+       height="17"
+       id="image33"
+       transform="matrix(4.07365 0 0 4.07365 502.863 -144.465)" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ButtonMapStartPosition4">
+    <rect
+       x="2975.570263999999"
+       y="515.4666353156999"
+       width="65.17842973686"
+       height="69.25208513157"
+       fill="#4e1e2e"
+       id="rect33" />
+    <image
+       href="extracted_images/PlayerStart.png"
+       x="607"
+       y="162"
+       width="16"
+       height="17"
+       id="image34"
+       transform="matrix(4.07365 0 0 4.07365 502.863 -144.465)" />
+    <image
+       href="extracted_images/PlayerStartHilitePushed.png"
+       x="607"
+       y="162"
+       width="16"
+       height="17"
+       id="image35"
+       transform="matrix(4.07365 0 0 4.07365 502.863 -144.465)" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ButtonMapStartPosition5">
+    <rect
+       x="3008.1594799999993"
+       y="548.0558399999999"
+       width="65.17842973686"
+       height="69.25208513157"
+       fill="#d53380"
+       id="rect35" />
+    <image
+       href="extracted_images/PlayerStart.png"
+       x="615"
+       y="170"
+       width="16"
+       height="17"
+       id="image36"
+       transform="matrix(4.07365 0 0 4.07365 502.863 -144.465)" />
+    <image
+       href="extracted_images/PlayerStartHilitePushed.png"
+       x="615"
+       y="170"
+       width="16"
+       height="17"
+       id="image37"
+       transform="matrix(4.07365 0 0 4.07365 502.863 -144.465)" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ButtonMapStartPosition6">
+    <rect
+       x="3040.7486959999997"
+       y="580.6450446842998"
+       width="65.17842973686"
+       height="69.25208513157"
+       fill="#9f8e00"
+       id="rect37" />
+    <image
+       href="extracted_images/PlayerStart.png"
+       x="623"
+       y="178"
+       width="16"
+       height="17"
+       id="image38"
+       transform="matrix(4.07365 0 0 4.07365 502.863 -144.465)" />
+    <image
+       href="extracted_images/PlayerStartHilitePushed.png"
+       x="623"
+       y="178"
+       width="16"
+       height="17"
+       id="image39"
+       transform="matrix(4.07365 0 0 4.07365 502.863 -144.465)" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ButtonMapStartPosition7">
+    <rect
+       x="3073.3380251569997"
+       y="613.2342493685998"
+       width="65.17842973686"
+       height="69.25208513157"
+       fill="#5ee764"
+       id="rect39" />
+    <image
+       href="extracted_images/PlayerStart.png"
+       x="631"
+       y="186"
+       width="16"
+       height="17"
+       id="image40"
+       transform="matrix(4.07365 0 0 4.07365 502.863 -144.465)" />
+    <image
+       href="extracted_images/PlayerStartHilitePushed.png"
+       x="631"
+       y="186"
+       width="16"
+       height="17"
+       id="image41"
+       transform="matrix(4.07365 0 0 4.07365 502.863 -144.465)" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:StaticTextMapPreview">
+    <rect
+       x="2861.4343"
+       y="214.01635999999996"
+       width="668.07898"
+       height="97.767647"
+       fill="#739b6a"
+       id="rect41" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:StaticTextTeam">
+    <rect
+       x="2434.8"
+       y="316.79999"
+       width="262.79999"
+       height="86.400002"
+       fill="#9bf48c"
+       id="rect42" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ComboBoxTeam7">
+    <rect
+       x="2454.8"
+       y="1007.9994800000002"
+       width="273.60001"
+       height="69.99998562037"
+       fill="#5c9975"
+       id="rect43" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ComboBoxTeam6">
+    <rect
+       x="2454.8"
+       y="921.5994797963001"
+       width="273.60001"
+       height="69.99998562037"
+       fill="#0e0081"
+       id="rect44" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ComboBoxTeam5">
+    <rect
+       x="2454.8"
+       y="835.1995201018501"
+       width="273.60001"
+       height="69.99998562037"
+       fill="#dd9cca"
+       id="rect45" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ComboBoxTeam4">
+    <rect
+       x="2454.8"
+       y="748.7995198981502"
+       width="273.60001"
+       height="69.99998562037"
+       fill="#f58211"
+       id="rect46" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ComboBoxTeam3">
+    <rect
+       x="2454.8"
+       y="662.3995602037"
+       width="273.60001"
+       height="69.99998562037"
+       fill="#1a5d5f"
+       id="rect47" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ComboBoxTeam2">
+    <rect
+       x="2454.8"
+       y="575.9995600000001"
+       width="273.60001"
+       height="69.99998562037"
+       fill="#30cadc"
+       id="rect48" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ComboBoxTeam1">
+    <rect
+       x="2454.8"
+       y="489.59988410185"
+       width="273.60001"
+       height="69.99998562037"
+       fill="#543eb7"
+       id="rect49" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ComboBoxTeam0">
+    <rect
+       x="2454.8"
+       y="403.20000010185"
+       width="273.60001"
+       height="69.99998562037"
+       fill="#b36910"
+       id="rect50" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:StaticTextFaction">
+    <rect
+       x="1369.6"
+       y="313.20001"
+       width="388.79999"
+       height="86.400002"
+       fill="#1e6ee2"
+       id="rect51" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ComboBoxPlayerTemplate7">
+    <rect
+       x="1378.7937"
+       y="1007.9994800000002"
+       width="1054.1232"
+       height="69.99998562037"
+       fill="#0268ae"
+       id="rect52" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ComboBoxPlayerTemplate6">
+    <rect
+       x="1378.7937"
+       y="921.5994797963001"
+       width="1054.1232"
+       height="69.99998562037"
+       fill="#808da2"
+       id="rect53" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ComboBoxPlayerTemplate5">
+    <rect
+       x="1378.7937"
+       y="835.1995201018501"
+       width="1054.1232"
+       height="69.99998562037"
+       fill="#a71f85"
+       id="rect54" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ComboBoxPlayerTemplate4">
+    <rect
+       x="1378.7937"
+       y="748.7995198981502"
+       width="1054.1232"
+       height="69.99998562037"
+       fill="#e62112"
+       id="rect55" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ComboBoxPlayerTemplate3">
+    <rect
+       x="1378.7937"
+       y="662.3995602037"
+       width="1054.1232"
+       height="69.99998562037"
+       fill="#f88f4b"
+       id="rect56" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ComboBoxPlayerTemplate2">
+    <rect
+       x="1378.7937"
+       y="575.9995600000001"
+       width="1054.1232"
+       height="69.99998562037"
+       fill="#a9004a"
+       id="rect57" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ComboBoxPlayerTemplate1">
+    <rect
+       x="1378.7937"
+       y="489.59988410185"
+       width="1054.1232"
+       height="69.99998562037"
+       fill="#b369e9"
+       id="rect58" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ComboBoxPlayerTemplate0">
+    <rect
+       x="1378.7937"
+       y="403.20000010185"
+       width="1054.1232"
+       height="69.99998562037"
+       fill="#df78b5"
+       id="rect59" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:StaticTextColor">
+    <rect
+       x="1042.8"
+       y="316.79999"
+       width="288.0"
+       height="86.400002"
+       fill="#46651d"
+       id="rect60" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ComboBoxColor7">
+    <rect
+       x="1055.6"
+       y="1007.9994800000002"
+       width="302.39999"
+       height="69.99998562037"
+       fill="#0984c2"
+       id="rect61" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ComboBoxColor6">
+    <rect
+       x="1055.6"
+       y="921.5994797963001"
+       width="302.39999"
+       height="69.99998562037"
+       fill="#bd15a0"
+       id="rect62" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ComboBoxColor5">
+    <rect
+       x="1055.6"
+       y="835.1995201018501"
+       width="302.39999"
+       height="69.99998562037"
+       fill="#5c7475"
+       id="rect63" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ComboBoxColor4">
+    <rect
+       x="1055.6"
+       y="748.7995198981502"
+       width="302.39999"
+       height="69.99998562037"
+       fill="#32c017"
+       id="rect64" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ComboBoxColor3">
+    <rect
+       x="1055.6"
+       y="662.3995602037"
+       width="302.39999"
+       height="69.99998562037"
+       fill="#ed9ec7"
+       id="rect65" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ComboBoxColor2">
+    <rect
+       x="1055.6"
+       y="575.9995600000001"
+       width="302.39999"
+       height="69.99998562037"
+       fill="#d3f260"
+       id="rect66" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ComboBoxColor1">
+    <rect
+       x="1055.6"
+       y="489.59988410185"
+       width="302.39999"
+       height="69.99998562037"
+       fill="#e8d481"
+       id="rect67" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ComboBoxColor0">
+    <rect
+       x="1055.6"
+       y="403.20000010185"
+       width="302.39999"
+       height="69.99998562037"
+       fill="#14680d"
+       id="rect68" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:StaticTextPlayers">
+    <rect
+       x="260.40002000000004"
+       y="316.79999"
+       width="432.0"
+       height="86.400002"
+       fill="#e0eecb"
+       id="rect69" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ComboBoxPlayer7">
+    <rect
+       x="276.40176"
+       y="1007.9994800000002"
+       width="760.24402"
+       height="69.99998562037"
+       fill="#f467c8"
+       id="rect70" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ComboBoxPlayer6">
+    <rect
+       x="276.40176"
+       y="921.5994797963001"
+       width="760.24402"
+       height="69.99998562037"
+       fill="#9c6d4b"
+       id="rect71" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ComboBoxPlayer5">
+    <rect
+       x="276.40176"
+       y="835.1995201018501"
+       width="760.24402"
+       height="69.99998562037"
+       fill="#cf4004"
+       id="rect72" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ComboBoxPlayer4">
+    <rect
+       x="276.40176"
+       y="748.7995198981502"
+       width="760.24402"
+       height="69.99998562037"
+       fill="#761044"
+       id="rect73" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ComboBoxPlayer3">
+    <rect
+       x="276.40176"
+       y="662.3995602037"
+       width="760.24402"
+       height="69.99998562037"
+       fill="#740afb"
+       id="rect74" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ComboBoxPlayer2">
+    <rect
+       x="276.40176"
+       y="575.9995600000001"
+       width="760.24402"
+       height="69.99998562037"
+       fill="#6a4afb"
+       id="rect75" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ComboBoxPlayer1">
+    <rect
+       x="276.40176"
+       y="489.59988410185"
+       width="760.24402"
+       height="69.99998562037"
+       fill="#83aeb0"
+       id="rect76" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:TextEntryPlayerName">
+    <rect
+       x="276.40176"
+       y="403.20000010185"
+       width="760.24402"
+       height="69.99998562037"
+       fill="#6f2c60"
+       id="rect77" />
+    <image
+       href="extracted_images/TextEntryEnabledLeftEnd.png"
+       x="276.40164"
+       y="403.20001"
+       width="760.24365"
+       height="86.400002"
+       id="image77"
+       transform="matrix(1 0 0 0.810185 0 76.5334)" />
+    <image
+       href="extracted_images/TextEntryEnabledRightEnd.png"
+       x="276.40164"
+       y="403.20001"
+       width="760.24365"
+       height="86.400002"
+       id="image78"
+       transform="matrix(1 0 0 0.810185 0 76.5334)" />
+    <image
+       href="extracted_images/TextEntryEnabledRepeatingCenter.png"
+       x="276.40164"
+       y="403.20001"
+       width="760.24365"
+       height="86.400002"
+       id="image79"
+       transform="matrix(1 0 0 0.810185 0 76.5334)" />
+    <image
+       href="extracted_images/TextEntryEnabledSmallRepeatingCenter.png"
+       x="276.40164"
+       y="403.20001"
+       width="760.24365"
+       height="86.400002"
+       id="image80"
+       transform="matrix(1 0 0 0.810185 0 76.5334)" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:Line">
+    <rect
+       x="42"
+       y="83"
+       width="718"
+       height="0"
+       fill="#a4b182"
+       id="rect80" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:StaticTextTitle">
+    <rect
+       x="265.59997999999996"
+       y="154.8"
+       width="752.40002"
+       height="129.60001"
+       fill="#6313e0"
+       id="rect81" />
+  </g>
+  <g
+     id="SkirmishGameOptionsMenu.wnd:ButtonResetFPS">
+    <rect
+       x="1460.6123"
+       y="1861.2"
+       width="234.0"
+       height="108.0"
+       fill="#d25617"
+       id="rect82" />
+  </g>
+</svg>

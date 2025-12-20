@@ -1,0 +1,64 @@
+Create an app which takes two files, found in the work directory. ControBarSchemeUSA.txt, in the section "ControlBarScheme America8x6" has a series of coordinates for empty squares which should be drawn (with different colors) within the "ImagePart" region (check Position and Size attributes) of the image InGameUIAmericaBase, defined in HandCreatedMappedImages.INI (the one with multiple "MappedImage" sections). The coordinates consider the top-left corner of the image as (0,0). The referred texture, SACommandBar.tga (converted to .png), is also provided. The app should be able to input those files and generate a final image with the squares correctly overlaid on top of it.
+
+===
+
+I need you to scale up the attached sacommandbar.png image by 2x (which is used to generate the mappedImage entry "InGameUIAmericaBase"), and overlay on top of it different-colored empty squares with the names of the regions defined in ControlBarScheme.txt (attached), "ControlBarScheme America8x6" block. Inside each box, overlay the name of the UI element it delimits. Output the resulting image.
+
+OBS: In ControlBarScheme.ini, everything after double semicolons (;;) are comments about that configuration line, explaining what it does and how to use it.
+
+
+===
+Respecting 'ScreenCreationRes':
+
+Converting to SVG should use the 'ScreenCreationRes' attribute (from ControlBarScheme) as the SVG canvas size (X:800 Y:600 in the supplied file). The SVG rectangles (button elements) must then be offset from the ImagePart/Position attribute (X and/or Y, it's X:0 Y:408 in the supplied file).
+
+===
+
+In the conversion to SVG process, add a hollow rectangle element, red-color stroke, with the same coordinates (position and size) of the ImagePart. Name that rectangle element as 'ImagePart' so it can be easily edited and found later by the Update functionality.
+
+===
+
+The SVG viewBox entry should be used to define 'ScreenCreationRes' in the output txt file.
+
+-----
+
+I need new features. To start with, files with the .ini extension are regular ascii txt files, and should be parsed accordingly.
+
+Images used in ControlBarScheme buttons should be parsed from SAControlBar512.ini, cropped out from the provided coordinates, saved, and then included into the SVG file in the correct coordinates. For instance:
+
+  UAttackButtonEnable SAUAttackI
+  UAttackButtonHightlited SAUAttackH
+  UAttackButtonPushed SAUAttackP
+  
+Define three images used in the "UAttack" entry (in ControlBarSchemeUSA.txt) delimited by the upper-left (UL) and bottom-right (BR) coordinates defined later in the file. So the object identifier string is what's before the "Button" string.
+
+Those three images (SAUAttackI, SAUAttackH and SAUAttackP) can be found in SAControlBar512.INI. For instance, SAUAttackI:
+
+MappedImage SAUAttackI
+  Texture = SAControlBar512_001.tga
+  TextureWidth = 512
+  TextureHeight = 512
+  Coords = Left:136 Top:316 Right:171 Bottom:334
+  Status = NONE
+End
+
+The program should load SAControlBar512_001.tga, check its size (in this case, 2048x2048), calculate the scaled factor (2048/512 = 4) and apply that to find the final cropping coordinates - Left:544 Top:1264 Right:684 Bottom:1336. Those coordinates should be used to crop the image and save it in a child folder (create and override files in it if needed), with the MappedImage name - SAUAttackI.tga in this case.
+
+This image should then be added to the SVG file in the position defined by the object position-size entry in ControlBarSchemeUSA-new.txt. In this example: UAttackUL X:109 Y:414, UAttackLR X:144 Y:432.
+
+All images used in ControlBarSchemeUSA-new.txt to define its buttons should be parsed in the same way.
+
+
+========
+
+  <image href="extracted_images/SAUAttackI.png" x="109" y="414" /> => 136
+  
+========
+
+The SVG should have included all the rects as successfully done previously. The rects should be in front of all the images. Also, all images of each button (Eg: SAUAttackI, SAUAttackH and SAUAttackP) should be extracted, with their full names, and included in the SVG, in the same position, although the "Enable" version (SAUAttackI, in this example) should always be the topmost and enabled, while the other images will be disabled (hidden).
+The final goal is to be able to edit the rects positions in a third party software and do the round-trip, updating the source ControlBarScheme file with the new coordinates. So it would be interesting to have all images as children of its container rect, to facilitate editing.
+
+-------
+
+I need an "ImagePart" rect added to the exported SVG, according to what's defined (Position and Size) in ControlBarSchemeUSA.txt. It should fit within the ScreenCreationRes canvas limit. It should be compatible with the round-trip process, generating source files from an edited SVG.
+  

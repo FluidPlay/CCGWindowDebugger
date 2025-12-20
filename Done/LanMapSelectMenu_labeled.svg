@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="3840"
+   height="2160"
+   viewBox="0 0 3840 2160"
+   version="1.1"
+   id="svg31"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs31" />
+  <style
+     id="style1">&#10;    rect { stroke: none; fill-opacity: 0.25; }&#10;    text { font-family: Arial, sans-serif; font-size: 10px; fill: black; text-anchor: middle; dominant-baseline: middle; pointer-events: none; }&#10;  </style>
+  <g
+     id="LanMapSelectMenu.wnd:LanMapSelectMenuParent">
+    <rect
+       x="1766.3999999999999"
+       y="28.799999999999955"
+       width="2073.6"
+       height="1123.2"
+       fill="#523735"
+       id="rect1" />
+  </g>
+  <g
+     id="LanMapSelectMenu.wnd:WinGadgetBorder">
+    <rect
+       x="1787.9999999999998"
+       y="428.4"
+       width="1742.4"
+       height="691.2"
+       fill="#dac66d"
+       id="rect2" />
+  </g>
+  <g
+     id="LanMapSelectMenu.wnd:ButtonOK">
+    <rect
+       x="3051.6"
+       y="885.6"
+       width="460.8"
+       height="97.2"
+       fill="#e17d77"
+       id="rect3" />
+  </g>
+  <g
+     id="LanMapSelectMenu.wnd:ListboxMap">
+    <rect
+       x="1809.6000000000001"
+       y="550.8"
+       width="1220.4"
+       height="547.2"
+       fill="#c0d916"
+       id="rect4" />
+    <image
+       href="extracted_images/BlackSquare.png"
+       x="236"
+       y="153"
+       width="339"
+       height="152"
+       id="image4"
+       transform="matrix(3.6 0 0 3.6 960 0)" />
+    <image
+       href="extracted_images/ListBoxHiliteItemLeftEnd.png"
+       x="236"
+       y="153"
+       width="339"
+       height="152"
+       id="image5"
+       transform="matrix(3.6 0 0 3.6 960 0)" />
+    <image
+       href="extracted_images/ListBoxHiliteItemRightEnd.png"
+       x="236"
+       y="153"
+       width="339"
+       height="152"
+       id="image6"
+       transform="matrix(3.6 0 0 3.6 960 0)" />
+    <image
+       href="extracted_images/ListBoxHiliteItemRepeatingCenter.png"
+       x="236"
+       y="153"
+       width="339"
+       height="152"
+       id="image7"
+       transform="matrix(3.6 0 0 3.6 960 0)" />
+    <image
+       href="extracted_images/ListBoxHiliteItemSmallRepeatingCenter.png"
+       x="236"
+       y="153"
+       width="339"
+       height="152"
+       id="image8"
+       transform="matrix(3.6 0 0 3.6 960 0)" />
+  </g>
+  <g
+     id="LanMapSelectMenu.wnd:ButtonBack">
+    <rect
+       x="3051.6"
+       y="1000.8"
+       width="460.8"
+       height="90.0"
+       fill="#d49b53"
+       id="rect8" />
+  </g>
+  <g
+     id="LanMapSelectMenu.wnd:AutoLabel_1">
+    <rect
+       x="1780.8000000000002"
+       y="331.2"
+       width="1818.0"
+       height="97.2"
+       fill="#9d82d7"
+       id="rect9" />
+  </g>
+  <g
+     id="LanMapSelectMenu.wnd:RadioButtonSystemMaps">
+    <rect
+       x="1809.6"
+       y="453.59999999999997"
+       width="604.8000000000001"
+       height="79.2"
+       fill="#aabe15"
+       id="rect10" />
+    <image
+       href="extracted_images/RadioButtonEnabledLeft.png"
+       x="236"
+       y="126"
+       width="168"
+       height="22"
+       id="image10"
+       transform="matrix(3.6 0 0 3.6 960 0)" />
+    <image
+       href="extracted_images/RadioButtonEnabledMiddle.png"
+       x="236"
+       y="126"
+       width="168"
+       height="22"
+       id="image11"
+       transform="matrix(3.6 0 0 3.6 960 0)" />
+    <image
+       href="extracted_images/RadioButtonEnabledRight.png"
+       x="236"
+       y="126"
+       width="168"
+       height="22"
+       id="image12"
+       transform="matrix(3.6 0 0 3.6 960 0)" />
+  </g>
+  <g
+     id="LanMapSelectMenu.wnd:RadioButtonUserMaps">
+    <rect
+       x="2443.2000000000003"
+       y="453.59999999999997"
+       width="583.2"
+       height="79.2"
+       fill="#61e741"
+       id="rect12" />
+    <image
+       href="extracted_images/RadioButtonEnabledLeft.png"
+       x="412"
+       y="126"
+       width="162"
+       height="22"
+       id="image13"
+       transform="matrix(3.6 0 0 3.6 960 0)" />
+    <image
+       href="extracted_images/RadioButtonEnabledMiddle.png"
+       x="412"
+       y="126"
+       width="162"
+       height="22"
+       id="image14"
+       transform="matrix(3.6 0 0 3.6 960 0)" />
+    <image
+       href="extracted_images/RadioButtonEnabledRight.png"
+       x="412"
+       y="126"
+       width="162"
+       height="22"
+       id="image15"
+       transform="matrix(3.6 0 0 3.6 960 0)" />
+  </g>
+  <g
+     id="LanMapSelectMenu.wnd:WinMapPreview">
+    <rect
+       x="3058.8"
+       y="464.4"
+       width="446.40000000000003"
+       height="392.40000000000003"
+       fill="#33170a"
+       id="rect15" />
+  </g>
+  <g
+     id="LanMapSelectMenu.wnd:ButtonMapStartPosition0">
+    <rect
+       x="3062.4"
+       y="478.8"
+       width="57.6"
+       height="61.2"
+       fill="#7dbced"
+       id="rect16" />
+    <image
+       href="extracted_images/PlayerStart.png"
+       x="584"
+       y="133"
+       width="16"
+       height="17"
+       id="image16"
+       transform="matrix(3.6 0 0 3.6 960 0)" />
+    <image
+       href="extracted_images/PlayerStartHilitePushed.png"
+       x="584"
+       y="133"
+       width="16"
+       height="17"
+       id="image17"
+       transform="matrix(3.6 0 0 3.6 960 0)" />
+  </g>
+  <g
+     id="LanMapSelectMenu.wnd:ButtonMapStartPosition1">
+    <rect
+       x="3058.7999999999997"
+       y="547.2"
+       width="57.6"
+       height="61.2"
+       fill="#ad17ae"
+       id="rect17" />
+    <image
+       href="extracted_images/PlayerStart.png"
+       x="583"
+       y="152"
+       width="16"
+       height="17"
+       id="image18"
+       transform="matrix(3.6 0 0 3.6 960 0)" />
+    <image
+       href="extracted_images/PlayerStartHilitePushed.png"
+       x="583"
+       y="152"
+       width="16"
+       height="17"
+       id="image19"
+       transform="matrix(3.6 0 0 3.6 960 0)" />
+  </g>
+  <g
+     id="LanMapSelectMenu.wnd:ButtonMapStartPosition2">
+    <rect
+       x="3087.6"
+       y="576.0"
+       width="57.6"
+       height="61.2"
+       fill="#24f4b0"
+       id="rect19" />
+    <image
+       href="extracted_images/PlayerStart.png"
+       x="591"
+       y="160"
+       width="16"
+       height="17"
+       id="image20"
+       transform="matrix(3.6 0 0 3.6 960 0)" />
+    <image
+       href="extracted_images/PlayerStartHilitePushed.png"
+       x="591"
+       y="160"
+       width="16"
+       height="17"
+       id="image21"
+       transform="matrix(3.6 0 0 3.6 960 0)" />
+  </g>
+  <g
+     id="LanMapSelectMenu.wnd:ButtonMapStartPosition3">
+    <rect
+       x="3116.4"
+       y="604.8"
+       width="57.6"
+       height="61.2"
+       fill="#62cebb"
+       id="rect21" />
+    <image
+       href="extracted_images/PlayerStart.png"
+       x="599"
+       y="168"
+       width="16"
+       height="17"
+       id="image22"
+       transform="matrix(3.6 0 0 3.6 960 0)" />
+    <image
+       href="extracted_images/PlayerStartHilitePushed.png"
+       x="599"
+       y="168"
+       width="16"
+       height="17"
+       id="image23"
+       transform="matrix(3.6 0 0 3.6 960 0)" />
+  </g>
+  <g
+     id="LanMapSelectMenu.wnd:ButtonMapStartPosition4">
+    <rect
+       x="3148.7999999999997"
+       y="644.4"
+       width="57.6"
+       height="61.2"
+       fill="#99e78f"
+       id="rect23" />
+    <image
+       href="extracted_images/PlayerStart.png"
+       x="608"
+       y="179"
+       width="16"
+       height="17"
+       id="image24"
+       transform="matrix(3.6 0 0 3.6 960 0)" />
+    <image
+       href="extracted_images/PlayerStartHilitePushed.png"
+       x="608"
+       y="179"
+       width="16"
+       height="17"
+       id="image25"
+       transform="matrix(3.6 0 0 3.6 960 0)" />
+  </g>
+  <g
+     id="LanMapSelectMenu.wnd:ButtonMapStartPosition5">
+    <rect
+       x="3174.0"
+       y="662.4"
+       width="57.6"
+       height="61.2"
+       fill="#86a2e4"
+       id="rect25" />
+    <image
+       href="extracted_images/PlayerStart.png"
+       x="615"
+       y="184"
+       width="16"
+       height="17"
+       id="image26"
+       transform="matrix(3.6 0 0 3.6 960 0)" />
+    <image
+       href="extracted_images/PlayerStartHilitePushed.png"
+       x="615"
+       y="184"
+       width="16"
+       height="17"
+       id="image27"
+       transform="matrix(3.6 0 0 3.6 960 0)" />
+  </g>
+  <g
+     id="LanMapSelectMenu.wnd:ButtonMapStartPosition6">
+    <rect
+       x="3202.7999999999997"
+       y="691.2"
+       width="57.6"
+       height="61.2"
+       fill="#b54a27"
+       id="rect27" />
+    <image
+       href="extracted_images/PlayerStart.png"
+       x="623"
+       y="192"
+       width="16"
+       height="17"
+       id="image28"
+       transform="matrix(3.6 0 0 3.6 960 0)" />
+    <image
+       href="extracted_images/PlayerStartHilitePushed.png"
+       x="623"
+       y="192"
+       width="16"
+       height="17"
+       id="image29"
+       transform="matrix(3.6 0 0 3.6 960 0)" />
+  </g>
+  <g
+     id="LanMapSelectMenu.wnd:ButtonMapStartPosition7">
+    <rect
+       x="3231.6"
+       y="720.0"
+       width="57.6"
+       height="61.2"
+       fill="#0b081f"
+       id="rect29" />
+    <image
+       href="extracted_images/PlayerStart.png"
+       x="631"
+       y="200"
+       width="16"
+       height="17"
+       id="image30"
+       transform="matrix(3.6 0 0 3.6 960 0)" />
+    <image
+       href="extracted_images/PlayerStartHilitePushed.png"
+       x="631"
+       y="200"
+       width="16"
+       height="17"
+       id="image31"
+       transform="matrix(3.6 0 0 3.6 960 0)" />
+  </g>
+</svg>

@@ -1,0 +1,66 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text { font-family: Arial, sans-serif; font-size: 10px; fill: lightgray; text-anchor: middle; dominant-baseline: middle; pointer-events: none; }
+    rect { stroke: none; pointer-events: all; }
+  </style>
+  <image href="extracted_images/InGameUIAmericaBase.png" x="0" y="408" />
+  <g id="ImagePart">
+    <rect id="ImagePart_rect" x="0" y="408" width="800" height="191" fill="rgb(128,128,128)" fill-opacity="0.15" />
+    <text x="400.0" y="503.5" fill="red">ImagePart</text>
+  </g>
+  <g id="MinMax">
+    <image id="MinMax_Hightlited" href="extracted_images/SAMinMaxH.png" x="646" y="432" visibility="hidden" />
+    <image id="MinMax_Pushed" href="extracted_images/SAMinMaxP.png" x="646" y="432" visibility="hidden" />
+    <image id="MinMax_Enable" href="extracted_images/SAMinMax.png" x="646" y="432" visibility="visible" />
+    <rect id="MinMax_rect" x="646" y="432" width="72" height="31" fill="rgb(114,36,247)" fill-opacity="0.25" />
+  </g>
+  <g id="General">
+    <image id="General_Hightlited" href="extracted_images/SAGeneralH.png" x="719" y="432" visibility="hidden" />
+    <image id="General_Pushed" href="extracted_images/SAGeneralP.png" x="719" y="432" visibility="hidden" />
+    <image id="General_Disabled" href="extracted_images/SAGeneralI.png" x="719" y="432" visibility="hidden" />
+    <image id="General_Enable" href="extracted_images/SAGeneral.png" x="719" y="432" visibility="visible" />
+    <rect id="General_rect" x="719" y="432" width="80" height="31" fill="rgb(127,4,116)" fill-opacity="0.25" />
+  </g>
+  <g id="UAttack">
+    <image id="UAttack_Hightlited" href="extracted_images/SAUAttackH.png" x="140" y="412" visibility="hidden" />
+    <image id="UAttack_Pushed" href="extracted_images/SAUAttackP.png" x="140" y="412" visibility="hidden" />
+    <image id="UAttack_Enable" href="extracted_images/SAUAttackI.png" x="140" y="412" visibility="visible" />
+    <rect id="UAttack_rect" x="140" y="412" width="35" height="18" fill="rgb(72,91,142)" fill-opacity="0.25" />
+  </g>
+  <g id="Options">
+    <image id="Options_Hightlited" href="extracted_images/SAOptionsH.png" x="184" y="490" visibility="hidden" />
+    <image id="Options_Pushed" href="extracted_images/SAOptionsP.png" x="184" y="490" visibility="hidden" />
+    <image id="Options_Disabled" href="extracted_images/SAOptionsI.png" x="184" y="490" visibility="hidden" />
+    <image id="Options_Enable" href="extracted_images/SAOptions.png" x="184" y="490" visibility="visible" />
+    <rect id="Options_rect" x="184" y="490" width="36" height="24" fill="rgb(89,65,181)" fill-opacity="0.25" />
+  </g>
+  <g id="Worker">
+    <image id="Worker_Hightlited" href="extracted_images/SAWorkerH.png" x="184" y="516" visibility="hidden" />
+    <image id="Worker_Pushed" href="extracted_images/SAWorkerP.png" x="184" y="516" visibility="hidden" />
+    <image id="Worker_Disabled" href="extracted_images/SAWorkerI.png" x="184" y="516" visibility="hidden" />
+    <image id="Worker_Enable" href="extracted_images/SAWorker.png" x="184" y="516" visibility="visible" />
+    <rect id="Worker_rect" x="184" y="516" width="36" height="24" fill="rgb(14,182,45)" fill-opacity="0.25" />
+  </g>
+  <g id="Chat">
+    <image id="Chat_Hightlited" href="extracted_images/SAChatH.png" x="184" y="568" visibility="hidden" />
+    <image id="Chat_Pushed" href="extracted_images/SAChatP.png" x="184" y="568" visibility="hidden" />
+    <image id="Chat_Disabled" href="extracted_images/SAChatI.png" x="184" y="568" visibility="hidden" />
+    <image id="Chat_Enable" href="extracted_images/SAChat.png" x="184" y="568" visibility="visible" />
+    <rect id="Chat_rect" x="184" y="568" width="36" height="24" fill="rgb(253,21,183)" fill-opacity="0.25" />
+  </g>
+  <g id="Beacon">
+    <image id="Beacon_Hightlited" href="extracted_images/SABeaconH.png" x="184" y="545" visibility="hidden" />
+    <image id="Beacon_Pushed" href="extracted_images/SABeaconP.png" x="184" y="545" visibility="hidden" />
+    <image id="Beacon_Disabled" href="extracted_images/SABeaconI.png" x="184" y="545" visibility="hidden" />
+    <image id="Beacon_Enable" href="extracted_images/SABeacon.png" x="184" y="545" visibility="visible" />
+    <rect id="Beacon_rect" x="184" y="545" width="36" height="21" fill="rgb(249,3,84)" fill-opacity="0.25" />
+  </g>
+  <g id="PowerBar">
+    <text x="399.0" y="473.0">PowerBar</text>
+    <rect id="PowerBar_rect" x="260" y="470" width="278" height="6" fill="rgb(118,217,36)" fill-opacity="0.25" />
+  </g>
+  <g id="Money">
+    <text x="399.5" y="447.5">Money</text>
+    <rect id="Money_rect" x="360" y="438" width="79" height="19" fill="rgb(10,57,159)" fill-opacity="0.25" />
+  </g>
+</svg>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="3840"
+   height="2160"
+   viewBox="0 0 3840 2160"
+   version="1.1"
+   id="svg7"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs7" />
+  <style
+     id="style1">&#10;    rect { stroke: none; fill-opacity: 0.25; }&#10;    text { font-family: Arial, sans-serif; font-size: 10px; fill: black; text-anchor: middle; dominant-baseline: middle; pointer-events: none; }&#10;  </style>
+  <g
+     id="QuitMenu.wnd:QuitMenuParent">
+    <rect
+       x="1458.0"
+       y="400.0"
+       width="900.0"
+       height="984.0"
+       fill="#3ccd58"
+       id="rect1" />
+  </g>
+  <g
+     id="QuitMenu.wnd:ButtonRestart">
+    <rect
+       x="1566.0"
+       y="937.0"
+       width="672.0"
+       height="120.0"
+       fill="#489f80"
+       id="rect2" />
+  </g>
+  <g
+     id="QuitMenu.wnd:ButtonOptions">
+    <rect
+       x="1566.0"
+       y="793.0"
+       width="672.0"
+       height="120.0"
+       fill="#bcecfa"
+       id="rect3" />
+  </g>
+  <g
+     id="QuitMenu.wnd:ButtonSaveLoad">
+    <rect
+       x="1566.0"
+       y="649.0"
+       width="672.0"
+       height="120.0"
+       fill="#130770"
+       id="rect4" />
+  </g>
+  <g
+     id="QuitMenu.wnd:ButtonReturn">
+    <rect
+       x="1566.0"
+       y="1225.0"
+       width="672.0"
+       height="120.0"
+       fill="#041df4"
+       id="rect5" />
+  </g>
+  <g
+     id="QuitMenu.wnd:ButtonExit">
+    <rect
+       x="1566.0"
+       y="1081.0"
+       width="672.0"
+       height="120.0"
+       fill="#5a1337"
+       id="rect6" />
+  </g>
+  <g
+     id="QuitMenu.wnd:WinLoad">
+    <rect
+       x="1488.0"
+       y="403.0"
+       width="864.0"
+       height="237.0"
+       fill="#af45b3"
+       id="rect7" />
+    <image
+       href="extracted_images/GeneralsLogo.png"
+       x="262"
+       y="101"
+       width="288"
+       height="79"
+       id="image7"
+       transform="matrix(3 0 0 3 702 100)" />
+  </g>
+</svg>

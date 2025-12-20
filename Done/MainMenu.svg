@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="3840"
+   height="2160"
+   viewBox="0 0 3840 2160"
+   version="1.1"
+   id="svg63"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs63" />
+  <style
+     id="style1">&#10;    rect { stroke: none; fill-opacity: 0.25; }&#10;    text { font-family: Arial, sans-serif; font-size: 10px; fill: black; text-anchor: middle; dominant-baseline: middle; pointer-events: none; }&#10;  </style>
+  <g
+     id="MainMenu.wnd:MainMenuParent">
+    <rect
+       x="0.0"
+       y="0.0"
+       width="3840.0"
+       height="2160.0"
+       fill="#f6101d"
+       id="rect1" />
+    <image
+       href="extracted_images/MainMenuBackdrop.png"
+       x="0"
+       y="0"
+       width="800"
+       height="600"
+       id="image1"
+       transform="scale(4.8, 3.6)" />
+  </g>
+  <g
+     id="MainMenu.wnd:MainMenuRuler">
+    <rect
+       x="0.0"
+       y="0.0"
+       width="3840.0"
+       height="2160.0"
+       fill="#3af307"
+       id="rect2" />
+    <image
+       href="extracted_images/MainMenuRuler.png"
+       x="0"
+       y="0"
+       width="800"
+       height="600"
+       id="image2"
+       transform="scale(4.8, 3.6)" />
+  </g>
+  <g
+     id="MainMenu.wnd:MapBorder4">
+    <rect
+       x="2758.0840399999997"
+       y="371.35716"
+       width="734.71328"
+       height="695.35364"
+       fill="#9cb409"
+       id="rect3" />
+  </g>
+  <g
+     id="MainMenu.wnd:EarthMap4">
+    <rect
+       x="2758.0840399999997"
+       y="371.35716"
+       width="734.71328"
+       height="695.35364"
+       fill="#91783f"
+       id="rect4" />
+    <image
+       href="extracted_images/BlackSquare.png"
+       x="532"
+       y="108"
+       width="224"
+       height="212"
+       id="image4"
+       transform="matrix(3.27997 0 0 3.27997 1013.14 17.1204)" />
+  </g>
+  <g
+     id="MainMenu.wnd:ButtonDiffBack">
+    <rect
+       x="2784.3237999999997"
+       y="922.3921200000001"
+       width="682.23376"
+       height="118.07892"
+       fill="#d435e7"
+       id="rect5" />
+  </g>
+  <g
+     id="MainMenu.wnd:ButtonHard">
+    <rect
+       x="2784.3237999999997"
+       y="791.1933200000001"
+       width="682.23376"
+       height="118.07892"
+       fill="#0c9a89"
+       id="rect6" />
+  </g>
+  <g
+     id="MainMenu.wnd:ButtonMedium">
+    <rect
+       x="2784.3237999999997"
+       y="659.99452"
+       width="682.23376"
+       height="114.79895"
+       fill="#542834"
+       id="rect7" />
+  </g>
+  <g
+     id="MainMenu.wnd:ButtonEasy">
+    <rect
+       x="2784.3237999999997"
+       y="528.79572"
+       width="682.23376"
+       height="114.79895"
+       fill="#6c6e58"
+       id="rect8" />
+  </g>
+  <g
+     id="MainMenu.wnd:StaticTextSelectDifficulty">
+    <rect
+       x="2784.3238"
+       y="397.59692"
+       width="708.47352"
+       height="118.07892"
+       fill="#e656bc"
+       id="rect9" />
+  </g>
+  <g
+     id="MainMenu.wnd:MapBorder1">
+    <rect
+       x="2758.0840399999997"
+       y="371.35716"
+       width="734.71328"
+       height="432.95604000000003"
+       fill="#52eddc"
+       id="rect10" />
+  </g>
+  <g
+     id="MainMenu.wnd:EarthMap1">
+    <rect
+       x="2758.0840399999997"
+       y="371.35715999999996"
+       width="734.71328"
+       height="409.99625000000003"
+       fill="#b95e8d"
+       id="rect11" />
+    <image
+       href="extracted_images/BlackSquare.png"
+       x="532"
+       y="108"
+       width="224"
+       height="125"
+       id="image11"
+       transform="matrix(3.27997 0 0 3.27997 1013.14 17.1204)" />
+  </g>
+  <g
+     id="MainMenu.wnd:ButtonMultiBack">
+    <rect
+       x="2784.3237999999997"
+       y="659.9945200000001"
+       width="682.23376"
+       height="118.07892"
+       fill="#5d9fca"
+       id="rect12" />
+  </g>
+  <g
+     id="MainMenu.wnd:ButtonNetwork">
+    <rect
+       x="2784.3237999999997"
+       y="528.79572"
+       width="682.23376"
+       height="114.79895"
+       fill="#473d7f"
+       id="rect13" />
+  </g>
+  <g
+     id="MainMenu.wnd:ButtonOnline">
+    <rect
+       x="2784.3237999999997"
+       y="397.59692"
+       width="682.23376"
+       height="114.79895"
+       fill="#beb8be"
+       id="rect14" />
+  </g>
+  <g
+     id="MainMenu.wnd:MapBorder3">
+    <rect
+       x="2758.0840399999997"
+       y="371.35716"
+       width="734.71328"
+       height="432.95604000000003"
+       fill="#0c4b32"
+       id="rect15" />
+  </g>
+  <g
+     id="MainMenu.wnd:EarthMap3">
+    <rect
+       x="2758.0840399999997"
+       y="371.3571600000001"
+       width="734.71328"
+       height="406.71628"
+       fill="#d140c5"
+       id="rect16" />
+    <image
+       href="extracted_images/BlackSquare.png"
+       x="532"
+       y="108"
+       width="224"
+       height="124"
+       id="image16"
+       transform="matrix(3.27997 0 0 3.27997 1013.14 17.1204)" />
+  </g>
+  <g
+     id="MainMenu.wnd:ButtonLoadReplayBack">
+    <rect
+       x="2784.3237999999997"
+       y="659.9945200000001"
+       width="682.23376"
+       height="118.07892"
+       fill="#f6cba3"
+       id="rect17" />
+  </g>
+  <g
+     id="MainMenu.wnd:ButtonReplay">
+    <rect
+       x="2784.3237999999997"
+       y="528.79572"
+       width="682.23376"
+       height="114.79895"
+       fill="#a3b1c6"
+       id="rect18" />
+  </g>
+  <g
+     id="MainMenu.wnd:ButtonLoadGame">
+    <rect
+       x="2784.3237999999997"
+       y="397.59692"
+       width="682.23376"
+       height="114.79895"
+       fill="#1376f0"
+       id="rect19" />
+  </g>
+  <g
+     id="MainMenu.wnd:MapBorder">
+    <rect
+       x="2758.0840399999997"
+       y="371.35715999999996"
+       width="734.71328"
+       height="826.55244"
+       fill="#9b74c8"
+       id="rect20" />
+  </g>
+  <g
+     id="MainMenu.wnd:EarthMap">
+    <rect
+       x="2758.0840399999997"
+       y="371.35716"
+       width="734.71328"
+       height="800.31268"
+       fill="#0fd0fa"
+       id="rect21" />
+    <image
+       href="extracted_images/BlackSquare.png"
+       x="532"
+       y="108"
+       width="224"
+       height="244"
+       id="image21"
+       transform="matrix(3.27997 0 0 3.27997 1013.14 17.1204)" />
+  </g>
+  <g
+     id="MainMenu.wnd:ButtonSingleBack">
+    <rect
+       x="2784.3237999999997"
+       y="1053.59092"
+       width="682.23376"
+       height="114.79895"
+       fill="#9c5542"
+       id="rect22" />
+  </g>
+  <g
+     id="MainMenu.wnd:ButtonSkirmish">
+    <rect
+       x="2784.3237999999997"
+       y="922.3921200000001"
+       width="682.23376"
+       height="118.07892"
+       fill="#e46b64"
+       id="rect23" />
+  </g>
+  <g
+     id="MainMenu.wnd:ButtonChina">
+    <rect
+       x="2784.3237999999997"
+       y="659.99452"
+       width="682.23376"
+       height="114.79895"
+       fill="#7a27df"
+       id="rect24" />
+  </g>
+  <g
+     id="MainMenu.wnd:ButtonGLA">
+    <rect
+       x="2784.3237999999997"
+       y="528.7957200000001"
+       width="682.23376"
+       height="118.07892"
+       fill="#b6fd51"
+       id="rect25" />
+  </g>
+  <g
+     id="MainMenu.wnd:ButtonUSA">
+    <rect
+       x="2784.3237999999997"
+       y="397.59692"
+       width="682.23376"
+       height="118.07892"
+       fill="#eeeb5d"
+       id="rect26" />
+  </g>
+  <g
+     id="MainMenu.wnd:ButtonChallenge">
+    <rect
+       x="2784.3237999999997"
+       y="791.1933200000001"
+       width="682.23376"
+       height="118.07892"
+       fill="#ac5ed5"
+       id="rect27" />
+  </g>
+  <g
+     id="MainMenu.wnd:ShellMenuScheme">
+    <rect
+       x="0.0"
+       y="14.399999999999999"
+       width="172.8"
+       height="86.4"
+       fill="#46d001"
+       id="rect28" />
+  </g>
+  <g
+     id="MainMenu.wnd:MapBorder2">
+    <rect
+       x="2758.0840399999997"
+       y="371.35715999999996"
+       width="734.71328"
+       height="826.55244"
+       fill="#7f82be"
+       id="rect29" />
+  </g>
+  <g
+     id="MainMenu.wnd:EarthMap2">
+    <rect
+       x="2758.0840399999997"
+       y="371.35716"
+       width="734.71328"
+       height="800.31268"
+       fill="#3fc7ba"
+       id="rect30" />
+    <image
+       href="extracted_images/BlackSquare.png"
+       x="532"
+       y="108"
+       width="224"
+       height="244"
+       id="image30"
+       transform="matrix(3.27997 0 0 3.27997 1013.14 17.1204)" />
+  </g>
+  <g
+     id="MainMenu.wnd:ButtonExit">
+    <rect
+       x="2784.3237999999997"
+       y="1053.59092"
+       width="682.23376"
+       height="118.07892"
+       fill="#5750c5"
+       id="rect31" />
+  </g>
+  <g
+     id="MainMenu.wnd:ButtonCredits">
+    <rect
+       x="2784.3237999999997"
+       y="922.3921200000001"
+       width="682.23376"
+       height="118.07892"
+       fill="#7ce490"
+       id="rect32" />
+  </g>
+  <g
+     id="MainMenu.wnd:ButtonOptions">
+    <rect
+       x="2784.3237999999997"
+       y="791.1933200000001"
+       width="682.23376"
+       height="118.07892"
+       fill="#cd19e5"
+       id="rect33" />
+  </g>
+  <g
+     id="MainMenu.wnd:ButtonLoadReplay">
+    <rect
+       x="2784.3237999999997"
+       y="659.99452"
+       width="682.23376"
+       height="114.79895"
+       fill="#fd6974"
+       id="rect34" />
+  </g>
+  <g
+     id="MainMenu.wnd:ButtonMultiplayer">
+    <rect
+       x="2784.3237999999997"
+       y="528.7957200000001"
+       width="682.23376"
+       height="118.07892"
+       fill="#39b2f1"
+       id="rect35" />
+  </g>
+  <g
+     id="MainMenu.wnd:ButtonSinglePlayer">
+    <rect
+       x="2784.3237999999997"
+       y="397.59692"
+       width="682.23376"
+       height="118.07892"
+       fill="#33e21b"
+       id="rect36" />
+  </g>
+  <g
+     id="MainMenu.wnd:GreenDot">
+    <rect
+       x="229.55168"
+       y="1856.5704400000002"
+       width="49.11426"
+       height="49.11426"
+       fill="#ff6311"
+       id="rect37" />
+    <image
+       href="extracted_images/GreenDot.png"
+       x="34"
+       y="517"
+       width="13"
+       height="13"
+       id="image37"
+       transform="matrix(3.77802 0 0 3.77802 101.099 -96.6659)" />
+  </g>
+  <g
+     id="MainMenu.wnd:Clock">
+    <rect
+       x="301.33406"
+       y="1803.6781600000002"
+       width="396.69210000000004"
+       height="136.00872"
+       fill="#b48c86"
+       id="rect38" />
+  </g>
+  <g
+     id="MainMenu.wnd:ButtonUSARecentSave">
+    <rect
+       x="2456.3268000000003"
+       y="358.23728"
+       width="301.75724"
+       height="78.71928"
+       fill="#70b04e"
+       id="rect39" />
+  </g>
+  <g
+     id="MainMenu.wnd:WinGrowMarker">
+    <rect
+       x="796.8000000000001"
+       y="388.80000000000007"
+       width="1396.8"
+       height="1396.8"
+       fill="#cfa14f"
+       id="rect40" />
+  </g>
+  <g
+     id="MainMenu.wnd:WinFactionTrainingSmall">
+    <rect
+       x="2429.6999200000005"
+       y="1501.43656"
+       width="362.68992000000003"
+       height="362.68992000000003"
+       fill="#117193"
+       id="rect41" />
+  </g>
+  <g
+     id="MainMenu.wnd:WinFactionTrainingMedium">
+    <rect
+       x="2339.0274400000003"
+       y="1410.76408"
+       width="544.03488"
+       height="544.03488"
+       fill="#6ed058"
+       id="rect42" />
+    <image
+       href="extracted_images/Training144.png"
+       x="472"
+       y="399"
+       width="144"
+       height="144"
+       id="image42"
+       transform="matrix(3.77802 0 0 3.77802 555.802 -96.6659)" />
+  </g>
+  <g
+     id="MainMenu.wnd:WinFactionTraining">
+    <rect
+       x="2433.47794"
+       y="1501.43656"
+       width="362.68992000000003"
+       height="362.68992000000003"
+       fill="#5d1e0d"
+       id="rect43" />
+    <image
+       href="extracted_images/Training96.png"
+       x="497"
+       y="423"
+       width="96"
+       height="96"
+       id="image43"
+       transform="matrix(3.77802 0 0 3.77802 555.802 -96.6659)" />
+  </g>
+  <g
+     id="MainMenu.wnd:WinFactionSkirmishSmall">
+    <rect
+       x="3118.8577800000003"
+       y="1501.43656"
+       width="362.68992000000003"
+       height="362.68992000000003"
+       fill="#3b3f08"
+       id="rect44" />
+  </g>
+  <g
+     id="MainMenu.wnd:WinFactionSkirmishMedium">
+    <rect
+       x="3031.96332"
+       y="1410.76408"
+       width="544.03488"
+       height="544.03488"
+       fill="#05ab58"
+       id="rect45" />
+    <image
+       href="extracted_images/Skirmish144.png"
+       x="616"
+       y="399"
+       width="144"
+       height="144"
+       id="image45"
+       transform="matrix(3.77802 0 0 3.77802 704.703 -96.6659)" />
+  </g>
+  <g
+     id="MainMenu.wnd:WinFactionSkirmish">
+    <rect
+       x="3122.6358"
+       y="1501.43656"
+       width="362.68992000000003"
+       height="362.68992000000003"
+       fill="#d39216"
+       id="rect46" />
+    <image
+       href="extracted_images/Skirmish96.png"
+       x="640"
+       y="423"
+       width="96"
+       height="96"
+       id="image46"
+       transform="matrix(3.77802 0 0 3.77802 704.703 -96.6659)" />
+  </g>
+  <g
+     id="MainMenu.wnd:WinFactionUSSmall">
+    <rect
+       x="358.00436"
+       y="1501.43656"
+       width="362.68992000000003"
+       height="362.68992000000003"
+       fill="#32aa3f"
+       id="rect47" />
+  </g>
+  <g
+     id="MainMenu.wnd:WinFactionUSMedium">
+    <rect
+       x="263.55386000000004"
+       y="1410.76408"
+       width="544.03488"
+       height="544.03488"
+       fill="#a14fbc"
+       id="rect48" />
+    <image
+       href="extracted_images/SAFactionLogo144_US.png"
+       x="43"
+       y="399"
+       width="144"
+       height="144"
+       id="image48"
+       transform="matrix(3.77802 0 0 3.77802 101.099 -96.6659)" />
+  </g>
+  <g
+     id="MainMenu.wnd:WinFactionUS">
+    <rect
+       x="354.22634000000005"
+       y="1501.43656"
+       width="362.68992000000003"
+       height="362.68992000000003"
+       fill="#89728d"
+       id="rect49" />
+    <image
+       href="extracted_images/SAFactionLogo96_US.png"
+       x="67"
+       y="423"
+       width="96"
+       height="96"
+       id="image49"
+       transform="matrix(3.77802 0 0 3.77802 101.099 -96.6659)" />
+  </g>
+  <g
+     id="MainMenu.wnd:WinFactionGLASmall">
+    <rect
+       x="1042.71826"
+       y="1501.43656"
+       width="362.68992000000003"
+       height="362.68992000000003"
+       fill="#ef3e48"
+       id="rect50" />
+  </g>
+  <g
+     id="MainMenu.wnd:WinFactionGLAMedium">
+    <rect
+       x="944.48974"
+       y="1410.76408"
+       width="544.03488"
+       height="544.03488"
+       fill="#127836"
+       id="rect51" />
+    <image
+       href="extracted_images/SUFactionLogo144_GLA.png"
+       x="187"
+       y="399"
+       width="144"
+       height="144"
+       id="image51"
+       transform="matrix(3.77802 0 0 3.77802 238 -96.6659)" />
+  </g>
+  <g
+     id="MainMenu.wnd:WinFactionGLA">
+    <rect
+       x="1035.1622200000002"
+       y="1501.43656"
+       width="362.68992000000003"
+       height="362.68992000000003"
+       fill="#43a20a"
+       id="rect52" />
+    <image
+       href="extracted_images/SUFactionLogo96_GLA.png"
+       x="211"
+       y="423"
+       width="96"
+       height="96"
+       id="image52"
+       transform="matrix(3.77802 0 0 3.77802 238 -96.6659)" />
+  </g>
+  <g
+     id="MainMenu.wnd:WinFactionChinaSmall">
+    <rect
+       x="1711.9970200000002"
+       y="1501.43656"
+       width="362.68992000000003"
+       height="362.68992000000003"
+       fill="#489bd7"
+       id="rect53" />
+  </g>
+  <g
+     id="MainMenu.wnd:WinFactionChinaMedium">
+    <rect
+       x="1625.10256"
+       y="1410.76408"
+       width="544.03488"
+       height="544.03488"
+       fill="#b2af8a"
+       id="rect54" />
+    <image
+       href="extracted_images/SNFactionLogo144_China.png"
+       x="328"
+       y="399"
+       width="144"
+       height="144"
+       id="image54"
+       transform="matrix(3.77802 0 0 3.77802 385.912 -96.6659)" />
+  </g>
+  <g
+     id="MainMenu.wnd:WinFactionChina">
+    <rect
+       x="1715.77504"
+       y="1501.43656"
+       width="362.68992000000003"
+       height="362.68992000000003"
+       fill="#5efc60"
+       id="rect55" />
+    <image
+       href="extracted_images/SNFactionLogo96_China.png"
+       x="352"
+       y="423"
+       width="96"
+       height="96"
+       id="image55"
+       transform="matrix(3.77802 0 0 3.77802 385.912 -96.6659)" />
+  </g>
+  <g
+     id="MainMenu.wnd:ButtonUSALoadGame">
+    <rect
+       x="2456.3268000000003"
+       y="450.07644"
+       width="301.75724"
+       height="78.71928"
+       fill="#327672"
+       id="rect56" />
+  </g>
+  <g
+     id="MainMenu.wnd:ButtonGLARecentSave">
+    <rect
+       x="2456.3268000000003"
+       y="476.3162"
+       width="301.75724"
+       height="78.71928"
+       fill="#a52b14"
+       id="rect57" />
+  </g>
+  <g
+     id="MainMenu.wnd:ButtonGLALoadGame">
+    <rect
+       x="2456.3268000000003"
+       y="568.15536"
+       width="301.75724"
+       height="78.71928"
+       fill="#10c4fe"
+       id="rect58" />
+  </g>
+  <g
+     id="MainMenu.wnd:ButtonChinaRecentSave">
+    <rect
+       x="2456.3268000000003"
+       y="607.515"
+       width="301.75724"
+       height="78.71928"
+       fill="#fa9911"
+       id="rect59" />
+  </g>
+  <g
+     id="MainMenu.wnd:ButtonChinaLoadGame">
+    <rect
+       x="2456.3268000000003"
+       y="699.35416"
+       width="301.75724"
+       height="78.71928"
+       fill="#314fab"
+       id="rect60" />
+  </g>
+  <g
+     id="MainMenu.wnd:ButtonGetMapPack">
+    <rect
+       x="282.4439600000001"
+       y="1267.1993200000002"
+       width="861.38856"
+       height="120.89664"
+       fill="#facd3d"
+       id="rect61" />
+  </g>
+  <g
+     id="MainMenu.wnd:ButtonGetUpdate">
+    <rect
+       x="3053.2813399999995"
+       y="122.07944"
+       width="554.31493"
+       height="95.11913"
+       fill="#66cfe0"
+       id="rect62" />
+  </g>
+  <g
+     id="MainMenu.wnd:Logo">
+    <rect
+       x="2666.24488"
+       y="69.59992"
+       width="941.35139"
+       height="308.31718"
+       fill="#4f740a"
+       id="rect63" />
+    <image
+       href="extracted_images/GeneralsLogo.png"
+       x="504"
+       y="16"
+       width="287"
+       height="94"
+       id="image63"
+       transform="matrix(3.27997 0 0 3.27997 1013.14 17.1204)" />
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    rect { stroke: none; fill-opacity: 0.25; }
+    text { font-family: Arial, sans-serif; font-size: 10px; fill: black; text-anchor: middle; dominant-baseline: middle; pointer-events: none; }
+  </style>
+  <g id="ReplayControl.wnd:ParentReplayControl">
+    <rect x="412" y="384" width="188" height="72" fill="rgb(58,88,225)" />
+  </g>
+  <g id="ReplayControl.wnd:ButtonSlower">
+    <rect x="420" y="392" width="64" height="24" fill="rgb(136,248,9)" />
+  </g>
+  <g id="ReplayControl.wnd:ButtonFaster">
+    <rect x="528" y="392" width="68" height="24" fill="rgb(88,193,157)" />
+  </g>
+  <g id="ReplayControl.wnd:ButtonPause">
+    <rect x="420" y="424" width="76" height="24" fill="rgb(128,29,185)" />
+  </g>
+  <g id="ReplayControl.wnd:ButtonNextFrame">
+    <rect x="512" y="424" width="84" height="24" fill="rgb(218,253,127)" />
+  </g>
+  <g id="ReplayControl.wnd:TextReplaySpeed">
+    <rect x="488" y="392" width="32" height="24" fill="rgb(85,19,190)" />
+    <image href="extracted_images/TextEntryEnabledLeftEnd.png" x="488" y="392" width="32" height="24" />
+    <image href="extracted_images/TextEntryEnabledRightEnd.png" x="488" y="392" width="32" height="24" />
+    <image href="extracted_images/TextEntryEnabledRepeatingCenter.png" x="488" y="392" width="32" height="24" />
+    <image href="extracted_images/TextEntryEnabledSmallRepeatingCenter.png" x="488" y="392" width="32" height="24" />
+  </g>
+</svg>

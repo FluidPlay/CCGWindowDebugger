@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="3840"
+   height="2160"
+   viewBox="0 0 3840 2160"
+   version="1.1"
+   id="svg36"
+   sodipodi:docname="LanLobbyMenu_labeled.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview36"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.47375"
+     inkscape:cx="2747.2296"
+     inkscape:cy="1920.8443"
+     inkscape:window-width="2056"
+     inkscape:window-height="1250"
+     inkscape:window-x="178"
+     inkscape:window-y="84"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg36" />
+  <defs
+     id="defs36" />
+  <style
+     id="style1">&#10;    rect { stroke: none; fill-opacity: 0.25; }&#10;    text { font-family: Arial, sans-serif; font-size: 10px; fill: black; text-anchor: middle; dominant-baseline: middle; pointer-events: none; }&#10;  </style>
+  <g
+     id="LanLobbyMenu.wnd:LanLobbyMenuParent"
+     sodipodi:insensitive="true">
+    <rect
+       x="0"
+       y="0"
+       width="3839.9998"
+       height="2160"
+       fill="#4764fa"
+       id="rect1"
+       style="stroke-width:4.15951" />
+    <image
+       href="mainmenuruleruserinterface_cropped.png"
+       x="0"
+       y="0"
+       width="1066.6667"
+       height="600"
+       id="image1"
+       transform="scale(3.6)" />
+  </g>
+  <g
+     id="LanLobbyMenu.wnd:GadgetParent"
+     sodipodi:insensitive="true">
+    <rect
+       x="205"
+       y="160"
+       width="3434"
+       height="1844"
+       fill="#80c70f"
+       id="rect2" />
+  </g>
+  <g
+     id="LanLobbyMenu.wnd:AutoLabel_1">
+    <rect
+       x="2163.2"
+       y="1346.8"
+       width="709.20001"
+       height="86.400002"
+       fill="#24b8f9"
+       id="rect3" />
+    <image
+       href="extracted_images/BlackSquare.png"
+       x="422"
+       y="373"
+       width="197"
+       height="24"
+       id="image3"
+       transform="matrix(3.6 0 0 3.6 644 4)" />
+  </g>
+  <g
+     id="LanLobbyMenu.wnd:ButtonBack">
+    <rect
+       x="239.20004589919998"
+       y="1828.4537"
+       width="460.14867305039996"
+       height="129.60001"
+       fill="#bfcbd0"
+       id="rect4" />
+  </g>
+  <g
+     id="LanLobbyMenu.wnd:ButtonHost">
+    <rect
+       x="2156.0"
+       y="1541.2"
+       width="720.0"
+       height="129.60001"
+       fill="#8ae97d"
+       id="rect5" />
+  </g>
+  <g
+     id="LanLobbyMenu.wnd:ButtonJoin">
+    <rect
+       x="2156.0"
+       y="1685.2"
+       width="720.0"
+       height="129.60001"
+       fill="#7c183a"
+       id="rect6" />
+  </g>
+  <g
+     id="LanLobbyMenu.wnd:ButtonDirectConnect">
+    <rect
+       x="2156.0"
+       y="1829.2"
+       width="720.0"
+       height="129.60001"
+       fill="#b7ab99"
+       id="rect7" />
+  </g>
+  <g
+     id="LanLobbyMenu.wnd:TextEntryPlayerName">
+    <rect
+       x="2159.6001"
+       y="1436.7992783999998"
+       width="446.39999"
+       height="79.99992"
+       fill="#40b200"
+       id="rect8" />
+    <image
+       href="extracted_images/TextEntryEnabledLeftEnd.png"
+       x="421"
+       y="398"
+       width="124"
+       height="25"
+       id="image8"
+       transform="matrix(3.6 0 0 3.2 644 163.201)" />
+    <image
+       href="extracted_images/TextEntryEnabledRightEnd.png"
+       x="421"
+       y="398"
+       width="124"
+       height="25"
+       id="image9"
+       transform="matrix(3.6 0 0 3.2 644 163.201)" />
+    <image
+       href="extracted_images/TextEntryEnabledRepeatingCenter.png"
+       x="421"
+       y="398"
+       width="124"
+       height="25"
+       id="image10"
+       transform="matrix(3.6 0 0 3.2 644 163.201)" />
+    <image
+       href="extracted_images/TextEntryEnabledSmallRepeatingCenter.png"
+       x="421"
+       y="398"
+       width="124"
+       height="25"
+       id="image11"
+       transform="matrix(3.6 0 0 3.2 644 163.201)" />
+  </g>
+  <g
+     id="LanLobbyMenu.wnd:ListboxPlayers">
+    <rect
+       x="1263.2"
+       y="288.8999828015601"
+       width="860.0"
+       height="1693.485418013"
+       fill="#64d99a"
+       id="rect11" />
+    <image
+       href="extracted_images/BlackSquare.png"
+       x="292"
+       y="75"
+       width="128"
+       height="485"
+       id="image12"
+       transform="matrix(6.71875 0 0 3.49172 -698.675 27.0208)" />
+    <image
+       href="extracted_images/ListBoxHiliteItemLeftEnd.png"
+       x="292"
+       y="75"
+       width="128"
+       height="485"
+       id="image13"
+       transform="matrix(6.71875 0 0 3.49172 -698.675 27.0208)" />
+    <image
+       href="extracted_images/ListBoxHiliteItemRightEnd.png"
+       x="292"
+       y="75"
+       width="128"
+       height="485"
+       id="image14"
+       transform="matrix(6.71875 0 0 3.49172 -698.675 27.0208)" />
+    <image
+       href="extracted_images/ListBoxHiliteItemRepeatingCenter.png"
+       x="292"
+       y="75"
+       width="128"
+       height="485"
+       id="image15"
+       transform="matrix(6.71875 0 0 3.49172 -698.675 27.0208)" />
+    <image
+       href="extracted_images/ListBoxHiliteItemSmallRepeatingCenter.png"
+       x="292"
+       y="75"
+       width="128"
+       height="485"
+       id="image16"
+       transform="matrix(6.71875 0 0 3.49172 -698.675 27.0208)" />
+  </g>
+  <g
+     id="LanLobbyMenu.wnd:AutoLabel_2">
+    <rect
+       x="1263.2"
+       y="180.39999"
+       width="853.28125"
+       height="93.599998"
+       fill="#6e809f"
+       id="rect16" />
+    <image
+       href="extracted_images/BlackSquare.png"
+       x="292"
+       y="49"
+       width="127"
+       height="26"
+       id="image17"
+       transform="matrix(6.71875 0 0 3.6 -698.675 4)" />
+  </g>
+  <g
+     id="LanLobbyMenu.wnd:ListboxGames">
+    <rect
+       x="2909.0254"
+       y="288.8999550222402"
+       width="697.47504"
+       height="1699.841003852"
+       fill="#00e0a5"
+       id="rect17" />
+    <image
+       href="extracted_images/BlackSquare.png"
+       x="620"
+       y="75"
+       width="139"
+       height="485"
+       id="image18"
+       transform="matrix(5.0178 0 0 3.50483 -202.014 26.038)" />
+    <image
+       href="extracted_images/ListBoxHiliteItemLeftEnd.png"
+       x="620"
+       y="75"
+       width="139"
+       height="485"
+       id="image19"
+       transform="matrix(5.0178 0 0 3.50483 -202.014 26.038)" />
+    <image
+       href="extracted_images/ListBoxHiliteItemRightEnd.png"
+       x="620"
+       y="75"
+       width="139"
+       height="485"
+       id="image20"
+       transform="matrix(5.0178 0 0 3.50483 -202.014 26.038)" />
+    <image
+       href="extracted_images/ListBoxHiliteItemRepeatingCenter.png"
+       x="620"
+       y="75"
+       width="139"
+       height="485"
+       id="image21"
+       transform="matrix(5.0178 0 0 3.50483 -202.014 26.038)" />
+    <image
+       href="extracted_images/ListBoxHiliteItemSmallRepeatingCenter.png"
+       x="620"
+       y="75"
+       width="139"
+       height="485"
+       id="image22"
+       transform="matrix(5.0178 0 0 3.50483 -202.014 26.038)" />
+  </g>
+  <g
+     id="LanLobbyMenu.wnd:StaticTextGameInfo">
+    <rect
+       x="2156.0"
+       y="288.90010600000005"
+       width="720.0"
+       height="751.90029939431"
+       fill="#a3724a"
+       id="rect22" />
+    <image
+       href="extracted_images/BlackSquare.png"
+       x="420"
+       y="75"
+       width="200"
+       height="213"
+       id="image23"
+       transform="matrix(3.6 0 0 3.53005 644 24.1465)" />
+  </g>
+  <g
+     id="LanLobbyMenu.wnd:AutoLabel_4">
+    <rect
+       x="2147.6001"
+       y="180.39999"
+       width="716.40002"
+       height="93.599998"
+       fill="#e9aaaa"
+       id="rect23" />
+    <image
+       href="extracted_images/BlackSquare.png"
+       x="421"
+       y="49"
+       width="199"
+       height="26"
+       id="image24"
+       transform="matrix(3.6 0 0 3.6 632 4)" />
+  </g>
+  <g
+     id="LanLobbyMenu.wnd:ListboxChatWindowLanLobby">
+    <rect
+       x="239.2000458992"
+       y="288.39999"
+       width="989.663594748"
+       height="1378.8"
+       fill="#540e61"
+       id="rect24" />
+    <image
+       href="extracted_images/BlackSquare.png"
+       x="52"
+       y="79"
+       width="236"
+       height="383"
+       id="image25"
+       transform="matrix(4.19349 0 0 3.6 21.1386 4)" />
+    <image
+       href="extracted_images/ListBoxHiliteItemLeftEnd.png"
+       x="52"
+       y="79"
+       width="236"
+       height="383"
+       id="image26"
+       transform="matrix(4.19349 0 0 3.6 21.1386 4)" />
+    <image
+       href="extracted_images/ListBoxHiliteItemRightEnd.png"
+       x="52"
+       y="79"
+       width="236"
+       height="383"
+       id="image27"
+       transform="matrix(4.19349 0 0 3.6 21.1386 4)" />
+    <image
+       href="extracted_images/ListBoxHiliteItemRepeatingCenter.png"
+       x="52"
+       y="79"
+       width="236"
+       height="383"
+       id="image28"
+       transform="matrix(4.19349 0 0 3.6 21.1386 4)" />
+    <image
+       href="extracted_images/ListBoxHiliteItemSmallRepeatingCenter.png"
+       x="52"
+       y="79"
+       width="236"
+       height="383"
+       id="image29"
+       transform="matrix(4.19349 0 0 3.6 21.1386 4)" />
+  </g>
+  <g
+     id="LanLobbyMenu.wnd:TextEntryChat">
+    <rect
+       x="239.2000458992"
+       y="1685.1998099999998"
+       width="989.663594748"
+       height="79.99992185185"
+       fill="#e9c750"
+       id="rect29" />
+    <image
+       href="extracted_images/TextEntryEnabledLeftEnd.png"
+       x="52"
+       y="467"
+       width="236"
+       height="24"
+       id="image30"
+       transform="matrix(4.19349 0 0 3.33333 21.1386 128.535)" />
+    <image
+       href="extracted_images/TextEntryEnabledRightEnd.png"
+       x="52"
+       y="467"
+       width="236"
+       height="24"
+       id="image31"
+       transform="matrix(4.19349 0 0 3.33333 21.1386 128.535)" />
+    <image
+       href="extracted_images/TextEntryEnabledRepeatingCenter.png"
+       x="52"
+       y="467"
+       width="236"
+       height="24"
+       id="image32"
+       transform="matrix(4.19349 0 0 3.33333 21.1386 128.535)" />
+    <image
+       href="extracted_images/TextEntryEnabledSmallRepeatingCenter.png"
+       x="52"
+       y="467"
+       width="236"
+       height="24"
+       id="image33"
+       transform="matrix(4.19349 0 0 3.33333 21.1386 128.535)" />
+  </g>
+  <g
+     id="LanLobbyMenu.wnd:ButtonClear"
+     transform="matrix(1,0,0,0.96470542,0,48.711232)">
+    <rect
+       x="2609.6001"
+       y="1436.7993"
+       width="262.79999"
+       height="84.999962"
+       fill="#ebe888"
+       id="rect33" />
+  </g>
+  <g
+     id="LanLobbyMenu.wnd:ButtonEmote">
+    <rect
+       x="3876.0"
+       y="1868.4"
+       width="129.6"
+       height="86.4"
+       fill="#f04270"
+       id="rect34" />
+    <image
+       href="extracted_images/ReturnButton.png"
+       x="810"
+       y="519"
+       width="36"
+       height="24"
+       id="image34"
+       transform="matrix(3.6 0 0 3.6 960 0)" />
+    <image
+       href="extracted_images/ReturnButtonHilitePushed.png"
+       x="810"
+       y="519"
+       width="36"
+       height="24"
+       id="image35"
+       transform="matrix(3.6 0 0 3.6 960 0)" />
+  </g>
+  <g
+     id="LanLobbyMenu.wnd:AutoLabel_5">
+    <rect
+       x="241.20003999999994"
+       y="158.8"
+       width="2205.2817"
+       height="118.8"
+       fill="#8e2b27"
+       id="rect35" />
+  </g>
+  <g
+     id="LanLobbyMenu.wnd:Line">
+    <rect
+       x="208"
+       y="274.0"
+       width="3430"
+       height="3.6"
+       fill="#8be0bc"
+       id="rect36" />
+  </g>
+  <g
+     id="LanLobbyMenu.wnd:AutoLabel_3">
+    <rect
+       x="2901.3615505440002"
+       y="180.8073"
+       width="694.9182519144"
+       height="93.000038"
+       fill="#73314b"
+       id="rect17-8"
+       style="fill-opacity:0.25;stroke:none" />
+    <image
+       href="extracted_images/BlackSquare.png"
+       x="275"
+       y="103"
+       width="240"
+       height="28"
+       id="image18-6"
+       transform="matrix(2.89549 0 0 3.32143 2105.1 -161.3)" />
+  </g>
+</svg>

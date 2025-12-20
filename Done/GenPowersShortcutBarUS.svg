@@ -1,0 +1,87 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    rect { stroke: none; fill-opacity: 0.25; }
+    text { font-family: Arial, sans-serif; font-size: 10px; fill: black; text-anchor: middle; dominant-baseline: middle; pointer-events: none; }
+  </style>
+  <g id="GenPowersShortcutBarUS.wnd:GenPowersShortcutBarParent">
+    <rect x="3672" y="0" width="168" height="1491" fill="rgb(44,84,133)" />
+    <image href="extracted_images/SATray.png" x="3672" y="0" width="168" height="1491" />
+  </g>
+  <g id="GenPowersShortcutBarUS.wnd:ButtonParent1">
+    <rect x="3672" y="1347" width="168" height="143" fill="rgb(76,200,67)" />
+    <image href="extracted_images/SATraySmall.png" x="3672" y="1347" width="168" height="143" />
+  </g>
+  <g id="GenPowersShortcutBarUS.wnd:ButtonCommand1">
+    <rect x="3675" y="1372" width="136" height="94" fill="rgb(74,92,178)" />
+  </g>
+  <g id="GenPowersShortcutBarUS.wnd:ButtonParent2">
+    <rect x="3672" y="1225" width="168" height="143" fill="rgb(239,54,75)" />
+    <image href="extracted_images/SATraySmall.png" x="3672" y="1225" width="168" height="143" />
+  </g>
+  <g id="GenPowersShortcutBarUS.wnd:ButtonCommand2">
+    <rect x="3675" y="1249" width="136" height="94" fill="rgb(237,192,123)" />
+  </g>
+  <g id="GenPowersShortcutBarUS.wnd:ButtonParent3">
+    <rect x="3672" y="1102" width="168" height="143" fill="rgb(210,245,251)" />
+    <image href="extracted_images/SATraySmall.png" x="3672" y="1102" width="168" height="143" />
+  </g>
+  <g id="GenPowersShortcutBarUS.wnd:ButtonCommand3">
+    <rect x="3675" y="1127" width="136" height="94" fill="rgb(104,221,199)" />
+  </g>
+  <g id="GenPowersShortcutBarUS.wnd:ButtonParent4">
+    <rect x="3672" y="980" width="168" height="143" fill="rgb(65,203,136)" />
+    <image href="extracted_images/SATraySmall.png" x="3672" y="980" width="168" height="143" />
+  </g>
+  <g id="GenPowersShortcutBarUS.wnd:ButtonCommand4">
+    <rect x="3675" y="1004" width="136" height="94" fill="rgb(93,205,141)" />
+  </g>
+  <g id="GenPowersShortcutBarUS.wnd:ButtonParent5">
+    <rect x="3672" y="857" width="168" height="143" fill="rgb(37,103,174)" />
+    <image href="extracted_images/SATraySmall.png" x="3672" y="857" width="168" height="143" />
+  </g>
+  <g id="GenPowersShortcutBarUS.wnd:ButtonCommand5">
+    <rect x="3675" y="882" width="136" height="94" fill="rgb(238,220,83)" />
+  </g>
+  <g id="GenPowersShortcutBarUS.wnd:ButtonParent6">
+    <rect x="3672" y="735" width="168" height="143" fill="rgb(191,16,11)" />
+    <image href="extracted_images/SATraySmall.png" x="3672" y="735" width="168" height="143" />
+  </g>
+  <g id="GenPowersShortcutBarUS.wnd:ButtonCommand6">
+    <rect x="3675" y="759" width="136" height="94" fill="rgb(199,50,165)" />
+  </g>
+  <g id="GenPowersShortcutBarUS.wnd:ButtonParent7">
+    <rect x="3672" y="612" width="168" height="143" fill="rgb(192,119,60)" />
+    <image href="extracted_images/SATraySmall.png" x="3672" y="612" width="168" height="143" />
+  </g>
+  <g id="GenPowersShortcutBarUS.wnd:ButtonCommand7">
+    <rect x="3675" y="637" width="136" height="94" fill="rgb(201,138,57)" />
+  </g>
+  <g id="GenPowersShortcutBarUS.wnd:ButtonParent8">
+    <rect x="3672" y="490" width="168" height="143" fill="rgb(222,221,146)" />
+    <image href="extracted_images/SATraySmall.png" x="3672" y="490" width="168" height="143" />
+  </g>
+  <g id="GenPowersShortcutBarUS.wnd:ButtonCommand8">
+    <rect x="3675" y="514" width="136" height="94" fill="rgb(97,164,102)" />
+  </g>
+  <g id="GenPowersShortcutBarUS.wnd:ButtonParent9">
+    <rect x="3672" y="367" width="168" height="143" fill="rgb(59,220,140)" />
+    <image href="extracted_images/SATraySmall.png" x="3672" y="367" width="168" height="143" />
+  </g>
+  <g id="GenPowersShortcutBarUS.wnd:ButtonCommand9">
+    <rect x="3675" y="392" width="136" height="94" fill="rgb(174,58,110)" />
+  </g>
+  <g id="GenPowersShortcutBarUS.wnd:ButtonParent10">
+    <rect x="3672" y="245" width="168" height="143" fill="rgb(172,221,179)" />
+    <image href="extracted_images/SATraySmall.png" x="3672" y="245" width="168" height="143" />
+  </g>
+  <g id="GenPowersShortcutBarUS.wnd:ButtonCommand10">
+    <rect x="3675" y="269" width="136" height="94" fill="rgb(249,118,9)" />
+  </g>
+  <g id="GenPowersShortcutBarUS.wnd:ButtonParent11">
+    <rect x="3672" y="122" width="168" height="143" fill="rgb(20,166,107)" />
+    <image href="extracted_images/SATraySmall.png" x="3672" y="122" width="168" height="143" />
+  </g>
+  <g id="GenPowersShortcutBarUS.wnd:ButtonCommand11">
+    <rect x="3675" y="147" width="136" height="94" fill="rgb(248,154,166)" />
+  </g>
+</svg>
