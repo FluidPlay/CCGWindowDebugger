@@ -1,0 +1,1337 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="3840"
+   height="2160"
+   viewBox="0 0 3840 2160"
+   version="1.1"
+   id="svg124"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs124" />
+  <style
+     id="style1">&#10;    rect { stroke: none; fill-opacity: 0.25; }&#10;    text { font-family: Arial, sans-serif; font-size: 10px; fill: black; text-anchor: middle; dominant-baseline: middle; pointer-events: none; }&#10;  </style>
+  <g
+     id="ScoreScreen.wnd:ParentScoreScreen">
+    <rect
+       x="0"
+       y="0"
+       width="3840"
+       height="2160"
+       fill="#a72675"
+       id="rect1" />
+    <image
+       href="mainmenuruleruserinterface_cropped.png"
+       x="0"
+       y="0"
+       width="3840"
+       height="2160"
+       id="image1" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:MainBackdrop">
+    <rect
+       x="206"
+       y="160"
+       width="3432"
+       height="1844"
+       fill="#fdc527"
+       id="rect2"
+       style="stroke-width:1.13748" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:AutoLabel_1">
+    <rect
+       x="372.6541997759"
+       y="280.04003199999994"
+       width="3098.945961759"
+       height="187.69951799999998"
+       fill="#15f224"
+       id="rect3" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextPlayerName">
+    <rect
+       x="480.8421924496999"
+       y="168.01579040000001"
+       width="515.6053804497"
+       height="96.897168"
+       fill="#12b402"
+       id="rect4" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextUnitsBuilt">
+    <rect
+       x="983.9732720000002"
+       y="164.7858848"
+       width="307.6999804497"
+       height="103.3569792"
+       fill="#55f55c"
+       id="rect5" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextUnitsLost">
+    <rect
+       x="1283.357048"
+       y="164.7858848"
+       width="320.1743275503"
+       height="103.3569792"
+       fill="#5dc85c"
+       id="rect6" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextUnitsDestroyed">
+    <rect
+       x="1578.5827160000003"
+       y="164.7858848"
+       width="336.8067595503"
+       height="103.3569792"
+       fill="#3c0751"
+       id="rect7" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextBuildingsConstructed">
+    <rect
+       x="1890.4408159999998"
+       y="164.7858848"
+       width="386.7040324497"
+       height="103.3569792"
+       fill="#d19668"
+       id="rect8" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextBuildingsLost">
+    <rect
+       x="2252.196096497"
+       y="164.7858848"
+       width="349.2810604497"
+       height="103.3569792"
+       fill="#decb6e"
+       id="rect9" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextSuppliesCollected">
+    <rect
+       x="2954.916464"
+       y="164.7858848"
+       width="407.4945724497"
+       height="103.3569792"
+       fill="#5adeda"
+       id="rect10" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextBuildingsDestroyed">
+    <rect
+       x="2609.7935"
+       y="164.7858848"
+       width="349.2810604497"
+       height="103.3569792"
+       fill="#c50fe3"
+       id="rect11" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:TextEntryChat">
+    <rect
+       x="501.6327324496999"
+       y="1724.8302896"
+       width="2611.2918240000004"
+       height="80.74764"
+       fill="#a3919d"
+       id="rect12" />
+    <image
+       href="extracted_images/TextEntryEnabledLeftEnd.png"
+       x="68"
+       y="516"
+       width="628"
+       height="25"
+       id="image12"
+       transform="matrix(4.15811 0 0 3.22991 218.881 58.199)" />
+    <image
+       href="extracted_images/TextEntryEnabledRightEnd.png"
+       x="68"
+       y="516"
+       width="628"
+       height="25"
+       id="image13"
+       transform="matrix(4.15811 0 0 3.22991 218.881 58.199)" />
+    <image
+       href="extracted_images/TextEntryEnabledRepeatingCenter.png"
+       x="68"
+       y="516"
+       width="628"
+       height="25"
+       id="image14"
+       transform="matrix(4.15811 0 0 3.22991 218.881 58.199)" />
+    <image
+       href="extracted_images/TextEntryEnabledSmallRepeatingCenter.png"
+       x="68"
+       y="516"
+       width="628"
+       height="25"
+       id="image15"
+       transform="matrix(4.15811 0 0 3.22991 218.881 58.199)" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:ButtonEmote">
+    <rect
+       x="3901.305"
+       y="1755.2923839999999"
+       width="118.54707314714999"
+       height="79.03137782943"
+       fill="#16ac74"
+       id="rect15" />
+    <image
+       href="extracted_images/ReturnButton.png"
+       x="700"
+       y="516"
+       width="36"
+       height="24"
+       id="image16"
+       transform="matrix(3.29297 0 0 3.29297 1596.22 56.1178)" />
+    <image
+       href="extracted_images/ReturnButtonHilitePushed.png"
+       x="700"
+       y="516"
+       width="36"
+       height="24"
+       id="image17"
+       transform="matrix(3.29297 0 0 3.29297 1596.22 56.1178)" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:ListboxChatWindowScoreScreen">
+    <rect
+       x="505.79087510060003"
+       y="1308.1724672"
+       width="2769.3000435030003"
+       height="390.81858657196"
+       fill="#943148"
+       id="rect17" />
+    <image
+       href="extracted_images/BlackSquare.png"
+       x="69"
+       y="387"
+       width="666"
+       height="121"
+       id="image18"
+       transform="matrix(4.15811 0 0 3.22991 218.881 58.199)" />
+    <image
+       href="extracted_images/ListBoxHiliteItemLeftEnd.png"
+       x="69"
+       y="387"
+       width="666"
+       height="121"
+       id="image19"
+       transform="matrix(4.15811 0 0 3.22991 218.881 58.199)" />
+    <image
+       href="extracted_images/ListBoxHiliteItemRightEnd.png"
+       x="69"
+       y="387"
+       width="666"
+       height="121"
+       id="image20"
+       transform="matrix(4.15811 0 0 3.22991 218.881 58.199)" />
+    <image
+       href="extracted_images/ListBoxHiliteItemRepeatingCenter.png"
+       x="69"
+       y="387"
+       width="666"
+       height="121"
+       id="image21"
+       transform="matrix(4.15811 0 0 3.22991 218.881 58.199)" />
+    <image
+       href="extracted_images/ListBoxHiliteItemSmallRepeatingCenter.png"
+       x="69"
+       y="387"
+       width="666"
+       height="121"
+       id="image22"
+       transform="matrix(4.15811 0 0 3.22991 218.881 58.199)" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:ListboxWarschoolAdvice">
+    <rect
+       x="505.79087510060003"
+       y="1308.1724672"
+       width="2769.3000435030003"
+       height="390.81858657196"
+       fill="#daa9a5"
+       id="rect22" />
+    <image
+       href="extracted_images/WarSchoolWindow.png"
+       x="728.40002"
+       y="1393.2"
+       width="2397.6001"
+       height="435.60001"
+       id="image23"
+       transform="matrix(1.15503 0 0 0.897196 -335.533 58.199)" />
+    <image
+       href="extracted_images/ListBoxHiliteItemLeftEnd.png"
+       x="728.40002"
+       y="1393.2"
+       width="2397.6001"
+       height="435.60001"
+       id="image24"
+       transform="matrix(1.15503 0 0 0.897196 -335.533 58.199)" />
+    <image
+       href="extracted_images/ListBoxHiliteItemRightEnd.png"
+       x="728.40002"
+       y="1393.2"
+       width="2397.6001"
+       height="435.60001"
+       id="image25"
+       transform="matrix(1.15503 0 0 0.897196 -335.533 58.199)" />
+    <image
+       href="extracted_images/ListBoxHiliteItemRepeatingCenter.png"
+       x="728.40002"
+       y="1393.2"
+       width="2397.6001"
+       height="435.60001"
+       id="image26"
+       transform="matrix(1.15503 0 0 0.897196 -335.533 58.199)" />
+    <image
+       href="extracted_images/ListBoxHiliteItemSmallRepeatingCenter.png"
+       x="728.40002"
+       y="1393.2"
+       width="2397.6001"
+       height="435.60001"
+       id="image27"
+       transform="matrix(1.15503 0 0 0.897196 -335.533 58.199)" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:Line">
+    <rect
+       x="205.99811495290032"
+       y="281.06247742804"
+       width="3409.990186471"
+       height="3.2299055102803997"
+       fill="#94973d"
+       id="rect27" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:CameoUnitsCreated">
+    <rect
+       x="1039.038286"
+       y="293.00003714715"
+       width="197.57844"
+       height="158.062752"
+       fill="#982610"
+       id="rect28" />
+    <image
+       href="extracted_images/UnitCreated.png"
+       x="189"
+       y="72"
+       width="60"
+       height="48"
+       id="image28"
+       transform="matrix(3.29297 0 0 3.29297 416.666 55.9059)" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:CameoUnitsLost">
+    <rect
+       x="1369.1794139999997"
+       y="293.00003714715"
+       width="197.57844"
+       height="158.062752"
+       fill="#fd4b17"
+       id="rect29" />
+    <image
+       href="extracted_images/UnitLost.png"
+       x="261"
+       y="72"
+       width="60"
+       height="48"
+       id="image29"
+       transform="matrix(3.29297 0 0 3.29297 509.713 55.9059)" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:CameoUnitsDestroyed">
+    <rect
+       x="1699.320464"
+       y="293.00003714715"
+       width="197.57844"
+       height="158.062752"
+       fill="#6814d3"
+       id="rect30" />
+    <image
+       href="extracted_images/UnitDestroyed.png"
+       x="336"
+       y="72"
+       width="60"
+       height="48"
+       id="image30"
+       transform="matrix(3.29297 0 0 3.29297 592.881 55.9059)" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:CameoBuildingCreated">
+    <rect
+       x="2029.4613579999996"
+       y="293.00003714715"
+       width="197.57844"
+       height="158.062752"
+       fill="#6fa329"
+       id="rect31" />
+    <image
+       href="extracted_images/BuildingCreated.png"
+       x="417"
+       y="72"
+       width="60"
+       height="48"
+       id="image31"
+       transform="matrix(3.29297 0 0 3.29297 656.291 55.9059)" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:CameoBuildingLost">
+    <rect
+       x="2359.6022"
+       y="293.00003714715"
+       width="197.57844"
+       height="158.062752"
+       fill="#6eb8a1"
+       id="rect32" />
+    <image
+       href="extracted_images/BuildingLost.png"
+       x="500"
+       y="72"
+       width="60"
+       height="48"
+       id="image32"
+       transform="matrix(3.29297 0 0 3.29297 713.115 55.9059)" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:CameoBuildingDestroyed">
+    <rect
+       x="2689.7439379999996"
+       y="293.00003714715"
+       width="197.57844"
+       height="158.062752"
+       fill="#44ca53"
+       id="rect33" />
+    <image
+       href="extracted_images/BuildingDestroyed.png"
+       x="587"
+       y="72"
+       width="60"
+       height="48"
+       id="image33"
+       transform="matrix(3.29297 0 0 3.29297 756.768 55.9059)" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:CameoSuppliesCollected">
+    <rect
+       x="3019.8846499999995"
+       y="293.00003714715"
+       width="197.57844"
+       height="158.062752"
+       fill="#c9e08a"
+       id="rect34" />
+    <image
+       href="extracted_images/SuppliesCollected.png"
+       x="675"
+       y="72"
+       width="60"
+       height="48"
+       id="image34"
+       transform="matrix(3.29297 0 0 3.29297 797.127 55.9059)" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextWarSchool">
+    <rect
+       x="551.5300399999999"
+       y="1298.4827504000002"
+       width="2694.453984"
+       height="103.3569792"
+       fill="#470510"
+       id="rect35" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:ButtonOk">
+    <rect
+       x="2796.90836"
+       y="1841.1068911999998"
+       width="532.2378124497"
+       height="116.27661057195999"
+       fill="#86f98e"
+       id="rect36" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:ButtonBuddy">
+    <rect
+       x="1266.7689504000002"
+       y="1841.1068911999998"
+       width="532.00011105793"
+       height="116.27661057195999"
+       fill="#28bf5c"
+       id="rect37" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:ButtonContinue">
+    <rect
+       x="2031.9032657298"
+       y="1841.1068911999998"
+       width="532.00028418596"
+       height="116.27661057195999"
+       fill="#4f8062"
+       id="rect38" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:ButtonSaveReplay">
+    <rect
+       x="501.63522505793"
+       y="1841.1068911999998"
+       width="532.00011105793"
+       height="116.27661057195999"
+       fill="#584177"
+       id="rect39" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:GadgetParent">
+    <rect
+       x="292.10702022409987"
+       y="461.1535928528499"
+       width="3255.800832"
+       height="879.22406714715"
+       fill="#c0f136"
+       id="rect40" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextBuildingsBuilt1">
+    <rect
+       x="1890.440816"
+       y="562.0642556560799"
+       width="365.91349244969996"
+       height="103.3569792"
+       fill="#d6e31b"
+       id="rect41" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextPlayer1">
+    <rect
+       x="489.1584199999999"
+       y="562.0642556560799"
+       width="515.6053804497"
+       height="103.3569792"
+       fill="#621036"
+       id="rect42" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextUnitsBuilt1">
+    <rect
+       x="992.2894880000001"
+       y="562.0642556560799"
+       width="299.38378755030004"
+       height="103.3569792"
+       fill="#65843a"
+       id="rect43" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextUnitsLost1">
+    <rect
+       x="1291.6732639999998"
+       y="562.0642556560799"
+       width="299.38378755030004"
+       height="103.3569792"
+       fill="#589b8c"
+       id="rect44" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextUnitsDestroyed1">
+    <rect
+       x="1591.05704"
+       y="562.0642556560799"
+       width="299.38378755030004"
+       height="103.3569792"
+       fill="#d8867f"
+       id="rect45" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextBuildingsDestroyed1">
+    <rect
+       x="2605.635276497"
+       y="562.0642556560799"
+       width="349.2810604497"
+       height="103.3569792"
+       fill="#f1b3f3"
+       id="rect46" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextBuildingsLost1">
+    <rect
+       x="2256.35432"
+       y="562.0642556560799"
+       width="349.2810604497"
+       height="103.3569792"
+       fill="#b8f862"
+       id="rect47" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextResources1">
+    <rect
+       x="2954.916464"
+       y="562.0642556560799"
+       width="407.4945724497"
+       height="103.3569792"
+       fill="#39f062"
+       id="rect48" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextUnitsLost2">
+    <rect
+       x="1291.6732639999998"
+       y="665.4212438280399"
+       width="299.38378755030004"
+       height="103.3569792"
+       fill="#1feeba"
+       id="rect49" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextUnitsBuilt2">
+    <rect
+       x="992.2894880000001"
+       y="665.4212438280399"
+       width="299.38378755030004"
+       height="103.3569792"
+       fill="#884111"
+       id="rect50" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextPlayer2">
+    <rect
+       x="489.1584199999999"
+       y="665.4212438280399"
+       width="515.6053804497"
+       height="103.3569792"
+       fill="#bb81ea"
+       id="rect51" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextUnitsDestroyed2">
+    <rect
+       x="1591.05704"
+       y="665.4212438280399"
+       width="299.38378755030004"
+       height="103.3569792"
+       fill="#6d44c2"
+       id="rect52" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextBuildingsLost2">
+    <rect
+       x="2256.35432"
+       y="665.4212438280399"
+       width="349.2810604497"
+       height="103.3569792"
+       fill="#e70078"
+       id="rect53" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextBuildingsDestroyed2">
+    <rect
+       x="2605.635276497"
+       y="665.4212438280399"
+       width="349.2810604497"
+       height="103.3569792"
+       fill="#11f3e6"
+       id="rect54" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextResources2">
+    <rect
+       x="2954.916464"
+       y="665.4212438280399"
+       width="407.4945724497"
+       height="103.3569792"
+       fill="#dc1bd7"
+       id="rect55" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextBuildingsBuilt2">
+    <rect
+       x="1890.440816"
+       y="665.4212438280399"
+       width="365.91349244969996"
+       height="103.3569792"
+       fill="#ca66ad"
+       id="rect56" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextBuildingsBuilt3">
+    <rect
+       x="1890.440816"
+       y="768.7782319999999"
+       width="365.91349244969996"
+       height="103.3569792"
+       fill="#2e7dee"
+       id="rect57" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextPlayer3">
+    <rect
+       x="489.1584199999999"
+       y="768.7782319999999"
+       width="515.6053804497"
+       height="103.3569792"
+       fill="#c07127"
+       id="rect58" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextUnitsBuilt3">
+    <rect
+       x="992.2894880000001"
+       y="768.7782319999999"
+       width="299.38378755030004"
+       height="103.3569792"
+       fill="#aacb75"
+       id="rect59" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextUnitsLost3">
+    <rect
+       x="1291.6732639999998"
+       y="768.7782319999999"
+       width="299.38378755030004"
+       height="103.3569792"
+       fill="#2ef229"
+       id="rect60" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextUnitsDestroyed3">
+    <rect
+       x="1591.05704"
+       y="768.7782319999999"
+       width="299.38378755030004"
+       height="103.3569792"
+       fill="#30d9a7"
+       id="rect61" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextBuildingsDestroyed3">
+    <rect
+       x="2605.635276497"
+       y="768.7782319999999"
+       width="349.2810604497"
+       height="103.3569792"
+       fill="#368ee6"
+       id="rect62" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextBuildingsLost3">
+    <rect
+       x="2256.35432"
+       y="768.7782319999999"
+       width="349.2810604497"
+       height="103.3569792"
+       fill="#c7a6a6"
+       id="rect63" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextResources3">
+    <rect
+       x="2954.916464"
+       y="768.7782319999999"
+       width="407.4945724497"
+       height="103.3569792"
+       fill="#449831"
+       id="rect64" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextBuildingsBuilt4">
+    <rect
+       x="1890.440816"
+       y="872.13522017196"
+       width="365.91349244969996"
+       height="103.3569792"
+       fill="#91dab3"
+       id="rect65" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextPlayer4">
+    <rect
+       x="489.1584199999999"
+       y="872.13522017196"
+       width="515.6053804497"
+       height="103.3569792"
+       fill="#90acc4"
+       id="rect66" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextUnitsBuilt4">
+    <rect
+       x="992.2894880000001"
+       y="872.13522017196"
+       width="299.38378755030004"
+       height="103.3569792"
+       fill="#2d8bde"
+       id="rect67" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextUnitsLost4">
+    <rect
+       x="1291.6732639999998"
+       y="872.13522017196"
+       width="299.38378755030004"
+       height="103.3569792"
+       fill="#2ea48e"
+       id="rect68" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextUnitsDestroyed4">
+    <rect
+       x="1591.05704"
+       y="872.13522017196"
+       width="299.38378755030004"
+       height="103.3569792"
+       fill="#b55d05"
+       id="rect69" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextBuildingsDestroyed4">
+    <rect
+       x="2605.635276497"
+       y="872.13522017196"
+       width="349.2810604497"
+       height="103.3569792"
+       fill="#17d672"
+       id="rect70" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextBuildingsLost4">
+    <rect
+       x="2256.35432"
+       y="872.13522017196"
+       width="349.2810604497"
+       height="103.3569792"
+       fill="#82de7b"
+       id="rect71" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextResources4">
+    <rect
+       x="2954.916464"
+       y="872.13522017196"
+       width="407.4945724497"
+       height="103.3569792"
+       fill="#6005b8"
+       id="rect72" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextBuildingsBuilt5">
+    <rect
+       x="1890.440816"
+       y="975.4921903999999"
+       width="365.91349244969996"
+       height="103.3569792"
+       fill="#c0b1af"
+       id="rect73" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextUnitsBuilt5">
+    <rect
+       x="992.2894880000001"
+       y="975.4921903999999"
+       width="299.38378755030004"
+       height="103.3569792"
+       fill="#8c452f"
+       id="rect74" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextPlayer5">
+    <rect
+       x="489.1584199999999"
+       y="975.4921903999999"
+       width="515.6053804497"
+       height="103.3569792"
+       fill="#6bf799"
+       id="rect75" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextUnitsLost5">
+    <rect
+       x="1291.6732639999998"
+       y="975.4921903999999"
+       width="299.38378755030004"
+       height="103.3569792"
+       fill="#fd1bf4"
+       id="rect76" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextUnitsDestroyed5">
+    <rect
+       x="1591.05704"
+       y="975.4921903999999"
+       width="299.38378755030004"
+       height="103.3569792"
+       fill="#61d5a7"
+       id="rect77" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextBuildingsDestroyed5">
+    <rect
+       x="2605.635276497"
+       y="975.4921903999999"
+       width="349.2810604497"
+       height="103.3569792"
+       fill="#45f31d"
+       id="rect78" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextBuildingsLost5">
+    <rect
+       x="2256.35432"
+       y="975.4921903999999"
+       width="349.2810604497"
+       height="103.3569792"
+       fill="#292d40"
+       id="rect79" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextResources5">
+    <rect
+       x="2954.916464"
+       y="975.4921903999999"
+       width="407.4945724497"
+       height="103.3569792"
+       fill="#fc923f"
+       id="rect80" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextBuildingsBuilt6">
+    <rect
+       x="1890.440816"
+       y="1078.8491695999999"
+       width="365.91349244969996"
+       height="103.3569792"
+       fill="#09b85a"
+       id="rect81" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextPlayer6">
+    <rect
+       x="489.1584199999999"
+       y="1078.8491695999999"
+       width="515.6053804497"
+       height="103.3569792"
+       fill="#41f8a2"
+       id="rect82" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextUnitsBuilt6">
+    <rect
+       x="992.2894880000001"
+       y="1078.8491695999999"
+       width="299.38378755030004"
+       height="103.3569792"
+       fill="#0e0601"
+       id="rect83" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextUnitsLost6">
+    <rect
+       x="1291.6732639999998"
+       y="1078.8491695999999"
+       width="299.38378755030004"
+       height="103.3569792"
+       fill="#0ff54d"
+       id="rect84" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextUnitsDestroyed6">
+    <rect
+       x="1591.05704"
+       y="1078.8491695999999"
+       width="299.38378755030004"
+       height="103.3569792"
+       fill="#56e806"
+       id="rect85" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextBuildingsDestroyed6">
+    <rect
+       x="2605.635276497"
+       y="1078.8491695999999"
+       width="349.2810604497"
+       height="103.3569792"
+       fill="#c9689e"
+       id="rect86" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextBuildingsLost6">
+    <rect
+       x="2256.35432"
+       y="1078.8491695999999"
+       width="349.2810604497"
+       height="103.3569792"
+       fill="#037aeb"
+       id="rect87" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextResources6">
+    <rect
+       x="2954.916464"
+       y="1078.8491695999999"
+       width="407.4945724497"
+       height="103.3569792"
+       fill="#911943"
+       id="rect88" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextBuildingsBuilt7">
+    <rect
+       x="1890.440816"
+       y="1182.2061488"
+       width="365.91349244969996"
+       height="103.3569792"
+       fill="#079aaa"
+       id="rect89" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextPlayer7">
+    <rect
+       x="485.0003351006"
+       y="1182.2061488"
+       width="515.6053804497"
+       height="103.3569792"
+       fill="#71a35b"
+       id="rect90" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextUnitsBuilt7">
+    <rect
+       x="996.4475960000002"
+       y="1182.2061488"
+       width="299.38378755030004"
+       height="103.3569792"
+       fill="#8f0ebd"
+       id="rect91" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextUnitsLost7">
+    <rect
+       x="1291.6732639999998"
+       y="1182.2061488"
+       width="299.38378755030004"
+       height="103.3569792"
+       fill="#876426"
+       id="rect92" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextUnitsDestroyed7">
+    <rect
+       x="1591.05704"
+       y="1182.2061488"
+       width="299.38378755030004"
+       height="103.3569792"
+       fill="#45d488"
+       id="rect93" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextBuildingsDestroyed7">
+    <rect
+       x="2605.635276497"
+       y="1182.2061488"
+       width="349.2810604497"
+       height="103.3569792"
+       fill="#29e676"
+       id="rect94" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextBuildingsLost7">
+    <rect
+       x="2256.35432"
+       y="1182.2061488"
+       width="349.2810604497"
+       height="103.3569792"
+       fill="#cfcd3e"
+       id="rect95" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextResources7">
+    <rect
+       x="2954.916464"
+       y="1182.2061488"
+       width="407.4945724497"
+       height="103.3569792"
+       fill="#05cb10"
+       id="rect96" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextBuildingsLost0">
+    <rect
+       x="2256.35432"
+       y="458.70728542804005"
+       width="349.2810604497"
+       height="103.3569792"
+       fill="#213a6f"
+       id="rect97" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextPlayer0">
+    <rect
+       x="489.1584199999999"
+       y="458.70728542804005"
+       width="515.6053804497"
+       height="103.3569792"
+       fill="#e7feb0"
+       id="rect98" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextUnitsBuilt0">
+    <rect
+       x="992.2894880000001"
+       y="458.70728542804005"
+       width="299.38378755030004"
+       height="103.3569792"
+       fill="#b83b29"
+       id="rect99" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextUnitsLost0">
+    <rect
+       x="1291.6732639999998"
+       y="458.70728542804005"
+       width="299.38378755030004"
+       height="103.3569792"
+       fill="#f33a5b"
+       id="rect100" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextUnitsDestroyed0">
+    <rect
+       x="1591.05704"
+       y="458.70728542804005"
+       width="299.38378755030004"
+       height="103.3569792"
+       fill="#7009fe"
+       id="rect101" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextBuildingsDestroyed0">
+    <rect
+       x="2605.635276497"
+       y="458.70728542804005"
+       width="349.2810604497"
+       height="103.3569792"
+       fill="#927bcb"
+       id="rect102" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextResources0">
+    <rect
+       x="2954.916464"
+       y="458.70728542804005"
+       width="407.4945724497"
+       height="103.3569792"
+       fill="#38db99"
+       id="rect103" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextBuildingsBuilt0">
+    <rect
+       x="1890.440816"
+       y="458.70728542804005"
+       width="365.91349244969996"
+       height="103.3569792"
+       fill="#0951c1"
+       id="rect104" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextObserver0">
+    <rect
+       x="1021.3962440000003"
+       y="458.70728542804005"
+       width="2266.16886"
+       height="103.3569792"
+       fill="#66e205"
+       id="rect105" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextObserver1">
+    <rect
+       x="1021.3962440000003"
+       y="562.0642556560799"
+       width="2266.16886"
+       height="103.3569792"
+       fill="#3702c0"
+       id="rect106" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextObserver2">
+    <rect
+       x="1021.3962440000003"
+       y="665.4212438280399"
+       width="2266.16886"
+       height="103.3569792"
+       fill="#2e821a"
+       id="rect107" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextObserver3">
+    <rect
+       x="1021.3962440000003"
+       y="768.7782319999999"
+       width="2266.16886"
+       height="103.3569792"
+       fill="#7c60d2"
+       id="rect108" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextObserver4">
+    <rect
+       x="1021.3962440000003"
+       y="872.13522017196"
+       width="2266.16886"
+       height="103.3569792"
+       fill="#ef2135"
+       id="rect109" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextObserver5">
+    <rect
+       x="1021.3962440000003"
+       y="975.4921903999999"
+       width="2266.16886"
+       height="103.3569792"
+       fill="#dc0ec2"
+       id="rect110" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextObserver6">
+    <rect
+       x="1021.3962440000003"
+       y="1078.8491695999999"
+       width="2266.16886"
+       height="103.3569792"
+       fill="#561c0d"
+       id="rect111" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextObserver7">
+    <rect
+       x="1021.3962440000003"
+       y="1182.2061488"
+       width="2266.16886"
+       height="103.3569792"
+       fill="#0a4bad"
+       id="rect112" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:GameWindowWinner7">
+    <rect
+       x="377.50701182803994"
+       y="1198.3556768"
+       width="80.74764"
+       height="71.057920508412"
+       fill="#f1bebb"
+       id="rect113" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:GameWindowWinner6">
+    <rect
+       x="377.50701182803994"
+       y="1094.9986976000002"
+       width="80.74764"
+       height="71.057920508412"
+       fill="#a23053"
+       id="rect114" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:GameWindowWinner5">
+    <rect
+       x="377.50701182803994"
+       y="991.6417184000003"
+       width="80.74764"
+       height="67.828015805608"
+       fill="#ce1378"
+       id="rect115" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:GameWindowWinner4">
+    <rect
+       x="377.50701182803994"
+       y="888.2847481719599"
+       width="80.74764"
+       height="71.057920508412"
+       fill="#5730fa"
+       id="rect116" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:GameWindowWinner3">
+    <rect
+       x="377.50701182803994"
+       y="784.9277599999999"
+       width="80.74764"
+       height="71.057920508412"
+       fill="#961706"
+       id="rect117" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:GameWindowWinner2">
+    <rect
+       x="377.50701182803994"
+       y="681.5707718280398"
+       width="80.74764"
+       height="71.057920508412"
+       fill="#f0799d"
+       id="rect118" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:GameWindowWinner1">
+    <rect
+       x="377.50701182803994"
+       y="578.2137836560798"
+       width="80.74764"
+       height="71.057920508412"
+       fill="#a40270"
+       id="rect119" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:GameWindowWinner0">
+    <rect
+       x="377.50701182803994"
+       y="474.85681342804"
+       width="80.74764"
+       height="71.057920508412"
+       fill="#2030d3"
+       id="rect120" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:BigPortrait">
+    <rect
+       x="1187.720564"
+       y="494.2362559999999"
+       width="1392.96618"
+       height="1065.868848"
+       fill="#c52174"
+       id="rect121" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:GeneralRemarks">
+    <rect
+       x="796.8584351006004"
+       y="1595.6340656"
+       width="2137.267512"
+       height="242.24292"
+       fill="#2a8844"
+       id="rect122" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:ChallengeWinLossText"
+     transform="matrix(1.1775861,0,0,0.91471473,-349.44386,56.11784)">
+    <rect
+       x="692.40002"
+       y="151.2"
+       width="2505.6001"
+       height="302.39999"
+       fill="#a46512"
+       id="rect123" />
+  </g>
+  <g
+     id="ScoreScreen.wnd:StaticTextGameSaveComplete">
+    <rect
+       x="2942.44214"
+       y="1724.8302896"
+       width="474.0243004497"
+       height="80.74764"
+       fill="#f48f39"
+       id="rect124" />
+  </g>
+</svg>

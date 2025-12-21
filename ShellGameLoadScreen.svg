@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="3840"
+   height="2160"
+   viewBox="0 0 3840 2160"
+   version="1.1"
+   id="svg6"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <style
+     id="style1">&#10;    rect { stroke: none; fill-opacity: 0.25; }&#10;    text { font-family: Arial, sans-serif; font-size: 10px; fill: black; text-anchor: middle; dominant-baseline: middle; pointer-events: none; }&#10;  </style>
+  <g
+     id="ShellGameLoadScreen.wnd:ParentShellGameLoadScreen">
+    <rect
+       x="479.39922199009993"
+       y="0.0"
+       width="2881.2036339801"
+       height="2160.0011699798997"
+       fill="#db15f5"
+       id="rect1" />
+    <image
+       href="extracted_images/LoadPageHuge.png"
+       x="479.3992"
+       y="0"
+       width="2881.2036"
+       height="2160.0012"
+       id="image1" />
+  </g>
+  <g
+     id="ShellGameLoadScreen.wnd:ProgressLoad">
+    <rect
+       x="1647.7461"
+       y="2077.0618"
+       width="533.68945"
+       height="57.696163"
+       fill="#87413d"
+       id="rect2"
+       style="stroke-width:3.00001" />
+    <image
+       href="extracted_images/LoadingBar_L.png"
+       x="1647.7461"
+       y="2077.0618"
+       width="533.68945"
+       height="57.696163"
+       id="image2" />
+    <image
+       href="extracted_images/LoadingBar_R.png"
+       x="1647.7461"
+       y="2077.0618"
+       width="533.68945"
+       height="57.696163"
+       id="image3" />
+    <image
+       href="extracted_images/LoadingBar_C.png"
+       x="1647.7461"
+       y="2077.0618"
+       width="533.68945"
+       height="57.696163"
+       id="image4" />
+    <image
+       href="extracted_images/LoadingBar_DePowered.png"
+       x="1647.7461"
+       y="2077.0618"
+       width="533.68945"
+       height="57.696163"
+       id="image5" />
+    <image
+       href="extracted_images/LoadingBar_Progress.png"
+       x="1647.7461"
+       y="2077.0618"
+       width="533.68945"
+       height="57.696163"
+       id="image6" />
+  </g>
+  <g
+     id="ShellGameLoadScreen.wnd:StaticTextLegal">
+    <rect
+       x="984.2408747900001"
+       y="1947.2465508001999"
+       width="1875.1261903998002"
+       height="100.96833055997999"
+       fill="#791b59"
+       id="rect6" />
+  </g>
+</svg>
