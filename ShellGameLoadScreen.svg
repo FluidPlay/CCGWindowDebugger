@@ -14,18 +14,18 @@
   <g
      id="ShellGameLoadScreen.wnd:ParentShellGameLoadScreen">
     <rect
-       x="479.39922199009993"
+       x="0"
        y="0.0"
-       width="2881.2036339801"
-       height="2160.0011699798997"
+       width="3840"
+       height="2160"
        fill="#db15f5"
        id="rect1" />
     <image
        href="extracted_images/LoadPageHuge.png"
-       x="479.3992"
+       x="0"
        y="0"
-       width="2881.2036"
-       height="2160.0012"
+       width="3840"
+       height="2160"
        id="image1" />
   </g>
   <g
