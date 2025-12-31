@@ -1,15 +1,68 @@
+TO-DO: Window/Menus
+		ControlBarScheme
+		Intro Map
+
+** Mapped Images: will be searched only within a "MappedImages" or "INI" folder
+
+** Experience Points Window: layout is only in GeneralsExpPoint.wnd; images are, eg: 
+	GeneralsPowerMenu_China
+	Defined in: SCPurchasePowers512.INI
+	Found at: Data\INI\MappedImages\TextureSize_512
+	* These are loaded from Data/English/Art/Textures
+
+	
+----
+
+Button Bevel/Emboss preset (Photoshop settings)
+	Style: Inner Bevel; Technique: Smooth
+	Depth: 80%
+	Direction: UpdateSize: 10px; Soften: 0px;
+	Angle: 127 deg; Use Global Light [x]
+	Altitude: 37 deg; Rest = default
+
+// SCHEME TO SVG
+
+--- General Info
+
+Commandbar texture size: 4096 x 1024
+ImagePart rect size: 3840 x 714
+Image entries defined in: \Data\INI\MappedImages\HandCreated\HandCreatedMappedImages.INI
+	Eg: InGameUIGLABase
+
+	@ ControlBarScheme.ini
+	/*  ImagePart
+		Position X:0 Y:1260
+		Size X:3839 Y:900	
+	*/
+	@ HandCreatedMappedImages.INI
+	/*	MappedImage InGameUIGLABase
+			Texture = SUCommandBar.tga
+			TextureWidth = 4096
+			TextureHeight = 1024
+			Coords = Left:0 Top:123 Right:3839 Bottom:1023	;;Notice that Size Y = Bottom - Top
+			Status = NONE
+		End	
+	*/
+
+--- Commandline commands:
+
 # Generate SVG
-python overlay_generator.py --generate
+python scheme_to_svg.py --generate --scheme GLA8x6 --scheme-file INI/ControlBarScheme.ini 
 
 # Update Scheme from SVG
-python overlay_generator.py --update --svg output_overlay_with_images.svg --scheme ControlBarSchemeUSA.txt
+python scheme_to_svg.py --update --svg GLA8x6_scheme_NEW.svg --scheme GLA8x6 --scheme-file INI/ControlBarScheme.ini
+
+	python scheme_to_svg.py --updatenew --svg GLA8x6_scheme.svg --scheme America8x6 --scheme-file INI/ControlBarScheme.ini	//outputs: ControlBarScheme_updated.ini
+	
+
+// WND to SVG
 
 # Generate SVG from WND
 python wnd_to_svg.py GenPowersShortcutBarUS.wnd --ini SAControlBar512.INI
 
 python wnd_to_svg.py GeneralsExpPoints.wnd
 	
-	(should default to MappedImages and Art/Textures).
+	(Defaults to MappedImages and Art/Textures).
 	
 1182 x 1293
 
@@ -60,6 +113,8 @@ python wnd_to_svg.py <file.wnd> --update --svg <file.svg>	//-updatenew outputs a
   window\menus\lanmapselectmenu.wnd
   window\menus\mapselectmenu.wnd
   window\menus\skirmishmapselectmenu.wnd
+  
+  
 	
 ---
 

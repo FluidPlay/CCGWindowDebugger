@@ -1,0 +1,66 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text { font-family: Arial, sans-serif; font-size: 10px; fill: lightgray; text-anchor: middle; dominant-baseline: middle; pointer-events: none; }
+    rect { stroke: none; pointer-events: all; }
+  </style>
+  <image href="extracted_images/InGameUIChinaBase.png" x="0" y="414" />
+  <g id="ImagePart">
+    <rect id="ImagePart_rect" x="0" y="414" width="800" height="184" fill="rgb(128,128,128)" fill-opacity="0.15" />
+    <text x="400.0" y="506.0" fill="red">ImagePart</text>
+  </g>
+  <g id="MinMax">
+    <image id="MinMax_Hightlited" href="extracted_images/SNMaxMinH.png" x="640" y="433" visibility="hidden" />
+    <image id="MinMax_Pushed" href="extracted_images/SNMaxMinP.png" x="640" y="433" visibility="hidden" />
+    <image id="MinMax_Enable" href="extracted_images/SNMaxMin.png" x="640" y="433" visibility="visible" />
+    <rect id="MinMax_rect" x="640" y="433" width="47" height="31" fill="rgb(64,224,40)" fill-opacity="0.25" />
+  </g>
+  <g id="General">
+    <image id="General_Hightlited" href="extracted_images/SNGeneralH.png" x="712" y="433" visibility="hidden" />
+    <image id="General_Pushed" href="extracted_images/SNGeneralP.png" x="712" y="433" visibility="hidden" />
+    <image id="General_Disabled" href="extracted_images/SNGeneralI.png" x="712" y="433" visibility="hidden" />
+    <image id="General_Enable" href="extracted_images/SNGeneral.png" x="712" y="433" visibility="visible" />
+    <rect id="General_rect" x="712" y="433" width="58" height="31" fill="rgb(179,189,28)" fill-opacity="0.25" />
+  </g>
+  <g id="UAttack">
+    <image id="UAttack_Hightlited" href="extracted_images/SNUAttackH.png" x="97" y="420" visibility="hidden" />
+    <image id="UAttack_Pushed" href="extracted_images/SNUAttackP.png" x="97" y="420" visibility="hidden" />
+    <image id="UAttack_Enable" href="extracted_images/SNUAttackI.png" x="97" y="420" visibility="visible" />
+    <rect id="UAttack_rect" x="97" y="420" width="35" height="17" fill="rgb(164,196,24)" fill-opacity="0.25" />
+  </g>
+  <g id="Options">
+    <image id="Options_Hightlited" href="extracted_images/SNOptionsH.png" x="184" y="490" visibility="hidden" />
+    <image id="Options_Pushed" href="extracted_images/SNOptionsP.png" x="184" y="490" visibility="hidden" />
+    <image id="Options_Disabled" href="extracted_images/SNOptionsI.png" x="184" y="490" visibility="hidden" />
+    <image id="Options_Enable" href="extracted_images/SNOptions.png" x="184" y="490" visibility="visible" />
+    <rect id="Options_rect" x="184" y="490" width="36" height="24" fill="rgb(221,114,17)" fill-opacity="0.25" />
+  </g>
+  <g id="Worker">
+    <image id="Worker_Hightlited" href="extracted_images/SNWorkerH.png" x="184" y="516" visibility="hidden" />
+    <image id="Worker_Pushed" href="extracted_images/SNWorkerP.png" x="184" y="516" visibility="hidden" />
+    <image id="Worker_Disabled" href="extracted_images/SNWorkerI.png" x="184" y="516" visibility="hidden" />
+    <image id="Worker_Enable" href="extracted_images/SNWorker.png" x="184" y="516" visibility="visible" />
+    <rect id="Worker_rect" x="184" y="516" width="36" height="24" fill="rgb(68,222,25)" fill-opacity="0.25" />
+  </g>
+  <g id="Chat">
+    <image id="Chat_Hightlited" href="extracted_images/SNChatH.png" x="184" y="568" visibility="hidden" />
+    <image id="Chat_Pushed" href="extracted_images/SNChatP.png" x="184" y="568" visibility="hidden" />
+    <image id="Chat_Disabled" href="extracted_images/SNChatI.png" x="184" y="568" visibility="hidden" />
+    <image id="Chat_Enable" href="extracted_images/SNChat.png" x="184" y="568" visibility="visible" />
+    <rect id="Chat_rect" x="184" y="568" width="36" height="24" fill="rgb(156,250,51)" fill-opacity="0.25" />
+  </g>
+  <g id="Beacon">
+    <image id="Beacon_Disabled" href="extracted_images/SNBeaconI.png" x="184" y="545" visibility="hidden" />
+    <image id="Beacon_Hightlited" href="extracted_images/SNBeaconH.png" x="184" y="545" visibility="hidden" />
+    <image id="Beacon_Pushed" href="extracted_images/SNBeaconP.png" x="184" y="545" visibility="hidden" />
+    <image id="Beacon_Enable" href="extracted_images/SNBeacon.png" x="184" y="545" visibility="visible" />
+    <rect id="Beacon_rect" x="184" y="545" width="36" height="21" fill="rgb(202,138,27)" fill-opacity="0.25" />
+  </g>
+  <g id="PowerBar">
+    <text x="399.0" y="472.0">PowerBar</text>
+    <rect id="PowerBar_rect" x="260" y="469" width="278" height="6" fill="rgb(236,202,14)" fill-opacity="0.25" />
+  </g>
+  <g id="Money">
+    <text x="399.5" y="446.5">Money</text>
+    <rect id="Money_rect" x="360" y="437" width="79" height="19" fill="rgb(206,107,14)" fill-opacity="0.25" />
+  </g>
+</svg>
