@@ -5,8 +5,30 @@
    viewBox="0 0 3840 2160"
    version="1.1"
    id="svg124"
+   sodipodi:docname="ScoreScreen_labeled.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.38984375"
+     inkscape:cx="1920"
+     inkscape:cy="1081.2024"
+     inkscape:window-width="2560"
+     inkscape:window-height="1411"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="ScoreScreen.wnd:ParentScoreScreen" />
   <defs
      id="defs124" />
   <style
@@ -21,10 +43,10 @@
        fill="#a72675"
        id="rect1" />
     <image
-       href="mainmenuruleruserinterface_cropped.png"
+       href="..%5Cmainmenuruleruserinterface_cropped.png"
        x="0"
        y="0"
-       width="3840"
+       width="2880"
        height="2160"
        id="image1" />
   </g>
@@ -139,37 +161,37 @@
        fill="#a3919d"
        id="rect12" />
     <image
-       href="extracted_images/TextEntryEnabledLeftEnd.png"
+       href="..%5Cextracted_images%5CTextEntryEnabledLeftEnd.png"
        x="68"
        y="516"
-       width="628"
+       width="11.363636"
        height="25"
        id="image12"
-       transform="matrix(4.15811 0 0 3.22991 218.881 58.199)" />
+       transform="matrix(4.15811,0,0,3.22991,218.881,58.199)" />
     <image
-       href="extracted_images/TextEntryEnabledRightEnd.png"
+       href="..%5Cextracted_images%5CTextEntryEnabledRightEnd.png"
        x="68"
        y="516"
-       width="628"
+       width="11.363636"
        height="25"
        id="image13"
-       transform="matrix(4.15811 0 0 3.22991 218.881 58.199)" />
+       transform="matrix(4.15811,0,0,3.22991,218.881,58.199)" />
     <image
-       href="extracted_images/TextEntryEnabledRepeatingCenter.png"
+       href="..%5Cextracted_images%5CTextEntryEnabledRepeatingCenter.png"
        x="68"
        y="516"
-       width="628"
+       width="22.727273"
        height="25"
        id="image14"
-       transform="matrix(4.15811 0 0 3.22991 218.881 58.199)" />
+       transform="matrix(4.15811,0,0,3.22991,218.881,58.199)" />
     <image
-       href="extracted_images/TextEntryEnabledSmallRepeatingCenter.png"
+       href="..%5Cextracted_images%5CTextEntryEnabledSmallRepeatingCenter.png"
        x="68"
        y="516"
-       width="628"
+       width="11.363636"
        height="25"
        id="image15"
-       transform="matrix(4.15811 0 0 3.22991 218.881 58.199)" />
+       transform="matrix(4.15811,0,0,3.22991,218.881,58.199)" />
   </g>
   <g
      id="ScoreScreen.wnd:ButtonEmote">
@@ -181,21 +203,21 @@
        fill="#16ac74"
        id="rect15" />
     <image
-       href="extracted_images/ReturnButton.png"
+       href="..%5Cextracted_images%5CReturnButton.png"
        x="700"
        y="516"
-       width="36"
+       width="34.909091"
        height="24"
        id="image16"
-       transform="matrix(3.29297 0 0 3.29297 1596.22 56.1178)" />
+       transform="matrix(3.29297,0,0,3.29297,1596.22,56.1178)" />
     <image
-       href="extracted_images/ReturnButtonHilitePushed.png"
+       href="..%5Cextracted_images%5CReturnButtonHilitePushed.png"
        x="700"
        y="516"
-       width="36"
+       width="34.909091"
        height="24"
        id="image17"
-       transform="matrix(3.29297 0 0 3.29297 1596.22 56.1178)" />
+       transform="matrix(3.29297,0,0,3.29297,1596.22,56.1178)" />
   </g>
   <g
      id="ScoreScreen.wnd:ListboxChatWindowScoreScreen">
@@ -207,45 +229,45 @@
        fill="#943148"
        id="rect17" />
     <image
-       href="extracted_images/BlackSquare.png"
+       href="..%5Cextracted_images%5CBlackSquare.png"
        x="69"
        y="387"
-       width="666"
+       width="121"
        height="121"
        id="image18"
-       transform="matrix(4.15811 0 0 3.22991 218.881 58.199)" />
+       transform="matrix(4.15811,0,0,3.22991,218.881,58.199)" />
     <image
-       href="extracted_images/ListBoxHiliteItemLeftEnd.png"
+       href="..%5Cextracted_images%5CListBoxHiliteItemLeftEnd.png"
        x="69"
        y="387"
-       width="666"
+       width="60.5"
        height="121"
        id="image19"
-       transform="matrix(4.15811 0 0 3.22991 218.881 58.199)" />
+       transform="matrix(4.15811,0,0,3.22991,218.881,58.199)" />
     <image
-       href="extracted_images/ListBoxHiliteItemRightEnd.png"
+       href="..%5Cextracted_images%5CListBoxHiliteItemRightEnd.png"
        x="69"
        y="387"
-       width="666"
+       width="60.5"
        height="121"
        id="image20"
-       transform="matrix(4.15811 0 0 3.22991 218.881 58.199)" />
+       transform="matrix(4.15811,0,0,3.22991,218.881,58.199)" />
     <image
-       href="extracted_images/ListBoxHiliteItemRepeatingCenter.png"
+       href="..%5Cextracted_images%5CListBoxHiliteItemRepeatingCenter.png"
        x="69"
        y="387"
-       width="666"
+       width="60.5"
        height="121"
        id="image21"
-       transform="matrix(4.15811 0 0 3.22991 218.881 58.199)" />
+       transform="matrix(4.15811,0,0,3.22991,218.881,58.199)" />
     <image
-       href="extracted_images/ListBoxHiliteItemSmallRepeatingCenter.png"
+       href="..%5Cextracted_images%5CListBoxHiliteItemSmallRepeatingCenter.png"
        x="69"
        y="387"
-       width="666"
+       width="30.25"
        height="121"
        id="image22"
-       transform="matrix(4.15811 0 0 3.22991 218.881 58.199)" />
+       transform="matrix(4.15811,0,0,3.22991,218.881,58.199)" />
   </g>
   <g
      id="ScoreScreen.wnd:ListboxWarschoolAdvice">
@@ -257,45 +279,45 @@
        fill="#daa9a5"
        id="rect22" />
     <image
-       href="extracted_images/WarSchoolWindow.png"
+       href="..%5Cextracted_images%5CWarSchoolWindow.png"
        x="728.40002"
        y="1393.2"
-       width="2397.6001"
+       width="1874.7342"
        height="435.60001"
        id="image23"
-       transform="matrix(1.15503 0 0 0.897196 -335.533 58.199)" />
+       transform="matrix(1.15503,0,0,0.897196,-335.533,58.199)" />
     <image
-       href="extracted_images/ListBoxHiliteItemLeftEnd.png"
+       href="..%5Cextracted_images%5CListBoxHiliteItemLeftEnd.png"
        x="728.40002"
        y="1393.2"
-       width="2397.6001"
+       width="217.8"
        height="435.60001"
        id="image24"
-       transform="matrix(1.15503 0 0 0.897196 -335.533 58.199)" />
+       transform="matrix(1.15503,0,0,0.897196,-335.533,58.199)" />
     <image
-       href="extracted_images/ListBoxHiliteItemRightEnd.png"
+       href="..%5Cextracted_images%5CListBoxHiliteItemRightEnd.png"
        x="728.40002"
        y="1393.2"
-       width="2397.6001"
+       width="217.8"
        height="435.60001"
        id="image25"
-       transform="matrix(1.15503 0 0 0.897196 -335.533 58.199)" />
+       transform="matrix(1.15503,0,0,0.897196,-335.533,58.199)" />
     <image
-       href="extracted_images/ListBoxHiliteItemRepeatingCenter.png"
+       href="..%5Cextracted_images%5CListBoxHiliteItemRepeatingCenter.png"
        x="728.40002"
        y="1393.2"
-       width="2397.6001"
+       width="217.8"
        height="435.60001"
        id="image26"
-       transform="matrix(1.15503 0 0 0.897196 -335.533 58.199)" />
+       transform="matrix(1.15503,0,0,0.897196,-335.533,58.199)" />
     <image
-       href="extracted_images/ListBoxHiliteItemSmallRepeatingCenter.png"
+       href="..%5Cextracted_images%5CListBoxHiliteItemSmallRepeatingCenter.png"
        x="728.40002"
        y="1393.2"
-       width="2397.6001"
+       width="108.9"
        height="435.60001"
        id="image27"
-       transform="matrix(1.15503 0 0 0.897196 -335.533 58.199)" />
+       transform="matrix(1.15503,0,0,0.897196,-335.533,58.199)" />
   </g>
   <g
      id="ScoreScreen.wnd:Line">
@@ -317,13 +339,13 @@
        fill="#982610"
        id="rect28" />
     <image
-       href="extracted_images/UnitCreated.png"
+       href="..%5Cextracted_images%5CUnitCreated.png"
        x="189"
        y="72"
        width="60"
        height="48"
        id="image28"
-       transform="matrix(3.29297 0 0 3.29297 416.666 55.9059)" />
+       transform="matrix(3.29297,0,0,3.29297,416.666,55.9059)" />
   </g>
   <g
      id="ScoreScreen.wnd:CameoUnitsLost">
@@ -335,13 +357,13 @@
        fill="#fd4b17"
        id="rect29" />
     <image
-       href="extracted_images/UnitLost.png"
+       href="..%5Cextracted_images%5CUnitLost.png"
        x="261"
        y="72"
        width="60"
        height="48"
        id="image29"
-       transform="matrix(3.29297 0 0 3.29297 509.713 55.9059)" />
+       transform="matrix(3.29297,0,0,3.29297,509.713,55.9059)" />
   </g>
   <g
      id="ScoreScreen.wnd:CameoUnitsDestroyed">
@@ -353,13 +375,13 @@
        fill="#6814d3"
        id="rect30" />
     <image
-       href="extracted_images/UnitDestroyed.png"
+       href="..%5Cextracted_images%5CUnitDestroyed.png"
        x="336"
        y="72"
        width="60"
        height="48"
        id="image30"
-       transform="matrix(3.29297 0 0 3.29297 592.881 55.9059)" />
+       transform="matrix(3.29297,0,0,3.29297,592.881,55.9059)" />
   </g>
   <g
      id="ScoreScreen.wnd:CameoBuildingCreated">
@@ -371,13 +393,13 @@
        fill="#6fa329"
        id="rect31" />
     <image
-       href="extracted_images/BuildingCreated.png"
+       href="..%5Cextracted_images%5CBuildingCreated.png"
        x="417"
        y="72"
        width="60"
        height="48"
        id="image31"
-       transform="matrix(3.29297 0 0 3.29297 656.291 55.9059)" />
+       transform="matrix(3.29297,0,0,3.29297,656.291,55.9059)" />
   </g>
   <g
      id="ScoreScreen.wnd:CameoBuildingLost">
@@ -389,13 +411,13 @@
        fill="#6eb8a1"
        id="rect32" />
     <image
-       href="extracted_images/BuildingLost.png"
+       href="..%5Cextracted_images%5CBuildingLost.png"
        x="500"
        y="72"
        width="60"
        height="48"
        id="image32"
-       transform="matrix(3.29297 0 0 3.29297 713.115 55.9059)" />
+       transform="matrix(3.29297,0,0,3.29297,713.115,55.9059)" />
   </g>
   <g
      id="ScoreScreen.wnd:CameoBuildingDestroyed">
@@ -407,13 +429,13 @@
        fill="#44ca53"
        id="rect33" />
     <image
-       href="extracted_images/BuildingDestroyed.png"
+       href="..%5Cextracted_images%5CBuildingDestroyed.png"
        x="587"
        y="72"
        width="60"
        height="48"
        id="image33"
-       transform="matrix(3.29297 0 0 3.29297 756.768 55.9059)" />
+       transform="matrix(3.29297,0,0,3.29297,756.768,55.9059)" />
   </g>
   <g
      id="ScoreScreen.wnd:CameoSuppliesCollected">
@@ -425,13 +447,13 @@
        fill="#c9e08a"
        id="rect34" />
     <image
-       href="extracted_images/SuppliesCollected.png"
+       href="..%5Cextracted_images%5CSuppliesCollected.png"
        x="675"
        y="72"
        width="60"
        height="48"
        id="image34"
-       transform="matrix(3.29297 0 0 3.29297 797.127 55.9059)" />
+       transform="matrix(3.29297,0,0,3.29297,797.127,55.9059)" />
   </g>
   <g
      id="ScoreScreen.wnd:StaticTextWarSchool">

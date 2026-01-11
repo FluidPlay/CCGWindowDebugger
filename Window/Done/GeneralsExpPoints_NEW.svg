@@ -5,8 +5,30 @@
    viewBox="0 0 3840 2160"
    version="1.1"
    id="svg34"
+   sodipodi:docname="GeneralsExpPoints_NEW.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.22317708"
+     inkscape:cx="1920"
+     inkscape:cy="1082.1004"
+     inkscape:window-width="2560"
+     inkscape:window-height="1351"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg34" />
   <defs
      id="defs34" />
   <style
@@ -21,13 +43,13 @@
        fill="#73b987"
        id="rect1" />
     <image
-       href="extracted_images/GeneralsPowerMenu_China.png"
+       href="..%5Cextracted_images%5CGeneralsPowerMenu_China.png"
        x="210"
        y="3"
-       width="394"
+       width="392.91163"
        height="431"
        id="image1"
-       transform="matrix(3 0 0 3 687 49.579)" />
+       transform="matrix(3,0,0,3,687,49.579)" />
   </g>
   <g
      id="GeneralsExpPoints.wnd:AutoLabel_1">
@@ -89,13 +111,13 @@
        fill="#ea9ab0"
        id="rect7" />
     <image
-       href="extracted_images/ExperienceBar.png"
+       href="..%5Cextracted_images%5CExperienceBar.png"
        x="322"
        y="34"
        width="167"
-       height="18"
+       height="16.193939"
        id="image7"
-       transform="matrix(3 0 0 3 687 53.579)" />
+       transform="matrix(3,0,0,3,687,53.579)" />
   </g>
   <g
      id="GeneralsExpPoints.wnd:ProgressBarExperience">
@@ -358,7 +380,8 @@
        id="rect33" />
   </g>
   <g
-     id="GeneralsExpPoints.wnd:AutoLabel_5">
+     id="GeneralsExpPoints.wnd:AutoLabel_5"
+     inkscape:label="GeneralsExpPoints.wnd:AutoLabel_5">
     <rect
        x="1380.0"
        y="1042.579"
@@ -366,5 +389,19 @@
        height="72.0"
        fill="#71bd20"
        id="rect34" />
+  </g>
+  <g
+     id="g35"
+     transform="translate(-3,281.99998)"
+     inkscape:label="GeneralsExpPoints.wnd:AutoLabel_6"
+     style="fill:#ff0000">
+    <rect
+       x="1383"
+       y="478.57901"
+       width="1050"
+       height="72"
+       fill="#1f3a28"
+       id="rect35"
+       style="fill:#ff0000" />
   </g>
 </svg>

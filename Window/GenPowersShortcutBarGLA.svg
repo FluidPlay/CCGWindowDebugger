@@ -1,0 +1,87 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    rect { stroke: none; fill-opacity: 0.25; }
+    text { font-family: Arial, sans-serif; font-size: 10px; fill: black; text-anchor: middle; dominant-baseline: middle; pointer-events: none; }
+  </style>
+  <g id="GenPowersShortcutBarGLA.wnd:GenPowersShortcutBarParent">
+    <rect x="752" y="3" width="48" height="418" fill="rgb(16,238,114)" />
+    <image href="file:///C:/Users/Breno/Documents/_Agents/CCGWindowDebugger/extracted_images/SATray.png" x="752" y="3" width="48" height="418" />
+  </g>
+  <g id="GenPowersShortcutBarGLA.wnd:ButtonParent1">
+    <rect x="752" y="380" width="48" height="41" fill="rgb(227,153,137)" />
+    <image href="file:///C:/Users/Breno/Documents/_Agents/CCGWindowDebugger/extracted_images/SUTraySmall.png" x="752" y="380" width="48" height="41" />
+  </g>
+  <g id="GenPowersShortcutBarGLA.wnd:ButtonCommand1">
+    <rect x="753" y="387" width="39" height="27" fill="rgb(114,67,67)" />
+  </g>
+  <g id="GenPowersShortcutBarGLA.wnd:ButtonParent2">
+    <rect x="752" y="345" width="48" height="41" fill="rgb(227,238,149)" />
+    <image href="file:///C:/Users/Breno/Documents/_Agents/CCGWindowDebugger/extracted_images/SUTraySmall.png" x="752" y="345" width="48" height="41" />
+  </g>
+  <g id="GenPowersShortcutBarGLA.wnd:ButtonCommand2">
+    <rect x="753" y="352" width="39" height="26" fill="rgb(170,100,218)" />
+  </g>
+  <g id="GenPowersShortcutBarGLA.wnd:ButtonParent3">
+    <rect x="752" y="310" width="48" height="41" fill="rgb(94,0,60)" />
+    <image href="file:///C:/Users/Breno/Documents/_Agents/CCGWindowDebugger/extracted_images/SUTraySmall.png" x="752" y="310" width="48" height="41" />
+  </g>
+  <g id="GenPowersShortcutBarGLA.wnd:ButtonCommand3">
+    <rect x="753" y="315" width="39" height="29" fill="rgb(59,139,110)" />
+  </g>
+  <g id="GenPowersShortcutBarGLA.wnd:ButtonParent4">
+    <rect x="752" y="275" width="48" height="41" fill="rgb(243,235,213)" />
+    <image href="file:///C:/Users/Breno/Documents/_Agents/CCGWindowDebugger/extracted_images/SUTraySmall.png" x="752" y="275" width="48" height="41" />
+  </g>
+  <g id="GenPowersShortcutBarGLA.wnd:ButtonCommand4">
+    <rect x="753" y="282" width="39" height="27" fill="rgb(243,118,7)" />
+  </g>
+  <g id="GenPowersShortcutBarGLA.wnd:ButtonParent5">
+    <rect x="752" y="240" width="48" height="41" fill="rgb(7,66,139)" />
+    <image href="file:///C:/Users/Breno/Documents/_Agents/CCGWindowDebugger/extracted_images/SUTraySmall.png" x="752" y="240" width="48" height="41" />
+  </g>
+  <g id="GenPowersShortcutBarGLA.wnd:ButtonCommand5">
+    <rect x="753" y="247" width="39" height="27" fill="rgb(9,91,69)" />
+  </g>
+  <g id="GenPowersShortcutBarGLA.wnd:ButtonParent6">
+    <rect x="752" y="205" width="48" height="41" fill="rgb(139,181,124)" />
+    <image href="file:///C:/Users/Breno/Documents/_Agents/CCGWindowDebugger/extracted_images/SUTraySmall.png" x="752" y="205" width="48" height="41" />
+  </g>
+  <g id="GenPowersShortcutBarGLA.wnd:ButtonCommand6">
+    <rect x="753" y="212" width="39" height="27" fill="rgb(139,65,196)" />
+  </g>
+  <g id="GenPowersShortcutBarGLA.wnd:ButtonParent7">
+    <rect x="752" y="170" width="48" height="41" fill="rgb(10,179,58)" />
+    <image href="file:///C:/Users/Breno/Documents/_Agents/CCGWindowDebugger/extracted_images/SUTraySmall.png" x="752" y="170" width="48" height="41" />
+  </g>
+  <g id="GenPowersShortcutBarGLA.wnd:ButtonCommand7">
+    <rect x="753" y="175" width="39" height="29" fill="rgb(137,169,220)" />
+  </g>
+  <g id="GenPowersShortcutBarGLA.wnd:ButtonParent8">
+    <rect x="752" y="135" width="48" height="41" fill="rgb(92,226,82)" />
+    <image href="file:///C:/Users/Breno/Documents/_Agents/CCGWindowDebugger/extracted_images/SUTraySmall.png" x="752" y="135" width="48" height="41" />
+  </g>
+  <g id="GenPowersShortcutBarGLA.wnd:ButtonCommand8">
+    <rect x="753" y="142" width="39" height="27" fill="rgb(1,179,212)" />
+  </g>
+  <g id="GenPowersShortcutBarGLA.wnd:ButtonParent9">
+    <rect x="752" y="100" width="48" height="41" fill="rgb(204,74,101)" />
+    <image href="file:///C:/Users/Breno/Documents/_Agents/CCGWindowDebugger/extracted_images/SUTraySmall.png" x="752" y="100" width="48" height="41" />
+  </g>
+  <g id="GenPowersShortcutBarGLA.wnd:ButtonCommand9">
+    <rect x="753" y="107" width="39" height="27" fill="rgb(221,67,0)" />
+  </g>
+  <g id="GenPowersShortcutBarGLA.wnd:ButtonParent10">
+    <rect x="752" y="65" width="48" height="41" fill="rgb(50,220,239)" />
+    <image href="file:///C:/Users/Breno/Documents/_Agents/CCGWindowDebugger/extracted_images/SUTraySmall.png" x="752" y="65" width="48" height="41" />
+  </g>
+  <g id="GenPowersShortcutBarGLA.wnd:ButtonCommand10">
+    <rect x="753" y="72" width="39" height="27" fill="rgb(66,225,226)" />
+  </g>
+  <g id="GenPowersShortcutBarGLA.wnd:ButtonParent11">
+    <rect x="752" y="30" width="48" height="41" fill="rgb(217,251,17)" />
+    <image href="file:///C:/Users/Breno/Documents/_Agents/CCGWindowDebugger/extracted_images/SUTraySmall.png" x="752" y="30" width="48" height="41" />
+  </g>
+  <g id="GenPowersShortcutBarGLA.wnd:ButtonCommand11">
+    <rect x="753" y="37" width="39" height="27" fill="rgb(177,28,166)" />
+  </g>
+</svg>

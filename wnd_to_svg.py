@@ -245,9 +245,14 @@ def parse_wnd_and_generate_svg(wnd_path, mapped_images_dir, textures_dir, output
             if img_name in mapped_images:
                 saved_path = extract_and_save_image(mapped_images[img_name], output_dir, texture_map)
                 if saved_path:
-                    # Convert to forward slashes for SVG
-                    rel_path = saved_path.replace('\\', '/')
-                    svg_lines.append(f'    <image href="{rel_path}" x="{win["x"]}" y="{win["y"]}" width="{win["width"]}" height="{win["height"]}" />')
+                    # Convert to absolute path and forward slashes for SVG
+                    abs_path = os.path.abspath(saved_path)
+                    href = abs_path.replace('\\', '/')
+                    # Use file:/// URI format as requested
+                    if not href.startswith('file:///'):
+                         href = 'file:///' + href
+                    
+                    svg_lines.append(f'    <image href="{href}" x="{win["x"]}" y="{win["y"]}" width="{win["width"]}" height="{win["height"]}" />')
             else:
                 pass 
                 # print(f"Warning: Mapped image {img_name} not found in INI.")
@@ -256,7 +261,10 @@ def parse_wnd_and_generate_svg(wnd_path, mapped_images_dir, textures_dir, output
 
     svg_lines.append('</svg>')
     
-    output_filename = os.path.splitext(os.path.basename(wnd_path))[0] + ".svg"
+    # Create output filename in the same directory as the WND file
+    wnd_dir = os.path.dirname(os.path.abspath(wnd_path))
+    output_filename = os.path.join(wnd_dir, os.path.splitext(os.path.basename(wnd_path))[0] + ".svg")
+    
     with open(output_filename, 'w') as f:
         f.write('\n'.join(svg_lines))
         

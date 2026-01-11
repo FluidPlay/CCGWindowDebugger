@@ -5,110 +5,142 @@
    viewBox="0 0 3840 2160"
    version="1.1"
    id="svg63"
+   sodipodi:docname="MainMenu.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.38984375"
+     inkscape:cx="1920"
+     inkscape:cy="1081.2024"
+     inkscape:window-width="2560"
+     inkscape:window-height="1411"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg63" />
   <defs
      id="defs63" />
   <style
      id="style1">&#10;    rect { stroke: none; fill-opacity: 0.25; }&#10;    text { font-family: Arial, sans-serif; font-size: 10px; fill: black; text-anchor: middle; dominant-baseline: middle; pointer-events: none; }&#10;  </style>
   <g
-     id="MainMenu.wnd:MainMenuParent">
+     id="MainMenu.wnd:MainMenuParent"
+     style="display:none"
+     sodipodi:insensitive="true">
     <rect
-       x="0.0"
-       y="0.0"
-       width="3840.0"
-       height="2160.0"
+       x="0"
+       y="0"
+       width="3840"
+       height="2160"
        fill="#f6101d"
        id="rect1" />
     <image
-       href="extracted_images/MainMenuBackdrop.png"
+       href="..%5Cextracted_images%5CMainMenuBackdrop.png"
        x="0"
        y="0"
        width="800"
-       height="600"
+       height="599.74969"
        id="image1"
-       transform="scale(4.8, 3.6)" />
+       transform="scale(4.8,3.6)" />
   </g>
   <g
-     id="MainMenu.wnd:MainMenuRuler">
+     id="MainMenu.wnd:MainMenuRuler"
+     style="display:none"
+     sodipodi:insensitive="true">
     <rect
-       x="0.0"
-       y="0.0"
-       width="3840.0"
-       height="2160.0"
+       x="0"
+       y="0"
+       width="3840"
+       height="2160"
        fill="#3af307"
        id="rect2" />
     <image
-       href="extracted_images/MainMenuRuler.png"
+       href="..%5Cextracted_images%5CMainMenuRuler.png"
        x="0"
        y="0"
        width="800"
        height="600"
        id="image2"
-       transform="scale(4.8, 3.6)" />
+       transform="scale(4.8,3.6)" />
   </g>
   <g
-     id="MainMenu.wnd:MapBorder4">
+     id="MainMenu.wnd:MapBorder4"
+     transform="translate(0,42)">
     <rect
-       x="2758.0840399999997"
-       y="371.35716"
-       width="734.71328"
+       x="2758.084"
+       y="371.35715"
+       width="734.71326"
        height="695.35364"
        fill="#9cb409"
        id="rect3" />
   </g>
   <g
-     id="MainMenu.wnd:EarthMap4">
+     id="MainMenu.wnd:EarthMap4"
+     transform="translate(0,42)">
     <rect
-       x="2758.0840399999997"
-       y="371.35716"
-       width="734.71328"
+       x="2758.084"
+       y="371.35715"
+       width="734.71326"
        height="695.35364"
        fill="#91783f"
        id="rect4" />
     <image
-       href="extracted_images/BlackSquare.png"
+       href="..%5Cextracted_images%5CBlackSquare.png"
        x="532"
        y="108"
-       width="224"
+       width="212"
        height="212"
        id="image4"
-       transform="matrix(3.27997 0 0 3.27997 1013.14 17.1204)" />
+       transform="matrix(3.27997,0,0,3.27997,1013.14,17.1204)" />
   </g>
   <g
-     id="MainMenu.wnd:ButtonDiffBack">
+     id="MainMenu.wnd:ButtonDiffBack"
+     transform="translate(0,42)">
     <rect
-       x="2784.3237999999997"
-       y="922.3921200000001"
+       x="2784.3237"
+       y="922.39209"
        width="682.23376"
        height="118.07892"
        fill="#d435e7"
        id="rect5" />
   </g>
   <g
-     id="MainMenu.wnd:ButtonHard">
+     id="MainMenu.wnd:ButtonHard"
+     transform="translate(0,42)">
     <rect
-       x="2784.3237999999997"
-       y="791.1933200000001"
+       x="2784.3237"
+       y="791.1933"
        width="682.23376"
        height="118.07892"
        fill="#0c9a89"
        id="rect6" />
   </g>
   <g
-     id="MainMenu.wnd:ButtonMedium">
+     id="MainMenu.wnd:ButtonMedium"
+     transform="translate(0,42)">
     <rect
-       x="2784.3237999999997"
-       y="659.99452"
+       x="2784.3237"
+       y="659.99451"
        width="682.23376"
        height="114.79895"
        fill="#542834"
        id="rect7" />
   </g>
   <g
-     id="MainMenu.wnd:ButtonEasy">
+     id="MainMenu.wnd:ButtonEasy"
+     transform="translate(0,42)">
     <rect
-       x="2784.3237999999997"
+       x="2784.3237"
        y="528.79572"
        width="682.23376"
        height="114.79895"
@@ -116,57 +148,62 @@
        id="rect8" />
   </g>
   <g
-     id="MainMenu.wnd:StaticTextSelectDifficulty">
+     id="MainMenu.wnd:StaticTextSelectDifficulty"
+     transform="translate(0,42)">
     <rect
-       x="2784.3238"
+       x="2784.3237"
        y="397.59692"
-       width="708.47352"
+       width="708.47351"
        height="118.07892"
        fill="#e656bc"
        id="rect9" />
   </g>
   <g
-     id="MainMenu.wnd:MapBorder1">
+     id="MainMenu.wnd:MapBorder1"
+     transform="translate(0,42)">
     <rect
-       x="2758.0840399999997"
-       y="371.35716"
-       width="734.71328"
-       height="432.95604000000003"
+       x="2758.084"
+       y="371.35715"
+       width="734.71326"
+       height="432.95605"
        fill="#52eddc"
        id="rect10" />
   </g>
   <g
-     id="MainMenu.wnd:EarthMap1">
+     id="MainMenu.wnd:EarthMap1"
+     transform="translate(0,42)">
     <rect
-       x="2758.0840399999997"
-       y="371.35715999999996"
-       width="734.71328"
-       height="409.99625000000003"
+       x="2758.084"
+       y="371.35715"
+       width="734.71326"
+       height="409.99625"
        fill="#b95e8d"
        id="rect11" />
     <image
-       href="extracted_images/BlackSquare.png"
+       href="..%5Cextracted_images%5CBlackSquare.png"
        x="532"
        y="108"
-       width="224"
+       width="125"
        height="125"
        id="image11"
-       transform="matrix(3.27997 0 0 3.27997 1013.14 17.1204)" />
+       transform="matrix(3.27997,0,0,3.27997,1013.14,17.1204)" />
   </g>
   <g
-     id="MainMenu.wnd:ButtonMultiBack">
+     id="MainMenu.wnd:ButtonMultiBack"
+     transform="translate(0,42)">
     <rect
-       x="2784.3237999999997"
-       y="659.9945200000001"
+       x="2784.3237"
+       y="659.99451"
        width="682.23376"
        height="118.07892"
        fill="#5d9fca"
        id="rect12" />
   </g>
   <g
-     id="MainMenu.wnd:ButtonNetwork">
+     id="MainMenu.wnd:ButtonNetwork"
+     transform="translate(0,42)">
     <rect
-       x="2784.3237999999997"
+       x="2784.3237"
        y="528.79572"
        width="682.23376"
        height="114.79895"
@@ -174,9 +211,10 @@
        id="rect13" />
   </g>
   <g
-     id="MainMenu.wnd:ButtonOnline">
+     id="MainMenu.wnd:ButtonOnline"
+     transform="translate(0,42)">
     <rect
-       x="2784.3237999999997"
+       x="2784.3237"
        y="397.59692"
        width="682.23376"
        height="114.79895"
@@ -184,47 +222,51 @@
        id="rect14" />
   </g>
   <g
-     id="MainMenu.wnd:MapBorder3">
+     id="MainMenu.wnd:MapBorder3"
+     transform="translate(0,42)">
     <rect
-       x="2758.0840399999997"
-       y="371.35716"
-       width="734.71328"
-       height="432.95604000000003"
+       x="2758.084"
+       y="371.35715"
+       width="734.71326"
+       height="432.95605"
        fill="#0c4b32"
        id="rect15" />
   </g>
   <g
-     id="MainMenu.wnd:EarthMap3">
+     id="MainMenu.wnd:EarthMap3"
+     transform="translate(0,42)">
     <rect
-       x="2758.0840399999997"
-       y="371.3571600000001"
-       width="734.71328"
+       x="2758.084"
+       y="371.35715"
+       width="734.71326"
        height="406.71628"
        fill="#d140c5"
        id="rect16" />
     <image
-       href="extracted_images/BlackSquare.png"
+       href="..%5Cextracted_images%5CBlackSquare.png"
        x="532"
        y="108"
-       width="224"
+       width="124"
        height="124"
        id="image16"
-       transform="matrix(3.27997 0 0 3.27997 1013.14 17.1204)" />
+       transform="matrix(3.27997,0,0,3.27997,1013.14,17.1204)" />
   </g>
   <g
-     id="MainMenu.wnd:ButtonLoadReplayBack">
+     id="MainMenu.wnd:ButtonLoadReplayBack"
+     transform="translate(0,42)">
     <rect
-       x="2784.3237999999997"
-       y="659.9945200000001"
+       x="2784.3237"
+       y="659.99451"
        width="682.23376"
        height="118.07892"
        fill="#f6cba3"
        id="rect17" />
   </g>
   <g
-     id="MainMenu.wnd:ButtonReplay">
+     id="MainMenu.wnd:ButtonReplay"
+     transform="translate(0,42)">
     <rect
-       x="2784.3237999999997"
+       x="2784.3237"
        y="528.79572"
        width="682.23376"
        height="114.79895"
@@ -232,9 +274,10 @@
        id="rect18" />
   </g>
   <g
-     id="MainMenu.wnd:ButtonLoadGame">
+     id="MainMenu.wnd:ButtonLoadGame"
+     transform="translate(0,42)">
     <rect
-       x="2784.3237999999997"
+       x="2784.3237"
        y="397.59692"
        width="682.23376"
        height="114.79895"
@@ -242,77 +285,84 @@
        id="rect19" />
   </g>
   <g
-     id="MainMenu.wnd:MapBorder">
+     id="MainMenu.wnd:MapBorder"
+     transform="translate(0,42)">
     <rect
-       x="2758.0840399999997"
-       y="371.35715999999996"
-       width="734.71328"
-       height="826.55244"
+       x="2758.084"
+       y="371.35715"
+       width="734.71326"
+       height="826.55243"
        fill="#9b74c8"
        id="rect20" />
   </g>
   <g
-     id="MainMenu.wnd:EarthMap">
+     id="MainMenu.wnd:EarthMap"
+     transform="translate(0,42)">
     <rect
-       x="2758.0840399999997"
-       y="371.35716"
-       width="734.71328"
+       x="2758.084"
+       y="371.35715"
+       width="734.71326"
        height="800.31268"
        fill="#0fd0fa"
        id="rect21" />
     <image
-       href="extracted_images/BlackSquare.png"
+       href="..%5Cextracted_images%5CBlackSquare.png"
        x="532"
        y="108"
        width="224"
-       height="244"
+       height="224"
        id="image21"
-       transform="matrix(3.27997 0 0 3.27997 1013.14 17.1204)" />
+       transform="matrix(3.27997,0,0,3.27997,1013.14,17.1204)" />
   </g>
   <g
-     id="MainMenu.wnd:ButtonSingleBack">
+     id="MainMenu.wnd:ButtonSingleBack"
+     transform="translate(0,42)">
     <rect
-       x="2784.3237999999997"
-       y="1053.59092"
+       x="2784.3237"
+       y="1053.5909"
        width="682.23376"
        height="114.79895"
        fill="#9c5542"
        id="rect22" />
   </g>
   <g
-     id="MainMenu.wnd:ButtonSkirmish">
+     id="MainMenu.wnd:ButtonSkirmish"
+     transform="translate(0,42)">
     <rect
-       x="2784.3237999999997"
-       y="922.3921200000001"
+       x="2784.3237"
+       y="922.39209"
        width="682.23376"
        height="118.07892"
        fill="#e46b64"
        id="rect23" />
   </g>
   <g
-     id="MainMenu.wnd:ButtonChina">
+     id="MainMenu.wnd:ButtonChina"
+     transform="translate(0,42)">
     <rect
-       x="2784.3237999999997"
-       y="659.99452"
+       x="2784.3237"
+       y="659.99451"
        width="682.23376"
        height="114.79895"
        fill="#7a27df"
        id="rect24" />
   </g>
   <g
-     id="MainMenu.wnd:ButtonGLA">
+     id="MainMenu.wnd:ButtonGLA"
+     transform="translate(0,42)">
     <rect
-       x="2784.3237999999997"
-       y="528.7957200000001"
+       x="2784.3237"
+       y="528.79572"
        width="682.23376"
        height="118.07892"
        fill="#b6fd51"
        id="rect25" />
   </g>
   <g
-     id="MainMenu.wnd:ButtonUSA">
+     id="MainMenu.wnd:ButtonUSA"
+     transform="translate(0,42)">
     <rect
-       x="2784.3237999999997"
+       x="2784.3237"
        y="397.59692"
        width="682.23376"
        height="118.07892"
@@ -320,10 +370,11 @@
        id="rect26" />
   </g>
   <g
-     id="MainMenu.wnd:ButtonChallenge">
+     id="MainMenu.wnd:ButtonChallenge"
+     transform="translate(0,42)">
     <rect
-       x="2784.3237999999997"
-       y="791.1933200000001"
+       x="2784.3237"
+       y="791.1933"
        width="682.23376"
        height="118.07892"
        fill="#ac5ed5"
@@ -340,87 +391,95 @@
        id="rect28" />
   </g>
   <g
-     id="MainMenu.wnd:MapBorder2">
+     id="MainMenu.wnd:MapBorder2"
+     transform="translate(0,42)">
     <rect
-       x="2758.0840399999997"
-       y="371.35715999999996"
-       width="734.71328"
-       height="826.55244"
+       x="2758.084"
+       y="371.35715"
+       width="734.71326"
+       height="826.55243"
        fill="#7f82be"
        id="rect29" />
   </g>
   <g
-     id="MainMenu.wnd:EarthMap2">
+     id="MainMenu.wnd:EarthMap2"
+     transform="translate(0,42)">
     <rect
-       x="2758.0840399999997"
-       y="371.35716"
-       width="734.71328"
+       x="2758.084"
+       y="371.35715"
+       width="734.71326"
        height="800.31268"
        fill="#3fc7ba"
        id="rect30" />
     <image
-       href="extracted_images/BlackSquare.png"
+       href="..%5Cextracted_images%5CBlackSquare.png"
        x="532"
        y="108"
        width="224"
-       height="244"
+       height="224"
        id="image30"
-       transform="matrix(3.27997 0 0 3.27997 1013.14 17.1204)" />
+       transform="matrix(3.27997,0,0,3.27997,1013.14,17.1204)" />
   </g>
   <g
-     id="MainMenu.wnd:ButtonExit">
+     id="MainMenu.wnd:ButtonExit"
+     transform="translate(0,42)">
     <rect
-       x="2784.3237999999997"
-       y="1053.59092"
+       x="2784.3237"
+       y="1053.5909"
        width="682.23376"
        height="118.07892"
        fill="#5750c5"
        id="rect31" />
   </g>
   <g
-     id="MainMenu.wnd:ButtonCredits">
+     id="MainMenu.wnd:ButtonCredits"
+     transform="translate(0,42)">
     <rect
-       x="2784.3237999999997"
-       y="922.3921200000001"
+       x="2784.3237"
+       y="922.39209"
        width="682.23376"
        height="118.07892"
        fill="#7ce490"
        id="rect32" />
   </g>
   <g
-     id="MainMenu.wnd:ButtonOptions">
+     id="MainMenu.wnd:ButtonOptions"
+     transform="translate(0,42)">
     <rect
-       x="2784.3237999999997"
-       y="791.1933200000001"
+       x="2784.3237"
+       y="791.1933"
        width="682.23376"
        height="118.07892"
        fill="#cd19e5"
        id="rect33" />
   </g>
   <g
-     id="MainMenu.wnd:ButtonLoadReplay">
+     id="MainMenu.wnd:ButtonLoadReplay"
+     transform="translate(0,42)">
     <rect
-       x="2784.3237999999997"
-       y="659.99452"
+       x="2784.3237"
+       y="659.99451"
        width="682.23376"
        height="114.79895"
        fill="#fd6974"
        id="rect34" />
   </g>
   <g
-     id="MainMenu.wnd:ButtonMultiplayer">
+     id="MainMenu.wnd:ButtonMultiplayer"
+     transform="translate(0,42)">
     <rect
-       x="2784.3237999999997"
-       y="528.7957200000001"
+       x="2784.3237"
+       y="528.79572"
        width="682.23376"
        height="118.07892"
        fill="#39b2f1"
        id="rect35" />
   </g>
   <g
-     id="MainMenu.wnd:ButtonSinglePlayer">
+     id="MainMenu.wnd:ButtonSinglePlayer"
+     transform="translate(0,42)">
     <rect
-       x="2784.3237999999997"
+       x="2784.3237"
        y="397.59692"
        width="682.23376"
        height="118.07892"
@@ -437,13 +496,13 @@
        fill="#ff6311"
        id="rect37" />
     <image
-       href="extracted_images/GreenDot.png"
+       href="..%5Cextracted_images%5CGreenDot.png"
        x="34"
        y="517"
        width="13"
        height="13"
        id="image37"
-       transform="matrix(3.77802 0 0 3.77802 101.099 -96.6659)" />
+       transform="matrix(3.77802,0,0,3.77802,101.099,-96.6659)" />
   </g>
   <g
      id="MainMenu.wnd:Clock">
@@ -456,12 +515,13 @@
        id="rect38" />
   </g>
   <g
-     id="MainMenu.wnd:ButtonUSARecentSave">
+     id="MainMenu.wnd:ButtonUSARecentSave"
+     transform="translate(0,42)">
     <rect
-       x="2456.3268000000003"
-       y="358.23728"
-       width="301.75724"
-       height="78.71928"
+       x="2456.3269"
+       y="358.23727"
+       width="301.75723"
+       height="78.719276"
        fill="#70b04e"
        id="rect39" />
   </g>
@@ -495,13 +555,13 @@
        fill="#6ed058"
        id="rect42" />
     <image
-       href="extracted_images/Training144.png"
+       href="..%5Cextracted_images%5CTraining144.png"
        x="472"
        y="399"
        width="144"
-       height="144"
+       height="129.80282"
        id="image42"
-       transform="matrix(3.77802 0 0 3.77802 555.802 -96.6659)" />
+       transform="matrix(3.77802,0,0,3.77802,555.802,-96.6659)" />
   </g>
   <g
      id="MainMenu.wnd:WinFactionTraining">
@@ -513,13 +573,13 @@
        fill="#5d1e0d"
        id="rect43" />
     <image
-       href="extracted_images/Training96.png"
+       href="..%5Cextracted_images%5CTraining96.png"
        x="497"
        y="423"
        width="96"
-       height="96"
+       height="86.709677"
        id="image43"
-       transform="matrix(3.77802 0 0 3.77802 555.802 -96.6659)" />
+       transform="matrix(3.77802,0,0,3.77802,555.802,-96.6659)" />
   </g>
   <g
      id="MainMenu.wnd:WinFactionSkirmishSmall">
@@ -541,13 +601,13 @@
        fill="#05ab58"
        id="rect45" />
     <image
-       href="extracted_images/Skirmish144.png"
+       href="..%5Cextracted_images%5CSkirmish144.png"
        x="616"
        y="399"
        width="144"
        height="144"
        id="image45"
-       transform="matrix(3.77802 0 0 3.77802 704.703 -96.6659)" />
+       transform="matrix(3.77802,0,0,3.77802,704.703,-96.6659)" />
   </g>
   <g
      id="MainMenu.wnd:WinFactionSkirmish">
@@ -559,13 +619,13 @@
        fill="#d39216"
        id="rect46" />
     <image
-       href="extracted_images/Skirmish96.png"
+       href="..%5Cextracted_images%5CSkirmish96.png"
        x="640"
        y="423"
        width="96"
        height="96"
        id="image46"
-       transform="matrix(3.77802 0 0 3.77802 704.703 -96.6659)" />
+       transform="matrix(3.77802,0,0,3.77802,704.703,-96.6659)" />
   </g>
   <g
      id="MainMenu.wnd:WinFactionUSSmall">
@@ -587,13 +647,13 @@
        fill="#a14fbc"
        id="rect48" />
     <image
-       href="extracted_images/SAFactionLogo144_US.png"
+       href="..%5Cextracted_images%5CSAFactionLogo144_US.png"
        x="43"
        y="399"
        width="144"
        height="144"
        id="image48"
-       transform="matrix(3.77802 0 0 3.77802 101.099 -96.6659)" />
+       transform="matrix(3.77802,0,0,3.77802,101.099,-96.6659)" />
   </g>
   <g
      id="MainMenu.wnd:WinFactionUS">
@@ -605,13 +665,13 @@
        fill="#89728d"
        id="rect49" />
     <image
-       href="extracted_images/SAFactionLogo96_US.png"
+       href="..%5Cextracted_images%5CSAFactionLogo96_US.png"
        x="67"
        y="423"
        width="96"
        height="96"
        id="image49"
-       transform="matrix(3.77802 0 0 3.77802 101.099 -96.6659)" />
+       transform="matrix(3.77802,0,0,3.77802,101.099,-96.6659)" />
   </g>
   <g
      id="MainMenu.wnd:WinFactionGLASmall">
@@ -633,13 +693,13 @@
        fill="#127836"
        id="rect51" />
     <image
-       href="extracted_images/SUFactionLogo144_GLA.png"
+       href="..%5Cextracted_images%5CSUFactionLogo144_GLA.png"
        x="187"
        y="399"
        width="144"
        height="144"
        id="image51"
-       transform="matrix(3.77802 0 0 3.77802 238 -96.6659)" />
+       transform="matrix(3.77802,0,0,3.77802,238,-96.6659)" />
   </g>
   <g
      id="MainMenu.wnd:WinFactionGLA">
@@ -651,13 +711,13 @@
        fill="#43a20a"
        id="rect52" />
     <image
-       href="extracted_images/SUFactionLogo96_GLA.png"
+       href="..%5Cextracted_images%5CSUFactionLogo96_GLA.png"
        x="211"
        y="423"
        width="96"
        height="96"
        id="image52"
-       transform="matrix(3.77802 0 0 3.77802 238 -96.6659)" />
+       transform="matrix(3.77802,0,0,3.77802,238,-96.6659)" />
   </g>
   <g
      id="MainMenu.wnd:WinFactionChinaSmall">
@@ -679,13 +739,13 @@
        fill="#b2af8a"
        id="rect54" />
     <image
-       href="extracted_images/SNFactionLogo144_China.png"
+       href="..%5Cextracted_images%5CSNFactionLogo144_China.png"
        x="328"
        y="399"
        width="144"
-       height="144"
+       height="137"
        id="image54"
-       transform="matrix(3.77802 0 0 3.77802 385.912 -96.6659)" />
+       transform="matrix(3.77802,0,0,3.77802,385.912,-96.6659)" />
   </g>
   <g
      id="MainMenu.wnd:WinFactionChina">
@@ -697,61 +757,66 @@
        fill="#5efc60"
        id="rect55" />
     <image
-       href="extracted_images/SNFactionLogo96_China.png"
+       href="..%5Cextracted_images%5CSNFactionLogo96_China.png"
        x="352"
        y="423"
        width="96"
        height="96"
        id="image55"
-       transform="matrix(3.77802 0 0 3.77802 385.912 -96.6659)" />
+       transform="matrix(3.77802,0,0,3.77802,385.912,-96.6659)" />
   </g>
   <g
-     id="MainMenu.wnd:ButtonUSALoadGame">
+     id="MainMenu.wnd:ButtonUSALoadGame"
+     transform="translate(0,42)">
     <rect
-       x="2456.3268000000003"
-       y="450.07644"
-       width="301.75724"
-       height="78.71928"
+       x="2456.3269"
+       y="450.07645"
+       width="301.75723"
+       height="78.719276"
        fill="#327672"
        id="rect56" />
   </g>
   <g
-     id="MainMenu.wnd:ButtonGLARecentSave">
+     id="MainMenu.wnd:ButtonGLARecentSave"
+     transform="translate(0,42)">
     <rect
-       x="2456.3268000000003"
-       y="476.3162"
-       width="301.75724"
-       height="78.71928"
+       x="2456.3269"
+       y="476.31619"
+       width="301.75723"
+       height="78.719276"
        fill="#a52b14"
        id="rect57" />
   </g>
   <g
-     id="MainMenu.wnd:ButtonGLALoadGame">
+     id="MainMenu.wnd:ButtonGLALoadGame"
+     transform="translate(0,42)">
     <rect
-       x="2456.3268000000003"
-       y="568.15536"
-       width="301.75724"
-       height="78.71928"
+       x="2456.3269"
+       y="568.15533"
+       width="301.75723"
+       height="78.719276"
        fill="#10c4fe"
        id="rect58" />
   </g>
   <g
-     id="MainMenu.wnd:ButtonChinaRecentSave">
+     id="MainMenu.wnd:ButtonChinaRecentSave"
+     transform="translate(0,42)">
     <rect
-       x="2456.3268000000003"
-       y="607.515"
-       width="301.75724"
-       height="78.71928"
+       x="2456.3269"
+       y="607.51501"
+       width="301.75723"
+       height="78.719276"
        fill="#fa9911"
        id="rect59" />
   </g>
   <g
-     id="MainMenu.wnd:ButtonChinaLoadGame">
+     id="MainMenu.wnd:ButtonChinaLoadGame"
+     transform="translate(0,42)">
     <rect
-       x="2456.3268000000003"
-       y="699.35416"
-       width="301.75724"
-       height="78.71928"
+       x="2456.3269"
+       y="699.35419"
+       width="301.75723"
+       height="78.719276"
        fill="#314fab"
        id="rect60" />
   </g>
@@ -785,12 +850,12 @@
        fill="#4f740a"
        id="rect63" />
     <image
-       href="extracted_images/GeneralsLogo.png"
+       href="..%5Cextracted_images%5CGeneralsLogo.png"
        x="504"
        y="16"
-       width="287"
+       width="289.83333"
        height="94"
        id="image63"
-       transform="matrix(3.27997 0 0 3.27997 1013.14 17.1204)" />
+       transform="matrix(3.27997,0,0,3.27997,1013.14,17.1204)" />
   </g>
 </svg>
