@@ -1,9 +1,9 @@
 {
-    "wnd_file": "C:\\Users\\Breno\\Documents\\_Agents\\CCGWindowDebugger\\Window\\GenPowersShortcutBarGLA.wnd",
+    "wnd_file": "C:\\Users\\Breno\\Documents\\_Agents\\CCGWindowDebugger\\Window\\Menus\\Defeat.wnd",
     "mapped_images_dir": "C:\\Users\\Breno\\Documents\\_Agents\\CCGWindowDebugger\\MappedImages",
     "textures_dir": "C:\\Users\\Breno\\Documents\\_Agents\\CCGWindowDebugger\\Art\\Textures",
     "output_dir": "C:\\Users\\Breno\\Documents\\_Agents\\CCGWindowDebugger\\extracted_images",
-    "svg_file": "C:\\Users\\Breno\\Documents\\_Agents\\CCGWindowDebugger\\Window\\Menus\\ScoreScreen_labeled.svg",
+    "svg_file": "C:\\Users\\Breno\\Documents\\_Agents\\CCGWindowDebugger\\Window\\Menus\\Defeat.svg",
     "output_wnd": "",
     "update_new": false
 }

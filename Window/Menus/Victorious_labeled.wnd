@@ -9,7 +9,7 @@ WINDOW
   SCREENRECT = UPPERLEFT: 1011 487,
                BOTTOMRIGHT: 2829 1162,
                CREATIONRESOLUTION: 3840 2160;
-  NAME = "Victorious.wnd:";
+  NAME = "Victorious.wnd:AutoLabel_1";
   STATUS = ENABLED;
   STYLE = USER;
   SYSTEMCALLBACK = "[None]";

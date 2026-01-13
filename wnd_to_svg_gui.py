@@ -100,6 +100,12 @@ class WndToSvgApp:
         filename = filedialog.askopenfilename(initialdir=initial_dir, filetypes=[("WND Files", "*.wnd"), ("All Files", "*.*")])
         if filename:
             self.wnd_file_var.set(os.path.normpath(filename))
+            
+            # Auto-update SVG path to match WND
+            base = os.path.splitext(filename)[0]
+            svg_path = base + ".svg"
+            self.svg_file_var.set(os.path.normpath(svg_path))
+            
             self.save_config()
 
     def browse_svg(self):

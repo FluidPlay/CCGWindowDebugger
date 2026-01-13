@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="3840"
+   height="2160"
+   viewBox="0 0 3840 2160"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="Defeat.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="1876.6614"
+     inkscape:cy="796.20223"
+     inkscape:window-width="2560"
+     inkscape:window-height="1411"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs2" />
+  <style
+     id="style1">&#10;    rect { stroke: none; fill-opacity: 0.25; }&#10;    text { font-family: Arial, sans-serif; font-size: 10px; fill: black; text-anchor: middle; dominant-baseline: middle; pointer-events: none; }&#10;  </style>
+  <g
+     id="Defeat.wnd:Defeat">
+    <rect
+       x="1014.0"
+       y="487.0"
+       width="1812.0"
+       height="660.0"
+       fill="#290c1e"
+       id="rect1" />
+  </g>
+  <g
+     id="Defeat.wnd:DefeatImage">
+    <rect
+       x="1023.0"
+       y="496.0"
+       width="1794.0"
+       height="642.0"
+       fill="#aee7f6"
+       id="rect2" />
+  </g>
+</svg>
